@@ -1,0 +1,23 @@
+name: "my-website"
+title: "Jean-Pierre Gattuso"
+theme: theme.css
+google_analytics: "G-FG6L3SH247"
+description: |
+  Jean-Pierre Gattuso
+output_dir: "."
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html    
+    - text: "Publications"
+      href: publications.html
+    - text: "CV"
+      href: cv.html
+    - image: images/CNRSfilaire-grand.jpg
+      href: https://cnrs.fr/en
+    - image: images/SU.png
+      href: https://www.sorbonne-universite.fr/en
+search: true
+output: distill::distill_article

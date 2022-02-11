@@ -1,0 +1,867 @@
+---
+title: "Publications"
+description: ""
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### See also:
++  <a href="http://scholar.google.fr/citations?hl=en&amp;user=4jJbnJcAAAAJ" target="_blank">Google scholar</a>
++  <a href="https://www.researchgate.net/profile/Jean-Pierre_Gattuso/?ev=hdr_xprf" target="_blank">ResearchGate</a>
+
+<a name="top"></a>
+| <a href="#In_revision">In revision</a> | <a href="#In_press">In press</a> |    <a href="#2022">2022</a>  | <a href="#2021">2021</a>  |  <a href="#2020">2020</a> | <a href="#2019">2019</a> | <a href="#2018">2018</a> | <a href="#2017">2017</a> | <a href="#2016">2016</a> | <a href="#2015">2015</a> | <a href="#2014">2014</a> | <a href="#2013">2013</a> | <a href="#2012">2012</a> | <a href="#2011">2011</a> | <a href="#2010">2010</a> | <a href="#2009">2009</a> | <a href="#2008">2008</a> | <a href="#2007">2007</a> | <a href="#2006">2006</a> | <a href="#2005">2005</a> | <a href="#2004">2004</a> | <a href="#2003">2003</a> | <a href="#2002">2002</a> | <a href="#2001">2001</a> | <a href="#2000">2000</a> | <a href="#1999">1999</a> | <a href="#1998">1998</a> | <a href="#1997">1997</a> | <a href="#1996">1996</a> | <a href="#1995">1995</a> | <a href="#1994">1994</a> | <a href="#1993">1993</a> | <a href="#1991">1991</a> | <a href="#1990">1990</a> | <a href="#1989">1989</a> | <a href="#1988">1988</a> | <a href="#1987">1987</a> | <a href="#1985">1985</a> | <a href="#1984">1985</a> |  
+
+### <a name="Submitted">Submitted</a>
+
+<!-- Albright R., Hansson L., Cooley S., Gattuso J.-P., Marshall P., Marshal N., Fletcher S., Haraldsson G. & Hoegh-Guldberg O., Jan. 2022. Are we ready for ocean acidification? A framework for assessing and advancing policy readiness. <i>Nature Climate Change</i>.  -->
+
+Garrabou J., Gómez-Gras D., Medrano A., Cerrano C., Ponti M., Schlegel R., Bensoussan N., Turicchia E., Sini M., Gerovasileiou V., Teixido N., Mirasole A., Tamburello L., Cebrian E., Rilov G., Ledoux J. B., Ben Souissi J., Khamassi F., Ghanem R., Benabdi M., Grimes S., Ocaña O., Bazairi H., Hereu B., Linares C., Kersting D. K., Rovira G., Ortega J., Casals D., Pagès-Escolà M., Margarit N., Capdevila P., Verdura J., Ramos A., Izquierdo A., Barbera C., Rubio-Portillo E., Anton I., López-Sendino P., Díaz D., Vázquez-Luis M., Duarte C., Marbà N., Aspillaga E., Espinosa F., Grech D., Guala I., Azzurro E., Farina S., Gambi M. C., Chimienti G., Montefalcone M., Azzola A., Pulido M., T, Fraschetti S., Ceccherelli G., Kipson S., Bakran-Petricioli T., Petricioli D., Jimenez C., Katsanevakis S., Tuney K., I, Kizilkaya Z., Sartoretto S., Rouanet E., Ruitton S., Comeau S., Gattuso J.-P. & Harmelin J. G., Feb. 2022 Marine heatwaves drive recurrent mass mortalities in the Mediterranean Sea. <i>Nature Ecology and Evolution</i>.
+
+Williamson P. & Gattuso J.-P., Jan. 2022. Negative emissions from coastal blue carbon ecosystems: uncertain, unreliable and unlikely to be climatically cost-effective. <i>Frontiers in Climate</i>. 
+
+### <a name="In revision">In revision</a>
+
+Duarte C. M., Gattuso J.-P., Hancke K., Gundersen H., Filbee-Dexter K., Pedersen M. F., Middelburg J. J., Burrows M. T., Krumhansl K. A., Wernberg T., Moore P., Pessarrodona A., Bachmann Ørberg S., Pinto I. S., Assis J., Queirós A. M., Smale D. A., Bekkby T., Serrão E. A. & Krause-Jensen D., Dec. 2021. Global estimates of the extent and production of macroalgal forests. <i>Global Ecology and Biogeography</i>.
+
+Fourrier M., Coppola L., d’Ortenzio F., Migon C. & Gattuso J.-P., Oct. 2021. Impact of intermittent convection in the northwestern Mediterranean Sea on oxygen content, nutrients and the carbonate system. <i>Journal of Geophysical Research- Oceans</i>.
+
+Kapsenberg L., Bitter M. C., Miglioli A., Pelejero C., Gattuso J.-P. & Dumollard R., Jan. 2022 Molecular basis of ocean acidification sensitivity and adaptation in <i>Mytilus galloprovincialis</i>. <i>iScience</i>.
+
+Pessarrodona A., Assis J., Filbee-Dexter K., Gattuso J.-P., Duarte C. M., Krause-Jensen D., Moore P. J., Smale D. & Wernberg T., Oct. 2021. Global seaweed productivity. <i>Science Advances</i>.
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+
+
+<!-- ### <a name="In press">In press</a> -->
+
+
+<!-- <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p> -->
+### <a name="2022">2022</a>
+
+Gattuso J.-P. & Magnan A., 2022. L’océan, un garde-fou climatique. <i>Polytechnique insights</i>. [<a href="https://www.polytechnique-insights.com/tribunes/planete/locean-un-garde-fou-climatique/" target="_blank">Web article</a>].  
+
+Jiang L.-Q., Pierrot D., Wanninkhof R., Feely R. A., Tilbrook B., Alin S., Barbero L., Byrne R. H., Carter B. R., Dickson A. G., Gattuso J.-P., Greeley D., Hoppema M., Humphreys M. P., Karstensen J., Lange N., Lauvset S. K., Lewis E. R., Olsen A., Pérez F. F., Sabine C., Sharp J. D., Tanhua T., Trull T. W., Velo A., Allegra A. J., Barker P., Burger E., Cai W.-J., Chen C.-T. A., Cross J., Garcia H., Hernandez-Ayon J. M., Hu X., Kozyr A., Langdon C., Lee K., Salisbury J., Wang Z. A. & Xue L., 2022. Best practice data standards for discrete chemical oceanographic observations. <i>Frontiers in Marine Science</i> 8:705638. [<a href="http://dx.doi.org/10.3389/fmars.2021.705638" target="_blank">Abstract</a>][<a href="https://www.frontiersin.org/journals/marine-science" target="_blank">Journal home page</a>].
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="2021">2021</a>
+
+Bitter M. C., Kapsenberg L., Gattuso J.-P. & Pfister C. A., 2021. Magnitude and predictability of pH fluctuations shape plastic responses to ocean acidification. <i>The American Naturalist</i> 197(4): 486-501. [<a href="https://doi.org/10.1086/712930" target="_blank">Abstract</a>][<a href="https://www.journals.uchicago.edu/toc/an/current" target="_blank">Journal home page</a>].
+
+Carbonne C., Teixidó N., Moore B., Mirasole A., Guttierez T., Gattuso J.-P. & Comeau S., 2021. Two temperate corals are tolerant to low pH regardless of previous exposure to natural CO<sub>2</sub> vents. <i>Limnology and Oceanography</i> 66:4046-4061.  [<a href="https://doi.org/10.1002/lno.11942" target="_blank">Abstract</a>][<a href="https://aslopubs.onlinelibrary.wiley.com/journal/19395590" target="_blank">Journal home page</a>].
+
+Coppola L., Boutin J., Gattuso J.-P., Lefèvre D. & Metzl N., 2021. Le système des carbonates dans la mer Ligure. In: Migon C., Nival P. & Sciandra A. (Eds.), La mer Méditerranée face au changement global, pp. 89-114. London: ISTE Editions Ltd. [<a href="https://www.istegroup.com/fr/produit/la-mer-mediterranee-face-au-changement-global-1/" target="_blank">Book</a>]
+
+Cziesielski M. J., Duarte C. M., Aalismail N. A., Al-Hafedh Y., Anton A., Faiyah Baalkhuyur F., Baker A. C., Balke T., Baums I. B., Berumen M. L., Chalastani V. I., Cornwell B., Daffonchio D., Diele K., Ehtsaam F., Gattuso J.-P., He S., Lovelock C., Mcleod E., Macreadie P. I., Marba N., Martin C., Muniz Barreto M., Krishnakumar P. K., Prihartato P., Rabaoui L., Saderne S., Schmidt-Roach S., Suggett D., Sweet M., Statton J., Teicher S., Trevathan-Tackett S. M., Joydas T. V., Yahya R. Z. &amp; Aranda M., 2021. Investing in blue natural capital to secure a future for the Red Sea ecosystems. <i>Frontiers in Marine Science</i> 7:603722. [<a href="https://doi.org/10.3389/fmars.2020.603722" target="_blank">Abstract</a>][<a href="https://www.frontiersin.org/journals/marine-science" target="_blank">Journal home page</a>].
+
+Dupont S., Gattuso J.-P., Pörtner H.-O. & Widdicombe S., 2021. Ocean acidiﬁcation science stands strong. <i>Science</i> 371:1160-1161. [<a href="https://doi.org/10.1126/science.abj4129" target="_blank">Letter</a>][<a href="https://science.sciencemag.org/" target="_blank">Journal home page</a>]
+
+Duvat V. K. E., Magnan A. K., Perry C. T., Spencer T., Bell J. D., Wabnitz C., Webb A. P., White I., McInness K. L., Gattuso J.-P., Graham N. A. J., Nunn P. D. & Le Cozannet G., 2021. Risks to future atoll habitability from climate-driven environmental changes. <i>WIREs Climate Change</i> 12: e700. [<a href="https://doi.org/10.1002/wcc.700" target="_blank">Abstract</a>][<a href="https://onlinelibrary.wiley.com/journal/17577799" target="_blank">Journal home page</a>].
+
+Gattuso J.-P., Bopp L., Duarte C. M. & Joos F, 2021. Humans will always have oxygen to breathe, but we can’t say the same for ocean life. <i>The Conversation</i>. [<a href="https://theconversation.com/humans-will-always-have-oxygen-to-breathe-but-we-cant-say-the-same-for-ocean-life-165148" target="_blank">Web article</a>]. 
+
+Gattuso J.-P. & Duarte C. M., 2021. Érosion de la biodiversité marine : quelles solutions ? <i>Questions Internationales</i> 107-108: 113-115. [<a href="https://www.vie-publique.fr/catalogue/280110-geopolitique-des-oceans" target="_blank">Journal home page</a>].
+
+Gattuso J.-P., Epitalon J.-M., Lavigne H. & Orr J., 2021. seacarb: seawater carbonate chemistry. R package version 3.2.16. [<a href="https://CRAN.R-project.org/package=seacarb" target="_blank">Code</a>]. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4600014.svg)](https://doi.org/10.5281/zenodo.4600014)
+
+Gattuso J.-P., Williamson P., Duarte C. & Magnan A. K., 2021. The potential for ocean-based climate action: negative emissions technologies and beyond. <i>Frontiers in Climate</i> 2:575716. [<a href="https://www.frontiersin.org/articles/10.3389/fclim.2020.575716/full" target="_blank">Abstract</a>][<a href="https://www.frontiersin.org/journals/climate" target="_blank">Journal home page</a>].
+
+Kleypas J., Allemand D., Anthony K., Baker A. C., Beck M., Hale L. Z., Hilmi N., Hoegh-Guldberg O., Hughes T., Kaufman L., Kayanne H., Magnan A., Mcleod E., Mumby P., Palumbi S., Richmond R., Rinkevich B., Steneck R. S., Voolstra C. R., Wachenfeld D. & Gattuso J.-P., 2021. Designing a blueprint for coral reef survival. <i>Biological Conservation</i> 257:109107. [<a href="https://doi.org/10.1016/j.biocon.2021.109107" target="_blank">Abstract</a>][<a href="https://www.sciencedirect.com/journal/biological-conservation" target="_blank">Journal home page</a>].
+
+Magnan A. K., Pörtner H.-O., Duvat V. K. E., Garschagen M., Guinder V. A., Hoegh Guldberg O., Zommers Z. & Gattuso J.-P., 2021 Estimating the global aggregated risk of anthropogenic climate change. <i>Nature Climate Change</i>. [<a href="https://doi.org/10.1038/s41558-021-01156-w" target="_blank">Abstract</a>][<a href="https://www.nature.com/nclimate/" target="_blank">Journal home page</a>].
+
+Raitzsch M., Hain M., Henehan M. & Gattuso J.-P., 2021. seacarbx - seacarb extension for deep-time carbonate system calculations. [<a href="https://doi.org/10.5281/zenodo.4432146" target="_blank">Code</a>]. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4432170.svg)](https://doi.org/10.5281/zenodo.4432170)
+
+von Schuckmann K., Le Traon P.-Y., Smith N., Pascual A., Djavidnia S., Gattuso J.-P., Grégoire M., Aaboe S., Alari V., Alexander B. E., Alonso-Martirena A., Aydogdu A., Azzopardi J., Bajo M., Barbariol F., Batistić M., Behrens A., Ismail S. B., Benetazzo A., Bitetto I., Borghini M., Bray L., Capet A., Carlucci R., Chatterjee S., Chiggiato J., Ciliberti S., Cipriano G., Clementi E., Cochrane P., Cossarini G., D’Andrea L., Davison S., Down E., Drago A., Druon J.-N., Engelhard G., Federico I., Garić R., Gauci A., Gerin R., Geyer G., Giesen R., Good S., Graham R., Grégoire M., Greiner E., Gundersen K., Hélaouët P., Hendricks S., Heymans J. J., Holt J., Hure M., Juza M., Kassis D., Kellett P., Knol-Kauffman M., Kountouris P., Kõuts M., Lagemaa P., Lavergne T., Legeais J.-F., Traon P.-Y. L., Libralato S., Lien V. S., Lima L., Lind S., Liu Y., Macías D., Maljutenko I., Mangin A., Männik A., Marinova V., Martellucci R., Masnadi F., Mauri E., Mayer M., Menna M., Meulders C., Møgster J. S., Monier M., Mork K. A., Müller M., Nilsen J. E. Ø., Notarstefano G., Oviedo J. L., Palerme C., Palialexis A., Panzeri D., Pardo S., Peneva E., Pezzutto P., Pirro A., Platt T., Poulain P.-M., Prieto L., Querin S., Rabenstein L., Raj R. P., Raudsepp U., Reale M., Renshaw R., Ricchi A., Ricker R., Rikka S., Ruiz J., Russo T., Sanchez J., Santoleri R., Sathyendranath S., Scarcella G., Schroeder K., Sparnocchia S., Spedicato M. T., Stanev E., Staneva J., Stocker A., Stoffelen A., Teruzzi A., Townhill B., Uiboupin R., Valcheva N., Vandenbulcke L., Vindenes H., Schuckmann K. V., Vrgoč N., Wakelin S. & Zupa W., 2021. Copernicus Marine Service Ocean State Report, Issue 5. <i>Journal of Operational Oceanography</i> 14:1-185. [<a href="https://doi.org/10.1080/1755876X.2021.1946240" target="_blank">Abstract</a>][<a href="https://www.tandfonline.com/toc/tjoo20/current" target="_blank">Journal home page</a>].
+
+Williamson P., Pörtner H.-O., Widdicombe C. E. & Gattuso J.-P., 2021. Ideas and Perspectives: When ocean acidification experiments are not the same, repeatability is not tested. <i>Biogeosciences</i> 18: 1787-1792. [<a href="	
+https://doi.org/10.5194/bg-18-1787-2021" target="_blank">Abstract</a>] [<a href="https://www.biogeosciences.net" target="_blank">Journal home page</a>]
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="2020">2020</a>
+
+Coppola L., Boutin J., Gattuso J.-P., Lef&egrave;vre D. &amp; Metzl N., 2020. The carbonate system in the Ligurian Sea. In: Migon C., Nival P. &amp; Sciandra A.  (Eds.), The Mediterranean Sea in the era of global change (volume 1) - Evidence from 30 years of multidisciplinary study of the Ligurian Sea, pp. 79-104. London: ISTE Science Publishing LTD. [<a href="https://doi.org/10.1002/9781119706960.ch4" target="_blank">Book chapter</a>].
+
+Duarte C. M., Agust&iacute; S., Barbier E., Britten G. L., Castilla J. C., Gattuso J.-P., Fulweiler R. W., Hughes T. P., Knowlton N., Lovelock C. E., Lotze H. K., Predragovic M., Poloczanska E., Roberts C. &amp; Worm B., 2020. Rebuilding marine life. <i>Nature</i> 580:39-51. [<a href="https://doi.org/10.1038/s41586-020-2146-7" target="_blank">Abstract</a>] [<a href="https://www.nature.com" target="_blank">Journal home page</a>].
+
+Fischer P. F., Brix H., Baschek B., Kraberg A. C., Brand M., Cisewski B., Riethm&uuml;ller R., Breitbach G., M&ouml;ller K. O., Gattuso J.-P., Posner U., Alliouane S., Loth R., Van De Poll W. H. &amp; Witbaard R., 2020. Operating cabled underwater observatories in rough shelf-sea environments: a technological challenge. <i>Frontiers in Marine Science</i> 7:551. [<a href="https://doi.org/10.3389/fmars.2020.00551" target="_blank">Abstract</a>][<a href="https://www.frontiersin.org/journals/marine-science" target="_blank">Journal home page</a>].
+
+Fourrier M., Coppola L., Claustre H., D&rsquo;Ortenzio F., Sauz&egrave;de R. &amp; Gattuso J.-P., 2020. A regional neural network approach to estimate water-column nutrient concentrations and carbonate system variables in the Mediterranean Sea: CANYON-MED. <i>Frontiers in Marine Science</i> 7:620. [<a href="https://doi.org/10.3389/fmars.2020.00620" target="_blank">Abstract</a>][<a href="https://www.frontiersin.org/journals/marine-science" target="_blank">Journal home page</a>].
+
+Gattuso J.-P., Gentili B., Antoine D. &amp; Doxaran D., 2020. Global distribution of photosynthetically available radiation on the seafloor. <i>Earth System Science Data</i> 12:1697-1709. [<a href="https://doi.org/10.5194/essd-12-1697-2020" target="_blank">Abstract</a>] [<a href="https://www.earth-system-science-data.net" target="_blank">Journal home page</a>].
+
+Gentili B. &amp; Gattuso J.-P., 2020. Photosynthetically available radiation (PAR) on the seafloor calculated from 21 years of ocean colour satellite data. <i>PANGAEA</i>. [<a href="https://doi.pangaea.de/10.1594/PANGAEA.910898" target="_blank">Data set</a>].
+
+Gentili B. &amp; Gattuso J.-P., 2020. CoastalLight: R package to calculate the light reaching the ocean sea floor. [Accessed 2020-02-24; doi: 10.5281/zenodo.3685556]. [<a href="https://doi.org/10.5281/zenodo.3685555" target="_blank">R package</a>].
+
+G&oacute;mez Batista M., Metian M., Oberh&auml;nsli F., Pouil S., Swarzenski P. W., Tambutt&eacute; E., Gattuso J.-P., Alonso Hern&aacute;ndez C. M. &amp; Gazeau F., 2020. Intercomparison of four methods to estimate coral calcification under various environmental conditions. <i>Biogeosciences</i> 17:887–899. [<a href="https://doi.org/10.5194/bg-17-887-2020" target="_blank">Abstract</a>] [<a href="https://www.biogeosciences.net/index.html" target="_blank">Journal home page</a>].
+
+Horwitz R., Norin T., Watson S.-A., Pistevos J. C. A., Beldade R., Hacquart S., Gattuso J.-P., Rodolpho-Metalpa R., Vidal-Dupiol J., Killen S. S. &amp; Mills S. C., 2020. Near-future ocean warming and acidification alter foraging behaviour, locomotion, and metabolic rate in a keystone marine mollusc. <i>Scientific Reports</i> 10:5461. [<a href="https://doi.org/10.1038/s41598-020-62304-4" target="_blank">Abstract</a>] [<a href="https://www.nature.com/srep/" target="_blank">Journal home page</a>].
+
+Teixido N., Caroselli E., Alliouane S., Ceccarelli C., Comeau S., Gattuso J.-P., Fici P., Micheli F., Mirasole A., Monismith S. G., Munari M., Palumbi S., Sheets E., Urbini L., de Vittor C., Goffredo S. &amp; Gambi M. C., 2020. Ocean acidification causes variable trait shifts in a coral species. <i>Global Change Biology</i> 12:6813-6830. [<a href="https://doi.org/10.1111/gcb.15372" target="_blank">Abstract</a>] [<a href="https://onlinelibrary.wiley.com/journal/13652486" target="_blank">Journal home page</a>].
+
+von Schuckmann K., Le Traon P.-Y., Smith N., Pascual A., Djavidnia S., Gattuso J.-P., Gr&eacute;goire M., Nolan G., Aaboe S., Fanjul E. &Aacute;., Aouf L., Aznar R., Badewien T. H., Behrens A., Berta M., Bertino L., Blackford J., Bolzon G., Borile F., Bretagnon M., Brewin R. J. W., Canu D., Cessi P., Ciavatta S., Chapron B., Trang Chau T. T., Chevallier F., Chtirkova B., Ciliberti S., Clark J. R., Clementi E., Combot C., Comerma E., Conchon A., Coppini G., Corgnati L., Cossarini G., Cravatte S., de Alfonso M., de Boyer Mont&eacute;gut C., De Lera Fern&aacute;ndez C., de los Santos F. J., Denvil-Sommer A., de Pascual Collar &Aacute;., Dias Nunes P. A. L., Di Biagio V., Drudi M., Embury O., Falco P., d&rsquo;Andon O. F., Ferrer L., Ford D., Freund H., Le&oacute;n M. G., Sotillo M. G., Garc&iacute;a-Valdecasas J. M., Garnesson P., Garric G., Gasparin F., Gehlen M., Genua-Olmedo A., Geyer G., Ghermandi A., Good S. A., Gourrion J., Greiner E., Griffa A., Gonz&aacute;lez M., Griffa A., Hern&aacute;ndez-Carrasco I., Isoard S., Kennedy J. J., Kay S., Korosov A., Laanem&auml;e K., Land P. E., Lavergne T., Lazzari P., Legeais J.-F., Lemieux B., Levier B., Llovel W., Lyubartsev V., Le Traon P.-Y., Lien V. S., Lima L., Lorente P., Mader J., Magaldi M. G., Maljutenko I., Mangin A., Mantovani C., Marinova V., Masina S., Mauri E., Meyerj&uuml;rgens J., Mignot A., McEwan R., Mejia C., Melet A., Menna M., Meyssignac B., Mouche A., Mourre B., M&uuml;ller M., Notarstefano G., Orfila A., Pardo S., Peneva E., P&eacute;rez-G&oacute;mez B., Perruche C., Peterlin M., Poulain P.-M., Pinardi N., Quilfen Y., Raudsepp U., Renshaw R., R&eacute;velard A., Reyes-Reyes E., Ricker M., Rodr&iacute;guez-Rubio P., Rotll&aacute;n P., Gelabert E. R., Rubio A., Ruiz-Parrado I., Sathyendranath S., She J., von Schuckmann K., Solidoro C., Stanev E. V., Staneva J., Storto A., Su J., Bakhsh T. T., Tilstone G. H., Tintor&eacute; J., Toledano C., Tournadre J., Tranchant B., Uiboupin R., Valcarcel A., Valcheva N., Verbrugge N., Vrac M., Wolff J.-O., Zambianchi E., Zielinski O., Zinck A.-S. &amp; Zunino S., 2020. Copernicus Marine Service Ocean State Report, Issue 4. <i>Journal of Operational Oceanography</i>
+null 13:S1-S172. [<a href="https://doi.org/1755876X.2020.1785097" target="_blank">Abstract</a>] [<a href="https://www.tandfonline.com/toc/tjoo20/current" target="_blank">Journal home page</a>].
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="2019">2019</a>
+
+Abd-Elgawad S., Abram N., Adler C., Alegr&iacute;a A., Ar&iacute;stegui J., Bindoff N. L., Bouwer L., C&aacute;ceres B., Cai R., Cassotta S., Cheng L., Cheong S.-M., Cheung W. M. L., Chidichimo M. P., Cifuentes-Jara M., Collins M., Crate S., Deconto R., Derksen C., Ekaykin A., Enomoto H., Fr&ouml;licher T., Garschagen M., Gattuso J.-P., Ghosh T., Glavovic B., Gruber N., Gruber S., Guinder V. A., Hallberg R., Harper S., Hay J., Hilmi N., Hinkel J., Hirabayashi Y., Hock R., Holland E., Hollowed A., Isla F., Jackson M., Jacot Des Combes H., Jiao N., K&auml;&auml;b A., Kairo J. G., Kang S., Karim M. S., Kofinas G., Koll R. M., Kudela R. M., Kutuzov S., Levin L., I&ntilde;igo Losada I., Mackintosh A., Magnan A. K., Marzeion B., Masson-Delmotte V., Matthews R., McInnes K., MelbourneThomas J., Meredith M., Meyssignac B., Milner A., Mintenbeck K., Molau U., Morin S., Muelbert M. M. C., Nicolai M., O&rsquo;Donoghue S., Okem A., Oppenheimer M., Orlove B., Ottersen G., Petzold J., Pirani A., Hans-Otto P&ouml;rtner H.-O., Poloczanska E., Prakash A., Pritchard H., Cuicapusa S. R. P., Rasul G., Ratter B., Rice J., Rinkevich B., Rivera-Arriaga E., Roberts D., von Schuckmann K., Schuur T., Sebesvari Z., Sommerkorn M., Steffen K., Steltzer H., Suga T., Susanto R. D., Sutherland M., Swingedouw D., Tagliabue A., Tibig L., van de Wal R., Williamson P., Yu R. &amp; Zhai P., 2019. Technical summary. In: P&ouml;rtner H.-O., Roberts D., Masson-Delmotte V., Zhai P., Poloczanska E., Mintenbeck K., Tignor M., Petzold J., Weyer N., Okem A., Craig M., Nicolai M., Alegr&iacute;a A., Langsdorf S., Rama B. &amp; Freund A. (Eds.), <i>Special Report on Ocean and Cryosphere in a Changing Climate</i>, pp. 39-69. Geneva: Intergovernmental Panel on Climate Change.
+
+Abram N., Adler C., Alegria A., Bindoff N. L., Cheng L., So-Min Cheong S.-O., Cheung W., Collins M., Derksen C., Ekaykin A., Fr&ouml;licher T., Garschagen M., Gattuso J.-P., Glavovic B., Gruber S., Guinder V., Hallberg R., Harper S., Hilmi N., Hinkel J., Hirabayashi Y., Hock R., Hollowed A., Jacot Des Combes H., Kairo J., Magnan A., Masson-Delmotte V., Robin Mathews J. B., McInnes K., Meredith M., Mintenbeck M., Morin S., Nicolai M., Okem A., Oppenheimer M., Orlove B., Petzold J., Pirani A., Poloczanska E., P&ouml;rtner H.-O., Prakash A., Rasul G., Rivera-Arriaga E., Roberts D., Schuur E. A. G., Sebesvari Z., Sommerkorn M., Sutherland M., Tagliabue A., Van De Wal R., Williamson W., Yu R. &amp; Zhai Z., 2019. Summary for Policymakers. In: (Eds.), <i>Special Report on Ocean and Cryosphere in a Changing Climate</i>, pp. 3-35. Geneva: Intergovernmental Panel on Climate Change.
+
+Abram N., Gattuso J.-P., Prakash A., Chen L., Chidichimo M. P., Crate S., Enomoto H., Garschagen M., Gruber N., Harper S., Holland E., Kudela R. M., Rice J. D., Steffen K. &amp; von Schukmann K., 2019. Framing and context of the report. In: P&ouml;rtner H.-O., Roberts D., Masson-Delmotte V. &amp; Zhai P. (Eds.), <i>Special Report on Ocean and Cryosphere in a Changing Climate</i>, pp. 73-129. Geneva: Intergovernmental Panel on Climate Change.
+
+Asnaghi V., Collard M., Mangialajo L., Gattuso J.-P. &amp; Dubois P., 2019. Bottom-up effects on biomechanical properties of the skeletal plates of the sea urchin <i>Paracentrotus lividus</i> (Lamarck, 1816) in an acidified ocean scenario. <i>Marine Environmental Research</i> 144:56-61. [<a href="https://doi.org/10.1016/j.marenvres.2018.12.002" target="_blank">Abstract</a>] [<a href="https://www.sciencedirect.com/journal/marine-environmental-research" target="_blank">Journal home page</a>].
+
+Bindoff N. L., Cheung W. W. L., Kairo J. G., Ar&iacute;stegui J., Guinder V. A., Hallberg R., Hilmi N., Jiao N., Karim M. S., Levin L., O&rsquo;Donoghue S., Purca Cuicapusa S. R., Rinkevich B., Suga T., Tagliabue A. &amp; Williamson P. [Gattuso J.-P. Contributing Author], 2019. Changing ocean, marine ecosystems, and dependent communities. In: P&ouml;rtner H.-O., Roberts D., Masson-Delmotte V. &amp; Zhai P. (Eds.), <i>Special Report on Ocean and Cryosphere in a Changing Climate</i>, pp. 447-587. Geneva: Intergovernmental Panel on Climate Change.
+
+Bischof K., Convey P., Duarte P., Gattuso J.-P., Granberg M., Hop H., Hoppe C., Jimenez C., Lisitsyn L., Martinez B., Roleda M. Y., Thor P., Wiktor J. M. &amp; Gabrielsen G. W., 2019. Kongsfjorden as harbinger of the future Arctic: knowns, unknowns and research priorities. In: Hop H. &amp; Wiencke C. (Eds.), The Ecosystem of Kongsfjorden, Svalbard, pp. 537-562. Springer Nature Switzerland AG. [<a href="https://doi.org/10.1007/978-3-319-46425-1_14" target="_blank">Book chapter</a>].
+
+Bitter M. C., Kapsenberg L., Gattuso J.-P. &amp; Pfister C. A., 2019. Standing genetic variation fuels rapid adaptation to ocean acidification. <i>Nature Communications</i> 10:5821. [<a href="https://dx.doi.org/10.1038/s41467-019-13767-1" target="_blank">Abstract</a>] [<a href="https://www.nature.com/ncomms/" target="_blank">Journal home page</a>].
+
+Boyd P. W., Collins S., Dupont S., Fabricius K., Gattuso J.-P., Havenhand J., Hutchins D. A., McGraw C. M., Riebesell U., Vichi M., Biswas H., Ciotti A., Dillingham P., Gao K., Gehlen M., Hurd C. L., Kurihawa H., Navarro J., Nilsson G. E., Passow U. &amp; Pörtner H.-O., 2019. <i>SCOR WG149 Handbook to support the SCOR Best Practice Guide for ‘Multiple Drivers’ Marine Research</i>. 44 p. Hobart: University of Tasmania. [<a href="https://doi.org/10.25959/5c92fdf0d3c7a" target="_blank">Abstract and Univ. Tasmania eprint</a>].
+
+D&iacute;az-Casta&ntilde;eda V., Cox T. E., Gazeau F., Fitzer S., Delille J., Alliouane S. &amp; Gattuso J. P., 2019. Ocean acidification affects calcareous tube growth in adult stage and reared offspring of serpulid polychaetes. <i>Journal of Experimental Biology</i> 222:jeb196543. [<a href="https://jeb.biologists.org/content/222/13/jeb196543.long" target="_blank">Abstract</a>] [<a href="https://jeb.biologists.org" target="_blank">Journal home page</a>].
+
+Duvat V., Magnan A. &amp; Gattuso J.-P., 2019. Small islands, ocean and climate. In: Ocean and Climate (Ed.), Scientific fact sheets, pp. 88-100. Paris: Ocean and Climate Platform. [<a href="https://ocean-climate.org/wp-content/uploads/2020/01/EN_ppp-version-finale.pdf" target="_blank">Full report</a>].
+
+Gattuso J.-P., Magnan A. K., Gallo N., Herr D., Rochette J., Vallejo L. &amp; Williamson P., 2019. Opportunities for increasing ocean action in climate strategies. Iddri Policy Brief 02/19:1-4. [<a href="http://bit.ly/2OwiQjJ" target="_blank">Abstract</a>][<a href="http://www.obs-vlfr.fr/~gattuso/Supplementary_Material_policy_brief_2019.pdf" target="_blank">Supplementary information</a>].
+
+Garrabou J., G&oacute;mez-Gras D., Ledoux J.-B., Linares C., Bensoussan N., L&oacute;pez-Sendino P., Bazairi H., Espinosa F., Ramdani M., Grimes S., Benabdi M., Souissi J. B., Soufi E., Khamassi F., Ghanem R., Oca&ntilde;a O., Ramos-Espl&agrave; A., Izquierdo A., Anton I., Rubio-Portillo E., Barbera C., Cebrian E., Marb&agrave; N., Hendriks I. E., Duarte C. M., Deudero S., D&iacute;az D., V&aacute;zquez-Luis M., Alvarez E., Hereu B., Kersting D. K., Gori A., Viladrich N., Sartoretto S., Pairaud I., Ruitton S., Pergent G., Pergent-Martini C., Rouanet E., Teixid&oacute; N., Gattuso J.-P., Fraschetti S., Rivetti I., Azzurro E., Cerrano C., Ponti M., Turicchia E., Bavestrello G., Cattaneo-Vietti R., Bo M., Bertolino M., Montefalcone M., Chimienti G., Grech D., Rilov G., Tuney Kizilkaya I., Kizilkaya Z., Eda Top&ccedil;u N., Gerovasileiou V., Sini M., Bakran-Petricioli T., Kipson S. &amp; Harmelin J. G., 2019. Collaborative database to track mass mortality events in the Mediterranean Sea. <i>Frontiers in Marine Science</i> 6:707. [<a href="10.3389/fmars.2019.00707" target="_blank">Abstract</a>] [<a href="https://www.nature.com/srep/" target="_blank">Journal home page</a>].
+
+Gonz&aacute;lez-Ben&iacute;tez N., Garc&iacute;a-Corral L., S, Mor&aacute;n X. A. G., Middelburg J. J., Pizay M.-D. &amp; Gattuso J.-P., 2019. Drivers of microbial carbon fluxes variability in two oligotrophic Mediterranean coastal systems. <i>Scientific Reports</i>. [<a href="https://doi.org/10.1038/s41598-019-53650-z" target="_blank">Abstract</a>] [<a href="https://www.nature.com/srep/" target="_blank">Journal home page</a>].
+
+Maier C., Weinbauer M. &amp; Gattuso J.-P., 2019. Fate of Mediterranean cold water corals as a result of global climate change. A synthesis. In: Orejas C. &amp; Jim&eacute;nez C. (Eds.), Mediterranean Cold-Water Corals: Past, Present and Future, pp. 517-529. Cham: Springer. [<a href="https://doi.org/10.1007/978-3-319-91608-8_44" target="_blank">Abstract</a>].
+
+Magnan A. K., Garschagen M., Gattuso J.-P., Hay J. E., Hilmi N., Holland E., Isla F., Kofinas G., Losada I. J., Petzold J., Ratter B., Schuur T., Tabe T. &amp; van de Wal R., 2019. Integrative cross-chapter box on low-lying islands and coasts. In: P&ouml;rtner H.-O., Roberts D., Masson-Delmotte V. &amp; Zhai P. (Eds.), <i>Special Report on Ocean and Cryosphere in a Changing Climate</i>, pp. 657-674. Geneva: Intergovernmental Panel on Climate Change.
+
+Oppenheimer M., Glavovic B., Hinkel J., van de Wal R., Magnan A. K., Abd-Elgawad A., Cai R., Cifuentes-Jara M., Deconto R. M., Ghosh T., Hay J., Isla F., Marzeion B., Meyssignac B. &amp; Sebesvari Z. [Gattuso J.-P. Contributing Author], 2019. Sea level rise and implications for low lying islands, coasts and communities. In: P&ouml;rtner H.-O., Roberts D., Masson-Delmotte V. &amp; Zhai P. (Eds.), <i>Special Report on Ocean and Cryosphere in a Changing Climate</i>, pp. 321-445. Geneva: Intergovernmental Panel on Climate Change.
+
+Stark J., Kirkwood W., Peltzer E., Kline D., Queiros A., Cox T. E., Headley K., Barry J., Gazeau F., Runcie J., Widdicombe S., Milnes M., Roden N., Black J., Whiteside S., Johnstone G., Ingels J., Shaw E., Bodrossy L., Diego Gaitan-Espitia J. &amp; Gattuso J.-P., 2019. Free Ocean CO<sub>2</sub> Enrichment (FOCE) experiments: scientific and technical recommendations for future <i>in situ</i> ocean acidification projects. <i>Progress in Oceanography</i> 172:89-107. [<a href="https://doi.org/10.1016/j.pocean.2019.01.006" target="_blank">Abstract</a>] [<a href="https://www.sciencedirect.com/journal/progress-in-oceanography" target="_blank">Journal home page</a>].
+
+von Schuckmann K., Le Traon P.-Y., Smith N., Pascual A., Djavidnia S., Gattuso J.-P., Gr&eacute;goire M. &amp; Nolan G., 2019. Copernicus Marine Service Ocean State Report. <i>Journal of Operational Oceanography</i> 12:S1-S123. [<a href="https://doi.org/10.1080/1755876X.2019.1633075" target="_blank">Abstract</a>] [<a href="https://www.tandfonline.com/toc/tjoo20/current" target="_blank">Journal home page</a>].
+
+Weinbauer M., Oregioni D., Gro&szlig;kurth A., Kerros M.-E., Harder T., DuBow M., Gattuso J.-P. &amp; Maier C., 2019. Diversity of bacteria associated with the cold water corals Lophelia pertusa and Madrepora oculata. In: Orejas C. &amp; Jim&eacute;nez C. (Eds.), Mediterranean Cold-Water Corals: Past, Present and Future, pp. 377-386. Cham: Springer. [<a href="https://doi.org/10.1007/978-3-319-91608-8_33" target="_blank">Abstract</a>].
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="2018">2018</a>
+
+Bittig H. C., Steinhoff T., Claustre H., Fiedler B., Williams S. L., K&ouml;rtzinger A. &amp; Gattuso J.-P., 2018. An alternative to static climatologies: Robust estimation of open ocean CO<sub>2</sub> variables and nutrient concentrations from T, S and O<sub>2</sub> data using Bayesian neural networks. <i>Frontiers in Marine Science</i> 5:328. [<a href="https://doi.org/10.3389/fmars.2018.00328" target="_blank">Abstract</a>] [<a href="https://www.frontiersin.org/journals/marine-science" target="_blank">Journal home page</a>].
+
+Boyd P., Collins S., Dupont S., Fabricius K., Gattuso J.-P., Havenhand J., Hutchins D., Riebesell U., Rintoul M., Vichi M., Biswas H., Gao K., Gehlen M., Hurd C., Kurihara H., McGraw C., Navarro J., Nilsson G., Passow U. &amp; P&ouml;rtner H.-O., 2018. Experimental strategies to assess the biological ramifications of multiple drivers of ocean global ocean – a review. <i>Global Change Biology</i> 24:2239–2261. [<a href="https://doi.org/10.1111/gcb.14102" target="_blank">Abstract</a>] [<a href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2486" target="_blank">Journal home page</a>].
+
+Cramer W., Guiot J., Fader M., Garrabou J., Gattuso J.-P., Iglesias A., Lange M. A., Lionello P., Llasat M. C., Paz S., Pe&ntilde;uelas J., Snoussi M., Toreti A., Tsimplis M. N. &amp; Xoplaki E., 2018. Climate change and interconnected risks to sustainable development in the Mediterranean. <i>Nature Climate Change</i> 8:972–980. [<a href="https://doi.org/10.1038/s41558-018-0299-2" target="_blank">Abstract</a>] [<a href="https://www.nature.com/nclimate/" target="_blank">Journal home page</a>].
+
+Cyronak T., Andersson A. J., Langdon C., Albright R., Bates N. R., Caldeira K., Carlton R., Corredor J. E., Dunbar R. B., Enochs I., Erez J., Eyre B., Gattuso J.-P., Gledhill D., Kayanne H., Kline D. I., Kopek D. A., Lantz C., Lazar B., Manzello D., McMahon A., Mel&eacute;ndez M., Page H. N., Santos I. R., Shaw E., Silverman J., Suzuki A., Teneva L., Watanabe A. &amp; Yamamoto S., 2018. Taking the biogeochemical pulse of the world&rsquo;s coral reefs. <i>PLoS ONE</i> 13:e0190872. [<a href="https://doi.org/10.1371/journal.pone.0190872" target="_blank">Abstract</a>] [<a href="http://journals.plos.org/plosone/" target="_blank">Journal home page</a>].
+
+Gattuso J.-P., Magnan A. K., Bopp L., Cheung W. W. L., Duarte C. M., Hinkel J., Mcleod E., Micheli F., Oschlies A., Williamson P., Bill&eacute; R., Chalastani V. I., Gates R. D., Irisson J.-O., Middelburg J. J., P&ouml;rtner H.-O. &amp; Rau G. H., 2018. Ocean solutions to address climate change and its effects on marine ecosystems. <i>Frontiers in Marine Science</i> 5:337. [<a href="https://doi.org/10.3389/fmars.2018.00337" target="_blank">Abstract</a>] [<a href="https://www.frontiersin.org/journals/marine-science" target="_blank">Journal home page</a>].
+
+Hoegh-Guldberg O., Jacob D., Taylor M., Bindi M., Brown S., Camilloni I., Diedhiou A., Djalante R., Ebi K., Engelbrecht F., Guiot J., Hijioka Y., Mehrotra S., Payne A., Seneviratne S. I., Thomas A., Warren R. &amp; Zhou G. [Gattuso, J.-P. contributing author], 2018. Impacts of 1.5&deg;C global warming on natural and human systems. In: Masson-Delmotte V., Zhai P., P&ouml;rtner H.-O., Roberts D., Skea J., Shukla P. R., Pirani A., Moufouma-Okia W., P&eacute;an C., Pidcock R., Connors S., Matthews J. B. R., Chen Y., Zhou X., Gomis M. I., Lonnoy E., Maycock T., Tignor M. &amp; Waterfield T. (Eds.), Global warming of 1.5&deg;C. An IPCC Special Report on the impacts of global warming of 1.5&deg;C above pre-industrial levels and related global greenhouse gas emission pathways, in the context of strengthening the global response to the threat of climate change, sustainable development, and efforts to eradicate poverty, pp. 175-311. Geneva: Intergovernmental Panel on Climate Change.
+
+Kapsenberg L., Miglioli A., Bitter M. C., Tambutt&eacute; E., Dumollard R. &amp; Gattuso J.-P., 2018. Ocean pH fluctuations affect mussel larvae at key developmental transitions. Proceedings of the Royal Society of London. Series B: Biological Sciences 285:20182381. [<a href="https://doi.org/10.1098/rspb.2018.2381" target="_blank">Abstract</a>] [<a href="https://royalsocietypublishing.org/journal/rspb" target="_blank">Journal home page</a>].
+
+Magnan A. K., Bill&eacute; R., Bopp L., Chalastani V. I., Cheung W. W. L., Duarte C. M., Gates R. D., Hinkel J., Irisson J.-O., Mcleod E., Micheli F., Middelburg J. J., Oschlies A., P&ouml;rtner H.-O., Rau G. H., Williamson P. &amp; Gattuso J.-P., 2018. Ocean-based measures for climate action. <i>IDDRI Policy Brief</i> 6:1-4. [<a href="http://bit.ly/2OwiQjJ" target="_blank">Web site</a>]
+
+Magnan A. K., Bill&eacute; R., Bopp L., Chalastani V. I., Cheung W. W. L., Duarte C. M., Gates R. D., Hinkel J., Irisson J.-O., Mcleod E., Micheli F., Middelburg J. J., Oschlies A., P&ouml;rtner H.-O., Rau G. H., Williamson P. &amp; Gattuso J.-P., 2018. Le r&ocirc;le potentiel de l’océan dans l’action climatique. <i>IDDRI Propositions</i> 6:1-4. [<a href="http://bit.ly/2P8KFi5" target="_blank">Web site</a>]
+
+Orr J. C., Epitalon J.-M., Dickson A. &amp; Gattuso J.-P., 2018. Routine uncertainty propagation for the marine carbon dioxide system. <i>Marine Chemistry</i> 207:84-107. [<a href="http://dx.doi.org/10.1016/j.marchem.2018.10.006" target="_blank">Abstract</a>] [<a href="https://www.sciencedirect.com/journal/marine-chemistry" target="_blank">Journal home page</a>].
+
+Riou V., Para J., Garel M., Guigue C., Al Ali B., Santinelli C., Lef&egrave;vre D., Gattuso J.-P., Goutx M., Jacquet S., Le Moigne F., Tachikawa K. &amp; Tamburini C., 2018. Biodegradation of <i>Emiliania huxleyi</i> aggregates by a natural Mediterranean prokaryotic community under increasing hydrostatic pressure. <i>Progress in Oceanography</i> 163:271-281. [<a href="https://doi.org/10.1016/j.pocean.2017.01.005" target="_blank">Abstract</a>] [<a href="https://www.journals.elsevier.com/progress-in-oceanography/" target="_blank">Journal home page</a>].
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="2017">2017</a>
+
+Cox E., Diaz-Casta&ntilde;eda V., Martin S., Alliouane S., Mahacek P., Le Fur A., Gattuso J.-P. & Gazeau F., 2017. Effects of <i>in situ</i> CO<sub>2</sub> enrichment on epibiont settlement within a <i>Posidonia oceanica</i> meadow. <i>Journal of Experimental Marine Biology and Ecology</i> 497:197-211. [<a href="https://doi.org/10.1016/j.jembe.2017.10.003" target="_blank">Abstract</a>] [<a href="https://www.journals.elsevier.com/journal-of-experimental-marine-biology-and-ecology/" target="_blank">Journal home page</a>].
+
+Cox T., Nash M., Gazeau F., Daniel M., Legrand E., Alliouane S., Mahacek P., Le Fur A., Gattuso J.-P. &amp; Martin S., 2017. Effects of <i>in situ</i> CO<sub>2</sub> enrichment on <i>Posidonia oceanica</i> epiphytic community composition and mineralogy. <i>Marine Biology</i> 164:103. [<a href="http://dx.doi.org/10.1007/s00227-017-3136-7" target="_blank">Abstract</a>] [<a href="https://link.springer.com/journal/227" target="_blank">Journal home page</a>].
+
+Galgani F., Le Bris N. &amp; Gattuso J.-P., 2017. Introduction. In: Euzen A., Gaill F., Lacroix S. &amp; Cury P. (Eds.), The ocean revealed, pp. 217. Paris: CNRS Editions. [<a href="http://www.cnrseditions.fr/sciences-de-la-terre/7517-the-ocean-revealed.html" target="_blank">Book</a>].
+
+Gattuso J.-P., 2017. L&rsquo;acidification de la mer M&eacute;diterran&eacute;e. In: Groupe r&eacute;gional d&rsquo;experts sur le climat en Provence-Alpes-C&ocirc;te d&rsquo;Azur (Ed.), La mer et le littoral de Provence-Alpes-C&ocirc;te d&rsquo;Azur face au changement climatique, pp. 14. Marseille: AIR-Climat.  [<a href="http://www.air-climat.org/wp-content/uploads/2017/05/GREC-PACA-Mer-Littoral-BAT-HR.pdf" target="_blank">Full document</a>].
+
+Gattuso J.-P. &amp; Hansson L., 2017. Ocean acidification. In: Euzen A., Gaill F., Lacroix S. &amp; Cury P. (Eds.), The ocean revealed, pp. 66-67. Paris: CNRS Editions. [<a href="http://www.cnrseditions.fr/sciences-de-la-terre/7517-the-ocean-revealed.html" target="_blank">Book</a>].
+
+Gattuso J.-P. &amp; Magnan A., 2017. Risks related to climate change. In: Euzen A., Gaill F., Lacroix S. &amp; Cury P. (Eds.), The ocean revealed, pp. 220-221. Paris: CNRS Editions.  [<a href="http://www.cnrseditions.fr/sciences-de-la-terre/7517-the-ocean-revealed.html" target="_blank">Book</a>].
+
+Howes E. L., Eagle R., Gattuso J.-P. &amp; Bijma J., 2017. Comparison of Mediterranean pteropod shell biometrics and ultrastructure from historical (1910 and 1921) and present day (2012) samples provides baseline for monitoring effects of global change. <i>PLoS ONE</i> 12:e0167891. [<a href="http://dx.doi.org/10.1371/journal.pone.0167891" target="_blank">Abstract</a>] [<a href="http://journals.plos.org/plosone/" target="_blank">Journal home page</a>].
+
+Howes E., Kaczmarek K., Raitzsch M., Mewes A., Bijma N., Horn I., Misra S., Gattuso J.-P. &amp; Bijma J., 2017. Decoupled carbonate chemistry controls on the incorporation of boron into <i>Orbulina universa. Biogeosciences</i> 14:415-430. [<a href="http://www.biogeosciences.net/14/415/2017/" target="_blank">Abstract</a>] [<a href="http://www.biogeosciences.net" target="_blank">Journal home page</a>].
+
+Kapsenberg L., Alliouane S., Gazeau F., Mousseau L. &amp; Gattuso J.-P.,  2017. Coastal ocean acidification and increasing total alkalinity in the northwestern Mediterranean Sea. <i>Ocean Science</i> 13:411-426. [<a href="http://www.ocean-sci.net/13/411/2017/" target="_blank">Abstract</a>] [<a href="http://www.ocean-sci.net" target="_blank">Journal home page</a>].
+
+Kapsenberg L., Bockmon E. E., Bresnahan P. J., Kroeker K., Gattuso J.-P. &amp; Martz T. R., 2017. Advancing ocean acidification biology using Durafet<sup>&reg;</sup> pH electrodes. <i>Frontiers in Marine Science</i> 4:321. [<a href="https://doi.org/10.3389/fmars.2017.00321" target="_blank">Abstract</a>] [<a href="https://www.frontiersin.org/journals/marine-science" target="_blank">Journal home page</a>].
+
+Masson-Delmotte V. &amp; Gattuso J.-P., 2017. The ocean in IPCC reports. In: Euzen A., Gaill F., Lacroix S. &amp; Cury P. (Eds.), The ocean revealed, pp. 258-259. Paris: CNRS Editions.  [<a href="http://www.cnrseditions.fr/sciences-de-la-terre/7517-the-ocean-revealed.html" target="_blank">Book</a>].
+
+Maugendre L., Gattuso J.-P., de Kluijver A., Soetaert K., van Oevelen D., Middelburg J. &amp; Gazeau F., 2017. Carbon-13 labelling shows no effect of ocean acidification on carbon transfer in Mediterranean plankton communities. <i>Estuarine, Coastal and Shelf Science</i>186A:100-111. [<a href="http://dx.doi.org/10.1016/j.ecss.2015.12.018" target="_blank">Abstract</a>] [<a href="https://www.journals.elsevier.com/estuarine-coastal-and-shelf-science" target="_blank">Journal home page</a>].
+
+Maugendre L., Gattuso J.-P., Poulton A. J., Dellisanti W., Gaubert M., Guieu C. &amp; Gazeau F., 2017. No detectable effect of ocean acidification on plankton metabolism in the NW oligotrophic Mediterranean Sea: results from two mesocosm studies. <i>Estuarine, Coastal and Shelf Science</i> 186A:89-99. [<a href="http://dx.doi.org/10.1016/j.ecss.2015.03.009" target="_blank">Abstract</a>] [<a href="https://www.journals.elsevier.com/estuarine-coastal-and-shelf-science" target="_blank">Journal home page</a>].
+
+Maugendre L., Guieu C., Gattuso J.-P. & Gazeau E., 2017. Ocean acidification in the Mediterranean Sea: pelagic mesocosm experiments. A synthesis. <i>Estuarine, Coastal and Shelf Science</i> 186A:1-10. [<a href="http://dx.doi.org/10.1016/j.ecss.2017.01.006" target="_blank">Abstract</a>] [<a href="https://www.journals.elsevier.com/estuarine-coastal-and-shelf-science" target="_blank">Journal home page</a>].
+
+Rau G. H., Caldeira K., Gattuso J.-P., Greene C. H., Karl D. M., Leinen M., McNutt M. K., Murray J. W. & von Herzen B., 2017. Carbon dioxide removal: size matters. <i>Science</i>, doi:10.1126/science.aam9726. [<a href="http://science.sciencemag.org/content/356/6339/706/tab-e-letters" target="_blank">Letter</a>] [<a href="http://science.sciencemag.org/" target="_blank">Journal home page</a>].
+
+Ripple W. J., Wolf C., Newsome T. M., Galetti M., Alamgir M., Crist E., Mahmoud M. I., Laurance W. F. &amp; 15,364 scientist signatories from 184 countries, 2017. World scientists’ warning to humanity: a second notice. <i>BioScience</i> 67(12):1026-1028.  [<a href="https://academic.oup.com/bioscience/article/doi/10.1093/biosci/bix125/4605229#100528775" target="_blank">Abstract</a>] [<a href="https://academic.oup.com/bioscience" target="_blank">Journal home page</a>]. 
+
+Sauz&egrave;de R., Claustre H., Pasqueron de Fommervault O., Bittig H., Gattuso, J.-P., Legendre L. &amp; Johnson K., 2017. Estimates of water-column nutrients and carbonate system parameters in the global ocean: A novel approach based on neural networks. <i>Frontiers in Marine Science</i> 4:128 [<a href="http://dx.doi.org/10.3389/fmars.2017.00128" target="_blank">Abstract</a>] [<a href="http://journal.frontiersin.org/journal/marine-science" target="_blank">Journal home page</a>].
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="2016">2016</a>
+
+Cox T. E., Gazeau F., Alliouane S., Hendriks I., Mahacek P., Le Fur A. &amp; Gattuso J.-P., 2016. Effects of <i>in situ</i> CO<sub>2</sub> enrichment on structural characteristics, photosynthesis, and growth of the Mediterranean seagrass <i>Posidonia oceanica</i>. <i>Biogeosciences</i> 13:2179-2194. [<a href="http://www.biogeosciences.net/13/2179/2016/" target="_blank">Abstract</a>] [<a href="http://www.biogeosciences.net" target="_blank">Journal home page</a>].
+
+Edmunds P. J., Comeau S., Lantz C., Andersson A., Briggs C., Cohen A., Gattuso J.-P., Grady J., Gross K., Johnson M., Muller E., Ries J. B., Tambutt&eacute; S., Tambutt&eacute; E., Venn A. &amp; Carpenter R. C., 2016. Integrating the effects of ocean acidification across functional scales on tropical coral reefs. <i>Biosciences</i> 66:350-362. [<a href="http://dx.doi.org/10.1093/biosci/biw023" target="_blank">Abstract</a>] [<a href="http://bioscience.oxfordjournals.org" target="_blank">Journal home page</a>].
+
+Gattuso J.-P., 2016. An ocean scientist at COP21. <i>Limnology and Oceanography Bulletin</i> 25:15-17.  [<a href="http://dx.doi.org/10.1002/lob.10087" target="_blank">Abstract</a>] [<a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1539-6088" target="_blank">Journal home page</a>]. 
+
+Gattuso J.-P. &amp; Feely R. A., 2016. Ocean acidification. In: Williamson P., Smythe-Wright D. &amp; Burkill P. (Eds.), Ocean and its seas: a non-governmental scientific perspective on seven marine research issues of G7, pp. 24-28. Paris: ICSU-IAPSO-IUGG-SCOR.
+
+Gattuso J.-P. &amp; Magnan A., 2016. Oc&eacute;an et climat apr&egrave;s l&rsquo;Accord de Paris (COP21). <i>M&eacute;t&eacute;o et Climat Info</i> 53:2. [<a href="http://meteoetclimat.fr" target="_blank">Journal home page</a>]. 
+
+Jiang L., Arzayus F., Garcia H., Gattuso, J.-P., Kozyr A., Chandler C., Yang Y., Thomas R., Beck B. &amp; Spears T., 2016. How to document ocean acidification data. <i>Limnology and Oceanography: e-Lectures</i>.  [<a href="http://dx.doi.org/10.1002/loe2.10004" target="_blank">Abstract</a>] [<a href="http://aslopubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2164-0254/" target="_blank">Journal home page</a>].
+
+Magnan A. K., Colombier M., Bill&eacute; R., Hoegh-Guldberg O., Joos F., P&ouml;rtner H.-O., Waisman H., Spencer T. &amp; Gattuso J.-P, 2016. Implications of the Paris Agreement for the ocean. <i>Nature Climate Change</i> 6:732-735.  [<a href="http://dx.doi.org/10.1038/nclimate3038" target="_blank">Abstract</a>] [<a href="http://www.nature.com/nclimate/index.html" target="_blank">Journal home page</a>].
+
+Magnan A. K. &amp; Gattuso J.-P., 2016. The cascading effects of climate-related changes in the ocean. In: Laffoley D. &amp; Baxter J. M. (Eds.), Explaining ocean warming: causes, scale, effects and consequences, pp. 47-54. Gland, Switzerland: IUCN. [<a href="https://portals.iucn.org/library/node/46254" target="_blank">Web page</a>]. 
+
+Magnan A. K. &amp; Gattuso J.-P., 2016. The need for fighting against ocean change. <i>Ocean Newsletter</i> 393. [<a href="https://www.spf.org/opri/projects/information/newsletter/latest/latest01.html" target="_blank">Web page</a>].
+
+Maier C., Popp P., Sollfrank N., Weinbauer M. G., Wild C. &amp; Gattuso J.-P., 2016. Effects of elevated pCO<sub>2</sub> and feeding on net calcification and energy budget of the Mediterranean cold-water coral <i>Madrepora oculata</i>. <i>The Journal of Experimental Biology</i> 219:3208-3217. [<a href="http://dx.doi.org/10.1242/jeb.127159" target="_blank">Abstract</a>] [<a href="http://jeb.biologists.org" target="_blank">Journal home page</a>].
+
+McCormack C. G., Born W., Irvine P. J., Achterberg E. P., Amano T., Ardron J., Blackstock J. J., Foster P. N., Gattuso J.-P., Hawkins S. J., Hendy E., Kissling W. D., Lluch-Cota S. E., Murphy E. J., Ostle N., Owens N., Perry R. I., P&ouml;rtner H.-O., Scholes R. J., Schurr F. M., Schweiger O., Settele J., Smith R. K., Smith S., Thompson J., Tittensor D. P., van Kleunen M., Vivian C., Vohl and K., Warren R., Watkinson A., Widdicombe S., Williamson P., Woods E. &amp; Sutherland W. J., 2016. Key impacts of climate engineering on biodiversity and ecosystems, with priorities for future research. <i>Journal of Integrative Environmental Sciences</i> 13:103-128. [<a href="http://dx.doi.org/10.1080/1943815X.2016.1159578" target="_blank">Abstract</a>] [<a href="http://www.tandfonline.com/loi/nens20#.VvoJhWM5ge0" target="_blank">Journal home page</a>]. 
+
+Moya A., Howes E. L., Lacoue-Labarthe T., For&ecirc;t S., Hanna B., Medina M., Munday P. L., Ong J.-S., Teyssi&eacute; J.-L., Torda G., Watson S.-A., Miller D. J., Bijma J. &amp; Gattuso J.-P., 2016. Near-future pH conditions severely impact calcification, metabolism and the nervous system in the pteropod <i>Heliconoides inflatus</i>. <i>Global Change Biology</i> 22:3888-3900.
+. [<a href="http://dx.doi.org/10.1111/gcb.13350" target="_blank">Abstract</a>] [<a href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2486" target="_blank">Journal home page</a>]. 
+
+Nash M. C., Martin S. &amp; Gattuso J.-P., 2016. Mineralogical response of the Mediterranean crustose coralline alga <i>Lithophyllum cabiochae</i> to near-future ocean acidification and warming. <i>Biogeosciences</i> 13:5937-5945. [<a href="http://dx.doi.org/10.5194/bg-13-5937-2016" target="_blank">Abstract</a>] [<a href="http://www.biogeosciences.net" target="_blank">Journal home page</a>].
+
+Stark J. &amp; Gattuso J.-P., 2016. Third xFOCE workshop: present status and future developments of <i>in situ</i> ocean acidification experiments. <i>Limnology and Oceanography Bulletin</i> 25:94-95. [<a href="http://onlinelibrary.wiley.com/doi/10.1002/lob.10126/abstract" target="_blank">Abstract</a>] [<a href="http://aslopubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1539-6088/" target="_blank">Journal home page</a>].
+
+Yang Y., Hansson L. &amp; Gattuso J.-P., 2016. Data compilation on the biological response to ocean acidification: an update. <i>Earth System Science Data</i> 8:79-87. [<a href="http://dx.doi.org/10.5194/essd-8-79-2016" target="_blank">Abstract</a>] [<a href="http://www.earth-system-science-data.net" target="_blank">Journal home page</a>]. 
+
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="2015">2015</a>
+
+Bertrand J.-C., Bonin P., Caumette P., Gattuso J.-P., Gr&eacute;gori G., Guyoneaud R., Le Roux X., Matheron R. &amp; Poly F., 2015. Biogeochemical cycles. In: Bertrand J.-C., Caumette P., Lebaron P., Matheron R., Normand P. &amp; Sime-Ngando, T (Eds.), <i>Environmental microbiology: fundamentals and applications</i>, pp. 511-617. Dordrecht: Springer. [<a href="http://link.springer.com/chapter/10.1007/978-94-017-9118-2_14" target="_blank">Abstract</a>] 
+
+Bopp L., Magnan A. &amp; Gattuso J.-P., 2015. Oc&eacute;ans et climat : un duo ins&eacute;parable. <i>Dossier Pour la Science</i> 89:34-40. [<a href="http://www.pourlascience.fr/ewb_pages/a/article-rechauffement-climatique-les-oceans-menaces-de-toute-part-35969.php" target="_blank">Abstract</a>] [<a href="http://www.pourlascience.fr" target="_blank">Journal home page</a>]. 
+
+Cooley S., Charles A., Andersson A., Arkhipkin A., Lam V., Seijo J. C. &amp; Gattuso J.-P., 2015. Central and South Atlantic Region. In: Hilmi N., Allemand D., Kavanagh C., Laffoley D., Metian M., Osborn D. &amp; Reynaud S. (Eds.), Bridging the gap between ocean acidification impacts and economic valuation: regional impacts of ocean acidification on fisheries and aquaculture, pp. 57-73. Gland (Switzerland): International Union for Conservation of Nature and Natural Resources. [<a href="https://www.iucn.org/knowledge/publications_doc/publications/?uPubsID=5173" target="_blank">Web site</a>] 
+
+Cox T. E., Schenone S., Delille J., D&iacute;az-Casta&ntilde;eda V., Alliouane S., Gattuso J.-P. &amp; Gazeau F., 2015. Effects of ocean acidification on <i>Posidonia oceanica</i> epiphytic community and shoot productivity. <i>Journal of Ecology</i> 103:1594-1609. [<a href="http://dx.doi.org/10.1111/1365-2745.12477" target="_blank">Abstract</a>] [<a href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2745" target="_blank">Journal home page</a>]. 
+
+Garcia H., Cosca C., Kozyr A., Mayorga E., Chandler C., Thomas R., O'Brien K., Appeltans W., Hankin S., Newton J., Gutierrez J., Gattuso J.-P., Hansson L. &amp; Pfeil B., 2015. Data management strategy to improve global use of ocean acidification data and information. <i>Oceanography</i> 28:226-228. [<a href="http://www.tos.org/oceanography/archive/28-2_garcia.html" target="_blank">Abstract</a>] 
+
+Gattuso J.-P., 2015. A short summary of the current knowledge on ocean acidification. In: Hilmi N., Allemand D., Kavanagh C., Laffoley D., Metian M., Osborn D. &amp; Reynaud S. (Eds.), <i>Bridging the gap between ocean acidification impacts and economic valuation: regional impacts of ocean acidification on fisheries and aquaculture</i>, pp. 19-21. Gland (Switzerland): International Union for Conservation of Nature and Natural Resources. [<a href="https://www.iucn.org/knowledge/publications_doc/publications/?uPubsID=5173" target="_blank">Web site</a>] 
+
+Gattuso J.-P., 2015. L’oc&eacute;an plus chaud que jamais. Journal du Dimanche 27 décembre 2015. [<a href="http://www.lejdd.fr/Societe/L-ocean-plus-chaud-que-jamais-765783" target="_blank">Web site</a>] 
+
+Gattuso J.-P., 2015. R&eacute;chauffement et acidification de la mer M&eacute;diterran&eacute;e. In: GREC-PACA (Ed.), Provence-Alpes-C&ocirc;te d&rsquo;Azur, une r&eacute;gion face au changement climatique, pp. 17. Marseille: R&eacute;gion Provence-Alpes-C&ocirc;te d&rsquo;Azur. [<a href="http://www.air-climat.org/publications/la-region-paca-face-au-changement-climatique/" target="_blank">Web site</a>] 
+
+Gattuso J.-P. &amp; Magnan A., 2015. Les oc&eacute;ans grands oubliés du climat : acteurs et victimes du changement climatique. <i>Le Monde Diplomatique</i> 740(suppl&eacute;ment): i et iv. [<a href="http://www.monde-diplomatique.fr/2015/11/GATTUSO/54182" target="_blank">Article</a>]. 
+
+Gattuso J.-P. &amp; Magnan A., 2015. Climate debate overlooks our oceans: global warming actors and victims. Le Monde Diplomatique UK edition, Special Issue December:I-IV. [<a href="http://mondediplo.com/2015/12/16oceanssupp" target="_blank">Article</a>]. 
+
+Gattuso J.-P. &amp;Magnan A., 2015. L’oc&eacute;an, acteur et victime du changement climatique. In: Etienne J. &amp; Gabri&eacute; C. (Eds.), Les &eacute;cosyst&egrave;mes marins dans la r&eacute;gulation du climat, pp. 46-47. Paris: Fonds Fran&ccedil;ais pour l'Environnement Mondial. [<a href="http://www.ffem.fr/accueil-FFEM/publications/Publications-geographiques-sectorielles-et-thematiques?actuCtnId=134984" target="_blank"> Book</a>]. 
+
+Gattuso J.-P., Magnan A., Bill&eacute; R., Cheung W. W. L., Howes E. L., Joos F., Allemand D., Bopp L., Cooley S., Eakin M., Hoegh-Guldberg O., Kelly R. P., P&ouml;rtner H.-O., Rogers A. D., Baxter J. M., Laffoley D., Osborn D., Rankovic A., Rochette J., Sumaila U. R., Treyer S. &amp; Turley C., 2015. Contrasting futures for ocean and society from different anthropogenic CO<sub>2</sub> emissions scenarios. <i>Science</i> 349:aac4722. [<a href="http://dx.doi.org/10.1126/science.aac4722" target="_blank">Abstract</a>] [<a href="science_reprint.php" target="_blank">pdf reprint</a>].
+
+Gazeau F., Urbini L., Cox T. E., Alliouane S. &amp; Gattuso J.-P., 2015. Comparison of the alkalinity and calcium anomaly techniques to estimate rates of net calcification. <i>Marine Ecology Progress Series</i> 527:1-12. [<a href="http://dx.doi.org/10.3354/meps11287" target="_blank">Abstract</a>] [<a href="http://www.int-res.com/journals/meps/meps-home/" target="_blank">Journal home page</a>]. 
+
+Howes E. L., Joos F., Eakin M. &amp; Gattuso J.-P., 2015. The Oceans 2015 Initiative, Part I: An updated understanding of the observed and projected impacts of ocean warming and acidification on physical and biological processes in the oceans. <i>IDDRI Study</i> 02/15:1-51. [<a href="http://www.iddri.org/Publications/The-Oceans-2015-Initiative,Part-I-An-updated-synthesis-of-the-observed-and-projected-impacts-of-climate-change-on-physical-and" target="_blank">Abstract</a>]. 
+
+Howes E. L., Joos F., Eakin M. &amp; Gattuso J.-P., 2015. An updated synthesis of the observed and projected impacts of climate change on the chemical, physical and biological processes in the oceans. <i>Frontiers in Marine Science</i> 2:36. [<a href="http://journal.frontiersin.org/article/10.3389/fmars.2015.00036/abstract" target="_blank">Abstract</a>] [<a href="http://journal.frontiersin.org/journal/marine-science" target="_blank">Journal home page</a>]. 
+
+Howes E. L., Stemmann L., Assailly C., Irisson J.-O., Dima M., Bijma J. &amp; Gattuso J.-P., 2015. Pteropod time-series from the North Western Mediterranean (1967-2003): impacts of pH and climate variability. <i>Marine Ecology Progress Series</i> 531:193-206. [<a href="http://www.int-res.com/abstracts/meps/v531/p193-206/" target="_blank">Abstract</a>] [<a href="http://www.int-res.com/journals/meps/meps-home/" target="_blank">Journal home page</a>]. 
+
+<tr valign = top><td><p><td><p align="left" class="biblio">Magnan A. K. &amp; Gattuso J.-P., 2015. Explorer le futur des oc&eacute;ans pour agir maintenant sur le changement climatique. <i>The Conversation</i> Novembre 2015. [<a href="http://theconversation.com/explorer-le-futur-des-oceans-pour-agir-maintenant-sur-le-changement-climatique-49557" target="_blank">Article</a>]. 
+
+Magnan A. &amp; Gattuso J.-P., 2015. L’oc&eacute;an, acteur oubli&eacute; du réchauffement global. <i>Alternatives Internationales</i> hors s&eacute;rie 17:14-15. [<a href="http://www.alternatives-internationales.fr/l-ocean--acteur-oublie-du-rechauffement-global_fr_art_1398_74102.html" target="_blank">Journal home page</a>]. 
+
+Magnan A. K., Billé R., Cooley S. R., Kelly R., P&ouml;rtner H.-O., Turley C. &amp; Gattuso J.-P., 2015. Intertwined ocean and climate: implications for international climate negotiations. <i>IDDRI Policy Brief</i> 04/15: 1-4. [<a href="http://www.iddri.org/Publications/Intertwined-ocean-and-climate-implications-for-international-climate-negotiations" target="_blank">Web site</a>] [<a href="publications_PDF/Magnan_etal_2015_IDDRI Policy Brief_ENG.pdf" target="_blank">English</a>] [<a href="publications_PDF/Magnan_etal_2015_IDDRI Policy Brief_FR.pdf" target="_blank">French</a>] [<a href="publications_PDF/Magnan_etal_2015_IDDRI Policy Brief_SP.pdf" target="_blank">Spanish</a>] [<a href="publications_PDF/Magnan_etal_2015_IDDRI Policy Brief_CN.pdf" target="_blank">Chinese</a>]. 
+
+Martin E., Salas y M&eacute;lia D., Badeau V., Delire C., Gattuso J.-P., Lemonsu A., Masson V., Pigeon G., Regimbeau M. &amp; Vigui&eacute; V., 2015. Impacts, adaptation et vuln&eacute;rabilit&eacute; des syst&egrave;mes naturels et anthropiques. <i>La M&eacute;t&eacute;orologie</i> 88:83-95. [<a href="http://documents.irevues.inist.fr/handle/2042/56364" target="_blank">Abstract</a>] [<a href="http://documents.irevues.inist.fr/handle/2042/14834" target="_blank">Journal home page</a>]. 
+
+Maugendre L., Gattuso J.-P., Louis J., de Kluijver A., Marro S., Soetaert K. &amp; Gazeau F., 2015. Effect of ocean warming and acidification on a plankton community in the NW Mediterranean Sea. <i>ICES Journal of Marine Science</i> 72:1744-1755. [<a href="http://dx.doi.org/10.1093/icesjms/fsu161" target="_blank">Abstract</a>] [<a href="http://icesjms.oxfordjournals.org" target="_blank">Journal home page</a>].
+
+Moya A., Huisman L., Ball E. E., Hayward D. C., Chua C. M., Woo H. N., Gattuso J.-P., For&ecirc;t S. &amp; Miller D. J., 2015. Rapid acclimation of juvenile corals to CO<sub>2</sub>-mediated acidification by up-regulation of HSP and Bcl-2 genes. <i>Molecular Ecology</i> 24:438-452. [<a href="http://dx.doi.org/10.1111/mec.13021" target="_blank">Abstract</a>] [<a href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-294X" target="_blank">Journal home page</a>]. 
+
+Orr J. C., Epitalon J.-M. &amp; Gattuso J.-P., 2015. Comparison of ten packages that compute ocean carbonate chemistry. <i>Biogeosciences</i> 12:1483-1510. [<a href="http://www.biogeosciences.net/12/1483/2015/bg-12-1483-2015.html" target="_blank">Abstract</a>] [<a href="http://www.biogeosciences-discuss.net" target="_blank">Journal home page</a>] [<a href="http://www.biogeosciences-discuss.net/11/5327/2014/bgd-11-5327-2014.html">Discussion paper</a>]
+
+R&eacute;veillac E., Lacoue-Labarthe T., Oberh&auml;nsli F., Teyssi&eacute; J.-L., Jeffree R., Gattuso J.-P. &amp; Martin S., 2015. Uncoupling of body and otolith growths in seabream juvenile as a result of ocean acidification. <i>Journal of Experimental Marine Biology and Ecology</i> 463:87–94. [<a href="http://dx.doi.org/10.1016/j.jembe.2014.11.007" target="_blank">Abstract</a>] [<a href="http://www.sciencedirect.com/science/journal/00220981" target="_blank">Journal home page</a>]. 
+
+Riebesell U. &amp; Gattuso J.-P., 2015. Lessons learned from ocean acidification research. <i>Nature Climate Change</i> 5:12-14. [<a href="http://dx.doi.org/10.1038/nclimate2456" target="_blank">Abstract</a>] [<a href="http://www.nature.com/nclimate/index.html" target="_blank">Journal home page</a>]. 
+
+Villar E., Audic S., Bittner L., Blanke B., Brum J. R., Brunet C., Casotti R., Chase A., Dolan J. R., d'Ortenzio F., Farrant G., Garczarek L., Gattuso J.-P., Gorsky G., Grima N., Guidi L., Hill C. N., Jahn O., Lepoivre C., Malviya S., Pelletier E., Romagnan J. B., Roux S., Santini S., Scalco E., Schwenck S. M., Tanaka T., Testor P., Vannier T., Vincent F., Dimier C., Picheral M., Searson S., Kandels-Lewis S., Acinas S. G., Boss E., Bowler C., de Vargas C., Follows M., Ogata H., Pesant S., Speich S., Sullivan M. B., Sunagawa S., Wincker P., Zingone A., Karsenti K., Not F., Hingamp P. &amp; Iudicone D., 2015. Dispersal and remodeling of plankton communities by Agulhas rings. <i>Science</i> 348:1261447. [<a href="http://dx.doi.org/10.1126/science.1261447" target="_blank">Abstract</a>] [<a href="http://www.sciencemag.org" target="_blank">Journal home page</a>]. 
+
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="2014">2014</a>
+
+Asnaghi V., Mangialajo L., Gattuso J.-P., Francour P., Privitera D. &amp; Chiantore M., 2014. Effects of ocean acidification and diet on the ultrastructure and mineralogical composition of tests of juvenile sea urchins. <i>Marine Environmental Research</i> 93:78-84. [<a href="http://dx.doi.org/10.1016/j.marenvres.2013.08.005" target="_blank">Abstract</a>] [<a href="http://www.sciencedirect.com/science/journal/01411136" target="_blank">Journal home page</a>]. 
+
+Field C., Barros V., Mach K., Mastrandrea M., van Aalst M., Adger N., Aldunce P., Arent D., Barnett J., Betts R., Bilir E., Birkmann J., Carmin J., Chadee D., Challinor A., Chatterjee M., Cramer W., Estrada Y., Gattuso J.-P., Hijioka Y., Hoegh-Guldberg O., Huang H.-Q., Insarov G., Jones R., Kovats S., Romero Lankao P., Nymand L. J., Losada I., Marengo J., McLean R., Mearns L., Mechler R., Morton J., Niang I., Oki T., Olwoch J. M., Opondo M., Poloczanska E., Po&#776;rtner H.-O., Redsteer M. H., Reisinger A., Revi A., Schmidt D., Shaw R., Solecki W., Stone J., Strzepek K., Suarez A., Tschakert P., Valentini R., Vicuna S., Villamizar A., Vincent K., Warren R., Wilbanks T., Wong P. P. &amp; Yohe G., 2014. Technical summary. In: Field C. B., Barros V. R., Dokken D. J., Mach K. J., Mastrandrea M. D., Bilir T. E., Chatterjee M., Ebi K. L., Estrada Y. O., Genova R. C., Girma B., Kissel E. S., Levy A. N., MacCracken S., Mastrandrea P. R. \&amp; White L. L. (Eds.), Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, pp. 35-94. Cambridge, United Kingdom and New York, NY, USA: Cambridge University Press. [<a href="https://ipcc-wg2.gov/AR5/report/full-report/" target="_blank">IPCC WGII AR5 website</a>]. 
+
+Gattuso J.-P., Brewer P., Hoegh-Guldberg O., Kleypas J. A., P&ouml;rtner H.-O. &amp; Schmidt D., 2014. Ocean acidification. In: Field C. B., Barros V. R., Dokken D. J., Mach K. J., Mastrandrea M. D., Bilir T. E., Chatterjee M., Ebi K. L., Estrada Y. O., Genova R. C., Girma B., Kissel E. S., Levy A. N., MacCracken S., Mastrandrea P. R. &amp; White L. L. (Eds.), Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, pp. 129-131. Cambridge, United Kingdom and New York, NY, USA: Cambridge University Press. [<a href="https://ipcc-wg2.gov/AR5/report/full-report/" target="_blank">IPCC WGII AR5 website</a>]. 
+
+Gattuso J.-P., Hansson L. &amp; Gazeau F., 2014. Ocean acidification and its consequences. In: Monaco A. &amp; Prouzet P. (Eds.), Ocean in the Earth System, pp. 189-253. London: ISTE and John Wiley. [<a href="http://www.iste.co.uk/index.php?f=x&ACTION=View&id=801" target="_blank">Web site</a>]. 
+
+Gattuso J.-P., Hansson L. &amp; Gazeau F., 2014. Acidification des océans et ses conséquences. In: Monaco A. &amp; Prouzet P. (Eds.), <i>Mer et oc&eacute;an : vuln&eacute;rabilit&eacute; du syst&egrave;me oc&eacute;anique</i>, pp. 131-185. London: Herm&egrave;s Sciences Publishing. [<a href="http://www.iste.co.uk/index.php?f=x&ACTION=View&id=801" target="_blank">Web site</a>]. 
+
+Gattuso J.-P., Hoegh-Guldberg O. &amp; P&ouml;rtner H.-O., 2014. Coral reefs. In: Field C. B., Barros V. R., Dokken D. J., Mach K. J., Mastrandrea M. D., Bilir T. E., Chatterjee M., Ebi K. L., Estrada Y. O., Genova R. C., Girma B., Kissel E. S., Levy A. N., MacCracken S., Mastrandrea P. R. &amp; White L. L. (Eds.), Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, pp. 97-100. Cambridge, United Kingdom and New York, NY, USA: Cambridge University Press. [<a href="https://ipcc-wg2.gov/AR5/report/full-report/" target="_blank">IPCC WGII AR5 website</a>]. 
+
+Gattuso J.-P. &amp; Kirkwood W., 2014. xFOCE: long-term impacts of ocean acidification <i>in situ</i>. <i>Limnology and Oceanography Bulletin</i> 23:15-16. 
+
+Gattuso J.-P., Kirkwood W., Barry J. P., Cox E., Gazeau F., Hansson L., Hendriks I. E., Kline D. I., Mahacek P., Martin S., McElhany P., Peltzer E., Reeve J., Roberts D., Saderne V., Tait K., Widdicombe S. &amp; Brewer P., 2014. Free-ocean CO<sub>2</sub> enrichment (FOCE) systems: present status and future developments. <i>Biogeosciences </i> 11:4057-4075. [<a href="http://www.biogeosciences-discuss.net/11/4001/2014/bgd-11-4001-2014.htmll" target="_blank">Abstract</a>] [<a href="http://www.biogeosciences.net" target="_blank">Journal home page</a>] [<a href="http://www.biogeosciences-discuss.net/11/4001/2014/bgd-11-4001-2014.html">Discussion paper</a>]
+
+Hansson L., Appletans W. &amp; Gattuso J.-P., 2014. Ocean acidification data management - workshop initiates first steps towards international collaboration. <i>Eos</i> 95:421-422. [<a href="http://dx.doi.org/10.1002/2014EO460006" target="_blank">Abstract</a>] [<a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2324-9250" target="_blank">Journal home page</a>].
+
+Hennige S., Roberts M., Williamson P., Aze T., Barry J., Bellerby R., Brander L., Byrne M., Gattuso J.-P., Gibbs S., Hansson L., Hattam C., Hauton C., Havenhand J., Foss&aring; J. H., Kavanagh C., Kurihara H., Matear R., Mark F., Melzner F., Munday P., Niehoff B., Pearson P., Rehdanz K., Tambutt&eacute; S., Turley C., Venn A., Warnau M. &amp; Young J., 2014. An updated synthesis of the impacts of ocean acidification on marine biodiversity, 99 p. Montréal: Convention on Biological Diversity. 
+
+Howes E. L., Bednars&#780;ek N., Bu&#776;denbender J., Comeau S., Doubleday A., Hopcroft R., Lischka S., Maas A. E., Bijma J. &amp; Gattuso J.-P., 2014. Sink and swim, a status review of thecosome pteropod culture techniques. <i>Journal of Plankton Research</i> 36:299-315. [<a href="http://dx.doi.org/10.1093/plankt/fbu002" target="_blank">Abstract</a>] [<a href="http://plankt.oxfordjournals.org/" target="_blank">Journal home page</a>].
+
+Lluch-Cota S. E., Hoegh-Guldberg O., Karl D., P&ouml;rtner H.-O., Sundby S. &amp; Gattuso J.-P., 2014. Uncertain trends in major upwelling ecosystems. In: Field C. B., Barros V. R., Dokken D. J., Mach K. J., Mastrandrea M. D., Bilir T. E., Chatterjee M., Ebi K. L., Estrada Y. O., Genova R. C., Girma B., Kissel E. S., Levy A. N., MacCracken S., Mastrandrea P. R. &amp; White L. L. (Eds.), Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate ChangeCambridge, United Kingdom and New York, NY, USA: Cambridge University Press. [<a href="https://ipcc-wg2.gov/AR5/report/full-report/" target="_blank">IPCC WGII AR5 website</a>]. 
+
+Picheral M., Searson S., Taillandier V., Bricaud A., Boss E., Ras J., Claustre H., Ouhssain M., Morin P., Tremblay J.-&Eacute;., Coppola L., Gattuso J.-P., Metzl N., Thuillier D. &amp; Gorsky G., 2014. Vertical profiles of environmental parameters measured on discrete water samples collected with Niskin bottles during the Tara Oceans expedition 2009-2013. <i>PANGAEA</i>. doi:10.1594/PANGAEA.836319. [<a href="https://doi.org/10.1594/PANGAEA.836319" target="_blank">Data set</a>]. 
+
+P&ouml;rtner H.-O., Karl D., Boyd P., Cheung W., Lluch-Cota S. E., Nojiri Y., Schmidt D. \&amp; Zavialov P., 2014. Ocean systems. In: Field C. B., Barros V. R., Dokken D. J., Mach K. J., Mastrandrea M. D., Bilir T. E., Chatterjee M., Ebi K. L., Estrada Y. O., Genova R. C., Girma B., Kissel E. S., Levy A. N., MacCracken S., Mastrandrea P. R. &amp; White L. L. (Eds.), Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, pp. 411-484. Cambridge, United Kingdom and New York, NY, USA: Cambridge University Press. [<a href="https://ipcc-wg2.gov/AR5/report/full-report/" target="_blank">IPCC WGII AR5 website</a>]. 
+
+Pretet C., Samankassou E., Felis T., Reynaud S., B&ouml;hm F., Eisenhauer A., Ferrier-Pag&egrave;s C., Gattuso J.-P. &amp; Camoin G., 2014. Effect of salinity on the skeletal chemistry of cultured scleractinian zooxanthellate corals: Cd/Ca ratio as a potential proxy for salinity reconstruction. <i>Coral Reefs</i> 33:169-180. [<a href="http://dx.doi.org/10.1007/s00338-013-1098-x">Abstract</a>] [<a href="http://www.springeronline.com/journal/00338/about">Journal home page</a>]
+
+Wong P. P., Losada I. J., Gattuso J.-P., Hinkel J., Khattabi A., McInnes K., Saito Y. &amp; Sallenger A., 2014. Coastal systems and low-lying areas. In: Field C. B., Barros V. R., Dokken D. J., Mach K. J., Mastrandrea M. D., Bilir T. E., Chatterjee M., Ebi K. L., Estrada Y. O., Genova R. C., Girma B., Kissel E. S., Levy A. N., MacCracken S., Mastrandrea P. R. &amp; White L. L. (Eds.), Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, pp. 361-409. Cambridge, United Kingdom and New York, NY, USA: Cambridge University Press. [<a href="https://ipcc-wg2.gov/AR5/report/full-report/" target="_blank">IPCC WGII AR5 website</a>]. 
+
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="2013">2013</a>
+
+
+Asnaghi V., Chiantore M., Mangialajo L., Gazeau F., Francour P., Alliouane S. &amp; Gattuso J.-P., 2013. Cascading effects of ocean acidification in a rocky subtidal community. <i>PLoS ONE</i> 8(4):e61978. [<a href="http://dx.doi.org/10.1371/journal.pone.0061978" target="_blank">Abstract</a>] [<a href="http://www.plosone.org/" target="_blank">Journal home page</a>].
+
+Bill&eacute; R., Kelly R., Harrould-Kolieb E., Herr D., Joos F., Kroeker K. J., Laffoley D., Oschlies A. &amp; Gattuso J.-P., 2013. Taking action against ocean acidification: a review of management and policy options. <i>Environmental Management</i> 52:761-779. [<a href="http://link.springer.com/article/10.1007%2Fs00267-013-0132-7" target="_blank">Abstract</a>] [<a href="http://link.springer.com/journal/267" target="_blank">Journal home page</a>].
+
+Brewer P. G., Kirkwood W. J. &amp; Gattuso J.-P., 2013. Progress in controlled in situ ocean acidification experiments. <i>Eos</i> 94:152. [<a href="http://onlinelibrary.wiley.com/doi/10.1002/2013EO160004/abstract" target="_blank">Abstract</a>] [<a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2324-9250" target="_blank">Journal home page</a>]
+
+Broadgate W., Riebesell U., Armstrong C., Brewer P., Denman K., Feely R., Gao K., Gattuso J.-P., Isensee K., Kleypas J., Laffoley D., Orr J., P&ouml;rtner H.-O., Eduardo de Rezende C., Schmidt D., Waite A. &amp; Vald&eacute;s L., 2013. Acidification des oce&#769;ans Re&#769;sume&#769; a&#768; l&rsquo;intention des de&#769;cideurs &ndash; Troisie&#768;me Symposium sur &laquo; L&rsquo;oce&#769;an dans un monde avec un taux e&#769;leve&#769; de CO<sub>2</sub> World. 23 p. Stockholm, Sweden: International Geosphere-Biosphere Programme. [<a href="http://www.igbp.net/publications/summariesforpolicymakers/summariesforpolicymakers/oceanacidificationsummaryforpolicymakers2013.5.30566fc6142425d6c9111f4.html" target="_blank">IGBP web page</a>]
+
+Broadgate W., Riebesell U., Armstrong C., Brewer P., Denman K., Feely R., Gao K., Gattuso J.-P., Isensee K., Kleypas J., Laffoley D., Orr J., P&ouml;rtner H.-O., Eduardo de Rezende C., Schmidt D., Waite A. &amp; Vald&eacute;s L., 2013. Ocean Acidification Summary for Policymakers – Third Symposium on the Ocean in a High-CO<sub>2</sub> World. 23 p. Stockholm, Sweden: International Geosphere-Biosphere Programme. [<a href="http://www.igbp.net/publications/summariesforpolicymakers/summariesforpolicymakers/oceanacidificationsummaryforpolicymakers2013.5.30566fc6142425d6c9111f4.html" target="_blank">IGBP web page</a>]
+
+Committee on the Review of the National Ocean Acidification Research Plan, 2013. Review of the federal ocean acidification research and monitoring plan. <i>National Research Council Report</i>, 76 p. Washington D.C.: The National Academies Press. [<a href="http://www.nap.edu/catalog.php?record_id=17018" target="_blank">Book</a>]
+
+de Carlo E. H., Mousseau L., Passafiume O., Drupp P. &amp; Gattuso J.-P., 2013. Carbonate chemistry and air-sea CO<sub>2</sub> flux in a NW Mediterranean bay over a four-year period: 2007-2011. <i>Aquatic Geochemistry</i> 19:399–442. [<a href="http://dx.doi.org/10.1007/s10498-013-9217-4" target="_blank">Abstract</a>] [<a href="http://link.springer.com/journal/10498" target="_blank">Journal home page</a>].
+
+Dorey N., Melzner F., Martin S., Oberh&auml;nsli F., Teyssi&eacute; J.-L., Bustamante P., Gattuso J.-P. &amp; Lacoue-Labarthe T., 2013. Ocean acidification and temperature rise: effects on calcification during early development of the cuttlefish <i>Sepia officinalis</i>. <i>Marine Biology</i> 160:2007-2022.  [<a href="http://dx.doi.org/10.1007/s00227-012-2059-6" target="_blank">Abstract</a>] [<a href="http://link.springer.com/journal/227" target="_blank">Journal home page</a>]
+
+Gattuso J.-P. &amp; Hansson L., 2013. L&rsquo;acidification des oc&eacute;ans. In: (Eds.), Livret sur l&rsquo;environnement 2013 - L&rsquo;oc&eacute;an, pp. 2-16. Institut de France, Acad&eacute;mie des sciences. [<a href="http://www.academie-sciences.fr/activite/rapport/livret_environnement.htm" target="_blank">Web site</a>]
+
+Gattuso J.-P., Mach K. J. &amp; Morgan G. M., 2013. Ocean acidification and its impacts: an expert survey. <i>Climatic Change</i> 117:725–738. [<a href="http://dx.doi.org/10.1007/s10584-012-0591-5" target="_blank">Abstract</a>] [<a href="http://link.springer.com/journal/10584" target="_blank">Journal home page</a>]
+
+Gazeau F., Parker L. M., Comeau S., Gattuso J.-P., O&rsquo;Connor W. A., Martin S., P&ouml;rtner H.-O. &amp; Ross P. M., 2013. Impacts of ocean acidification on marine shelled mollusks. <i>Marine Biology</i> 160:2207-2245.  [<a href="http://dx.doi.org/10.1007/s00227-013-2219-3" target="_blank">Abstract</a>] [<a href="http://link.springer.com/journal/227" target="_blank">Journal home page</a>]
+
+Kroeker K., Kordas R. C., Ryan, Hendriks I., Ramajo L., Singh G., Duarte C. &amp; Gattuso J.-P., 2013. Impacts of ocean acidification on marine organisms: quantifying sensitivities and interactions with warming.<i> Global Change Biology</i> 19:1884-1896.  [<a href="http://dx.doi.org/10.1111/gcb.12179" target="_blank">Abstract</a>] [<a href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2486" target="_blank">Journal home page</a>]
+
+Maier C., Bils F., Weinbauer M. G., Watremez P., Peck M. &amp; Gattuso J.-P., 2013. Respiration of Mediterranean cold-water corals is not affected by ocean acidification as projected for the end of the century. <i>Biogeosciences</i> 10:5671–5680. [<a href="http://www.biogeosciences.net/10/5671/2013/bg-10-5671-2013.html" target="_blank">Abstract</a>] [<a href="http://www.biogeosciences.net" target="_blank">Journal home page</a>]
+
+Maier C., Schubert A., Berzunza S&agrave;nchez M. M., Weinbauer M. G., Watremez P. &amp; Gattuso J.-P., 2013. End of the century pCO<sub>2</sub> levels do not impact net calcification in Mediterranean cold-water corals. <i>PLoS ONE</i> 8(4):e62655. [<a href="http://dx.doi.org/10.1371/journal.pone.0062655" target="_blank">Abstract</a>] [<a href="http://www.plosone.org/" target="_blank">Journal home page</a>].
+
+Martin S., Charnoz A. &amp; Gattuso J.-P., 2013. Photosynthesis, respiration and calcification of the Mediterranean crustose coralline alga <i>Lithophyllum cabiochae</i> (Corallinales, Rhodophyta). <i>European Journal of Phycology</i> 48(2), 163-172. [<a href="http://dx.doi.org/10.1080/09670262.2013.786790" target="_blank">Abstract</a>] [<a href="http://www.tandfonline.com/loi/tejp20" target="_blank">Journal home page</a>]
+
+Martin S., Cohu S., Vignot C., Zimmerman G. &amp; Gattuso J.-P., 2013. One-year experiment on the physiological response of the Mediterranean crustose coralline alga, <i>Lithophyllum cabiochae</i>, to elevated pCO<sub>2</sub> and temperature. <i>Ecology and Evolution</i> 3:676–693. [<a href="http://dx.doi.org/10.1002/ece3.475" target="_blank">Abstract</a>] [<a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2045-7758" target="_blank">Journal home page</a>]
+
+Motegi C., Tanaka T., Piontek J., Brussard C. P. D., Gattuso J.-P. &amp; Weinbauer M. G., 2013. Effect of CO<sub>2</sub> enrichment on bacterial production and respiration and on bacterial carbon metabolism in Arctic waters. <i>Biogeosciences</i> 10:3285-3296. [<a href="http://www.biogeosciences.net/10/3285/2013/bg-10-3285-2013.html" target="_blank">Abstract</a>] [<a href="http://www.biogeosciences.net" target="_blank">Journal home page</a>]
+
+Pretet C., Samankassou E., Felis T., Reynaud S., B&ouml;hm F., Eisenhauer A., Ferrier-Pag&egrave;s C., Gattuso J.-P. &amp; Camoin G., 2013. Constraining calcium isotope fractionation (&delta; <sup>44/40</sup>Ca) in modern and fossil scleractinian coral skeleton. <i>Chemical Geology</i> 340:49-58. [<a href="http://dx.doi.org/10.1016/j.chemgeo.2012.12.006" target="_blank">Abstract</a>] [<a href="http://www.sciencedirect.com/science/journal/00092541" target="_blank">Journal home page</a>] 
+
+Ragueneau O., Viard F., Gattuso J.-P., David B., Grall J. &amp; Tissot C., 2013. Changement global&nbsp;: impacts sur les &eacute;cosyst&egrave;mes et d&eacute;fis soci&eacute;taux. In: David B., Ozouf-Costaz C. &amp; Trousselier M. (Eds.), Mondes marins: voyage insolite au coeur des oc&eacute;ans, pp. 124-146. Paris: Le Cherche Midi. [<a href="http://www.amazon.fr/Mondes-marins-Voyage-insolite-océans/dp/2749133955" target="_blank">Amazon</a>] 
+
+Riebesell U., Gattuso J.-P., Thingstad T. F. &amp; Middeburg J. J., 2013. Arctic ocean acidification: pelagic ecosystem and biogeochemical responses during a mesocosm study. <i>Biogeosciences</i> 10:5619-5626.   [<a href="http://www.biogeosciences.net/special_issue120.html" target="_blank">Special issue</a>] [<a href="http://www.biogeosciences.net" target="_blank">Journal home page</a>] 
+
+Tanaka T., Alliouane S., Bellerby R. G. J., Czerny J., de Kluijver A., Riebesell U., Schulz K. G., Silyakova A. &amp; Gattuso J.-P., 2013. Effect of increased pCO<sub>2</sub> on the planktonic metabolic balance during a mesocosm experiment in an Arctic fjord. <i>Biogeosciences</i> 10:315-325. [<a href="http://www.biogeosciences.net/10/315/2013/bg-10-315-2013.html" target="_blank">Abstract</a>] [<a href="http://www.biogeosciences.net" target="_blank">Journal home page</a>]
+
+Weinbauer M. G., Liu J., Motegi C., Maier C., Pedrotti M. L., Dai M. &amp; Gattuso J.-P., 2013. Seasonal variability of microbial respiration and bacterial and archaeal community composition in the twilight zone. <i>Aquatic Microbial Ecology</i> 71:99-115. [<a href="http://www.int-res.com/abstracts/ame/v71/n2/p99-115/" target="_blank">Abstract</a>] [<a href="http://www.int-res.com/journals/ame/ame-home/" target="_blank">Journal home page</a>]
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="2012">2012</a>
+
+
+Comeau S., Alliouane S. &amp; Gattuso J.-P., 2012. Effects of ocean acidification on overwintering juvenile Arctic pteropods <i>Limacina helicina</i>. <i>Marine Ecology Progress Series</i> 456:279–284. [<a href="http://www.int-res.com/abstracts/meps/v456/p279-284/" target="_blank">Abstract</a>] [<a href="http://www.int-res.com/journals/meps/" target="_blank">Journal home page</a>].
+
+Comeau S., Gattuso J.-P., Jeffree R. &amp; Gazeau F., 2012. Effect of carbonate chemistry manipulations on calcification, respiration, and excretion of a Mediterranean pteropod. <i>Biogeosciences Discussions</i> 9:6169-6189.  [<a href="http://www.biogeosciences-discuss.net/9/6169/2012/bgd-9-6169-2012.html" target="_blank">Abstract</a>] [<a href="http://www.biogeosciences-discuss.net" target="_blank">Journal home page</a>] [<a href="http://www.biogeosciences-discuss.net/9/6169/2012/bgd-9-6169-2012.html">Discussion paper</a>]
+
+Gattuso J.-P. &amp; Thomas E., 2012. Ocean Acidification – How will ongoing ocean acidification affect marine life? <i>PAGES news</i> 20(1): 36-37. [<a href="http://www.pages-igbp.org/products/2011-03-28-16-23-06/522-pages-news-vol-20-no1" target="_blank">Journal home page</a>].
+
+Lacoue-Labarthe T., Martin S., Oberh&auml;nsli F., Teyssi&eacute; J.-L., Jeffree R., Gattuso J.-P. &amp; Bustamante P., 2012. Temperature and pCO<sub>2</sub> effect the bioaccumulation of radionuclides and trace elements in the eggs of the common cuttlefish, <i>Sepia officinalis. Journal of Experimental Marine Biology and Ecology</i> 413: 45-49. [<a href="http://dx.doi.org/10.1016/j.jembe.2011.11.025" target="_blank">Abstract</a>] [<a href="http://www.sciencedirect.com/science/journal/00220981" target="_blank">Journal home page</a>].
+
+Maier C., Watremez P., Taviani M., Weinbauer M. &amp; Gattuso J.-P., 2012. On board experiments to determine calcification rates and the effect of ocean acidification on Mediterranean cold-water corals. <i>Proceedings of the Royal Society of London. Series B: Biological Sciences</i> 279(1734): 1716-1723. [<a href="http://dx.doi.org/10.1098/rspb.2011.1763">Abstract</a>] [<a href="http://rspb.royalsocietypublishing.org/">Journal home page</a>].
+
+Martin S., Hall-Spencer J. M. &amp; Gattuso J.-P., 2012. Impact of ocean acidification on mediterranean coralline algae. <i>IMBER Update Newsletter 20</i>.  [<a href="http://www.imber.info/index.php/News/Newsletters/Issue-n-20-May-2012#toc_3_12">Article</a>].
+
+Moya A., Huisman L., Ball E. E., Hayward D. C., Chua C. M., Woo H. N., Gattuso J.-P., For&ecirc;t S., Miller D. J., 2012. Whole transcriptome analysis of the coral <i>Acropora millepora</i> reveals complex responses to ocean acidification during the initiation of calcification. <i>Molecular Ecology</i>. [<a href="http://dx.doi.org/10.1111/j.1365-294X.2012.05554.x">Abstract</a>] [<a href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-294X">Journal home page</a>].
+
+Nisumaa A.-M., Schlitzer R., Hansson L. &amp; Gattuso J.-P., 2012. EPOCA data management activities: a summary. <i>IMBER Newsletter.</i> [<a href="http://www.imber.info/index.php/Science/Working-Groups/SOLAS-IMBER-Carbon/Subgroup-3/Publications-and-reports/EPOCA-data-management">Article</a>].
+
+Pedrotti, M. L., Fiorini S., Kerros, M.-E., Middelburg J. &amp; Gattuso J.-P., 2012. Production of transparent exopolymeric particles by haploid and diploid life stages of three coccolithophores grown under different CO<sub>2</sub> concentration. <i>Journal of Plankton Research</i> 34:388-398. [<a href="http://dx.doi.org/10.1093/plankt/fbs012" target="_blank">Abstract</a>] [<a href="http://plankt.oxfordjournals.org/" target="_blank">Journal home page</a>].
+
+Turley C. &amp; Gattuso J.-P., 2012. Future biological and ecosystem impacts of ocean acidification and their socioeconomic-policy implications. <i>Current Opinion In Environmental Sustainability</i> 4:278–286. [<a href="http://dx.doi.org/10.1016/j.cosust.2012.05.007" target="_blank">Abstract</a>] [<a href="http://www.sciencedirect.com/science/journal/18773435" target="_blank">Journal home page</a>].
+
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="2011">2011</a>
+
+Andersson A. J., Mackenzie F. T. &amp; Gattuso J.-P., 2011. Effects of ocean acidification on benthic processes, organisms, and ecosystems. In: Gattuso J.-P. &amp; Hansson L. (Eds.), <i>Ocean acidification</i>, pp. 122-153. Oxford: Oxford University Press. [<a href="http://ukcatalogue.oup.com/product/9780199591091.do" target="_blank">Book home page</a>].
+
+Anthony K., Kleypas J. &amp; Gattuso J.-P., 2011. Coral reefs modify their seawater carbon chemistry- implications for impacts of ocean acidification. <i>Global Change Biology</i>. 17: 3655-3666. [<a href="http://dx.doi.org/10.1111/j.1365-2486.2011.02510.x" target="_blank">Abstract</a>] [<a href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2486/" target="_blank">Journal home page</a>].
+
+Bertrand J.-C., Bonin P., Caumette P., Gattuso J.-P., Gr&eacute;gori G., Guyoneaud R., Le Roux X., Matheron R. &amp; Poly F., 2011. Les cycles biog&eacute;ochimiques. In: Bertrand J.-C., Caumette P., Lebaron P., Matheron R. &amp; Normand P. (Eds.), <i>&Eacute;cologie microbienne : microbiologie des milieux naturels et anthropis&eacute;s</i>, 545-658. Pau, France: Presses Universitaires de Pau. [<a href="http://www.presses-univ-pau.fr/cart/Details/101/4/sciences-humaines/ecologie-microbienne.html" target="_blank">Web page</a>]
+
+Comeau S., Gattuso J.-P., Nisumaa A.-M. &amp; Orr J., 2011. Impact of aragonite saturation state changes on migratory pteropods. <i>Proceedings of the Royal Society of London. Series B: Biological Sciences</i> 279:732–738. [<a href="http://dx.doi.org/10.1098/rspb.2011.0910" target="_blank">Abstract</a>] [<a href="http://rspb.royalsocietypublishing.org/" target="_blank">Journal home page</a>].
+
+Fiorini S., Middelburg J. J.  &amp; Gattuso J.-P., 2011. Effects of elevated CO<sub>2</sub> partial pressure and temperature on the coccolithophore <i>Syracosphaera pulchra. Aquatic Microbial Ecology</i> 64:221-232. [<a href="http://dx.doi.org/10.3354/ame01520" target="_blank">Abstract</a>] [<a href="http://www.int-res.com/journals/ame/ame-home/" target="_blank">Journal home page</a>].
+
+Fiorini S., Middelburg J. &amp; Gattuso J.-P., 2011. Testing the effects of elevated pCO<sub>2</sub> on coccolithophores (Prymnesiophyceae): comparison between haploid and diploid life stages. <i>Journal of Phycology</i> 47:1281-1291. [<a href="http://dx.doi.org/10.1111/j.1529-8817.2011.01080.x" target="_blank">Abstract</a>] [<a href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1529-8817" target="_blank">Journal home page</a>].
+
+Gattuso J.-P., Bijma J., Gehlen M., Riebesell U. &amp; Turley C., 2011. Ocean acidification: knowns, unknowns and perspectives. In: Gattuso J.-P. &amp; Hansson L. (Eds.), <i>Ocean acidification</i>, pp. 291-311. Oxford: Oxford University Press. [<a href="http://ukcatalogue.oup.com/product/9780199591091.do" target="_blank">Book home page</a>].
+
+Gattuso J.-P., Gruber N. &amp; Metzl N., 2011. SOLAS IMBER joint working groups on ocean carbon: tackling the marine carbon cycle challenges. <i>SOLAS News</i> 12:2-3. [<a href="http://www.solas-int.org/news/newsletter/files/Issue12.pdf" target="_blank">SOLAS web site</a>]
+
+Gattuso J.-P. &amp; Hansson L. (Eds.), 2011. <i>Ocean acidification</i>, 326 p. Oxford: Oxford University Press. [<a href="http://ukcatalogue.oup.com/product/9780199591091.do" target="_blank">Book home page</a>].
+
+Gattuso J.-P. &amp; Hansson L., 2011. Ocean acidification: history and background. In: Gattuso J.-P. &amp; Hansson L. (Eds.), <i>Ocean acidification</i>, pp. 1-20. Oxford: Oxford University Press. [<a href="http://ukcatalogue.oup.com/product/9780199591091.do" target="_blank">Book home page</a>].
+
+Gattuso J.-P. &amp; Riebesell U., 2011. Reconciling apparently contradictory observations. In: Field C. B., Barros V., Stocker T. F., Qin D., Mach K. J., Plattner G.-K., Mastrandrea M. D., Tignor M. &amp; Ebi K. L. (Eds.), Workshop report of the Intergovernmental Panel on Climate Change workshop on impacts of ocean acidification on marine biology and ecosystems, pp. 10-16. Stanford, California: IPCC Working Group II Technical Support Unit, Carnegie Institution. [<a href="http://www.ipcc-wg2.gov/meetings/workshops/index.html#OA" target="_blank">IPCC web page</a>].
+
+Gazeau F., Gattuso J.-P., Greaves M., Elderfield H., Peene J., Heip C. H. R. &amp; Middelburg J., 2011. Effect of carbonate chemistry alteration on the early embryonic development of the Pacific oyster (<i>Crassostrea gigas</i>). <i>PLos ONE</i> 6(8):e23010. [<a href="http://dx.doi.org/10.1371/journal.pone.0023010" target="_blank">Abstract</a>] [<a href="http://www.plosone.org/" target="_blank">Journal home page</a>].
+
+Gazeau F., Martin S., Hansson L. &amp; Gattuso J.-P., 2011. Ocean acidification in the coastal ocean. <i>LOICZ Inprint</i> 2011/3:5-14. [<a href="http://www.plosone.org/" target="_blank">Journal home page</a>].
+
+
+Kleypas J. A., Anthony K. R. N. &amp; Gattuso J.-P., 2011. Coral reefs modify their seawater carbon chemistry- Case study from a barrier reef (Moorea, French Polynesia). <i>Global Change Biology</i>. 17:3667-3678. [<a href="http://dx.doi.org/10.1111/j.1365-2486.2011.02530.x" target="_blank">Abstract</a>] [<a href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2486/" target="_blank">Journal home page</a>].
+
+Lacoue-Labarthe T., R&eacute;veillac E., Oberh&auml;nsli F., Teyssi&eacute; J.-L., Jeffree R. &amp; Gattuso J.-P., 2011. Effects of ocean acidification on trace elements accumulation in the early life stages of squid <i>Loligo vulgaris. Aquatic Toxicology</i> 105:166-176. [<a href="http://dx.doi.org/10.1016/j.aquatox.2011.05.021" target="_blank">Abstract</a>] [<a href="http://www.sciencedirect.com/science/journal/0166445X">Journal home page</a>].
+
+Martin S., Richier S., Pedrotti M. L., Dupont S., Castejon C., Gerakis Y., Kerros M.-E., Oberh&auml;nsli F., Teyssi&eacute; J. L., Jeffree R. &amp; Gattuso J.-P., 2011. Early development and molecular plasticity in the Mediterranean sea urchin <i>Paracentrotus lividus</i> exposed to CO<sub>2</sub>-driven acidification. <i>Journal of Experimental Biology</i> 214:1357-1368. [<a href="http://dx.doi.org/10.1242/jeb.051169" target="_blank">Abstract</a>] [<a href="http://jeb.biologists.org/" target="_blank">Journal home page</a>].
+
+Richier S., Fiorini S., Kerros M.-E., von Dassow P. &amp; Gattuso J.-P., 2011. Response of the calcifying coccolithophore <i>Emiliania huxleyi</i> to low pH/high pCO<sub>2</sub>: from physiology to molecular level. <i>Marine Biology</i> 158:551-560. [<a href="http:/dx.doi.org/10.1007/s00227-010-1580-8" target="_blank">Abstract</a>] [<a href="http://www.springerlink.com/content/0025-3162/" target="_blank">Journal home page</a>].
+
+Rodolfo-Metalpa R., Houlbrèque F., Tambutt&eacute; E., Boisson F., Baggini C., Patti F. P., Jeffree R., Fine M., Foggo A., Gattuso J.-P. &amp; Hall-Spencer J. M., 2011. Coral and mollusc resistance to ocean acidification adversely affected by warming. <i>Nature Climate Change</i> 1:308-312. [<a href="http://dx.doi.org/10.1038/nclimate1200
+" target="_blank">Abstract</a>] [<a href="http://www.nature.com/nclimate" target="_blank">Journal home page</a>].
+
+Smith S. V. &amp; Gattuso J.-P., 2011. Balancing the oceanic calcium carbonate cycle: consequences of variable water column &Psi;. <i>Aquatic Geochemistry</i> 17:327-337. [<a href="http://dx.doi.org/10.1007/s10498-010-9109-9
+" target="_blank">Abstract</a>] [<a href="http://www.springer.com/earth+sciences+and+geography/journal/10498" target="_blank">Journal home page</a>].
+
+Trotter J., Montagna P., McCulloch M., Silenzi S., Reynaud S., Mortimer G., Martin S., Ferrier-Pag&egrave;s C., Gattuso J.-P. &amp; Rodolfo-Metalpa R., 2011. Quantifying the pH &lsquo;vital effect&rsquo; in the temperate zooxanthellate coral <i>Cladocora caespitosa</i>: validation of the boron seawater pH proxy. <i>Earth and Planetary Science Letters</i> 303:163-173. [<a href="http://dx.doi.org/10.1016/j.epsl.2011.01.030
+" target="_blank">Abstract</a>] [<a href="http://www.sciencedirect.com/science/journal/0012821X" target="_blank">Journal home page</a>].
+
+Turley C., Keizer T., Williamson P., Gattuso J.-P., Ziveri P., Munroe R., Boot K. &amp; Huelsenbeck M., 2011. <i>Hot, sour and breathless &ndash; Ocean under stress</i>, 8 p. Plymouth: Plymouth Marine Laboratory, UK Ocean Acidification Research Programme, European Project on Ocean Acidification, Mediterranean Sea Acidification in a Changing Climate project, OCEANA. [<a href="http://dx.doi.org/10.1016/j.epsl.2011.01.030
+" target="_blank">Leaflet</a>].
+
+Turley C., Gattuso J.-P. &amp; Hoegh-Guldberg O., 2011. Ocean acidification: examples of potential impacts. In: Richardson K., Steffen W. &amp; Liverman D. (Eds.), Climate change: global risks, challenges and decisions, pp. 37-39. Cambridge: Cambridge University Press. [<a href="http://www.cambridge.org/gb/knowledge/isbn/item5738908/?site_locale=en_GB" target="_blank">Book home page</a>].
+
+Weinbauer M. G., Mari X. &amp; Gattuso J.-P., 2011. Effect of ocean acidification on the diversity and activity of heterotrophic marine microorganisms. In: Gattuso J.-P. &amp; Hansson L. (Eds.), <i>Ocean acidification</i>, pp. 83-98. Oxford: Oxford University Press. [<a href="http://ukcatalogue.oup.com/product/9780199591091.do" target="_blank">Book home page</a>].
+
+Zeebe R. E. &amp; Gattuso J.-P., 2011. Chemistry of the seawater carbonate system. In: Gattuso J.-P. &amp; Hansson L. (Eds.), <i>Ocean acidification</i>, pp. 2-3. Oxford: Oxford University Press. [<a href="http://ukcatalogue.oup.com/product/9780199591091.do" target="_blank">Book home page</a>].
+
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="2010">2010</a>
+
+Barry J. P., Tyrrell T., Hansson L. &amp; Gattuso J.-P., 2010. CO<sub>2</sub> targets for ocean acidification perturbation experiments. In: Riebesell U., Fabry V. J., Hansson L. &amp; Gattuso J.-P. (Eds.), Guide to best practices for ocean acidification research and data reporting, pp. 53-66. Luxembourg: Office for Official Publications of the European Union. [<a href="http://www.epoca-project.eu/index.php/Home/Guide-to-OA-Research/">Guide web page</a>]
+
+Bonilla-Findji O., Gattuso J.-P., Pizay M.-D. &amp; Weinbauer M. G., 2010. Autotrophic and heterotrophic metabolism of microbial planktonic communities in an oligotrophic coastal marine ecosystem: seasonal dynamics and episodic events. <i>Biogeosciences</i> 7:3491-3503.  [<a href="http://www.biogeosciences.net/7/3491/2010/bg-7-3491-2010.html">Abstract</a>] [<a href="http://www.biogeosciences.net">Journal home page</a>].
+
+Comeau S., Gorsky G., Alliouane S. &amp; Gattuso J.-P., 2010.  Larvae of the pteropod <i>Cavolinia inflexa</i> exposed to aragonite undersaturation are viable but shell-less. <i>Marine Biology</i> 157:2341-2345. [<a href="http://dx.doi.org/10.1007/s00227-010-1493-6
+">Abstract</a>] [<a href="http://www.springerlink.com/content/r176361738486vv6/227_2010_Article_1493_ESM.html" target="_blank">Supplementary information</a>] [<a href="http://www.springerlink.com/content/100441/">Journal home page</a>]
+
+Comeau S., Jeffree R., Teyssi&eacute; J.-L. &amp; Gattuso J.-P., 2010. Response of the Arctic pteropod <i>Limacina helicina</i> to projected future environmental conditions. <i>PLoS ONE</i> 5:e11362. [<a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0011362
+">Abstract</a>] [<a href="http://www.plosone.org">Journal home page</a>]
+
+Fiorini S., Gattuso J.-P., van Rijswijk P. &amp; Middelburg J. J., 2010. Coccolithophores lipid and carbon isotope composition and their variability related to changes in seawater carbonate chemistry. <i>Journal of Experimental Marine Biology and Ecology</i> 394:74-85. [<a href="http://dx.doi.org/10.1016/j.jembe.2010.07.020">Abstract</a>] [<a href="http://www.sciencedirect.com/science/journal/00220981">Journal home page</a>]
+
+Gattuso J.-P., Lee K., Rost B., Schulz K. &amp; Gao K., 2010. Approaches and tools to manipulate the carbonate chemistry. In: Riebesell U., Fabry V. J., Hansson L. &amp; Gattuso J.-P. (Eds.), Guide to best practices for ocean acidification research and data reporting, pp. 41-52. Luxembourg: Office for Official Publications of the European Union. [<a href="http://www.epoca-project.eu/index.php/Home/Guide-to-OA-Research/">Guide web page</a>]
+
+Gazeau F., Gattuso J.-P., Dawber, C., Pronker A. E., Peene F., Peene J., Heip C. H. &amp;  Middelburg J. J., 2010. Effect of ocean acidification on the early life stages of the blue mussel (<i>Mytilus edulis</i>). <i>Biogeosciences</i> 7:2051-2060. [<a href="http://www.biogeosciences.net/7/2051/2010/bg-7-2051-2010.html/
+">Abstract</a>] [<a href="http://www.biogeosciences.net">Journal home page</a>]
+
+Iglesias-Rodriguez M. D., Anthony K., Bijma J., Dickson A., Doney S., Fabry V. J., Feely R. A., Gattuso J.-P., Lee K., Riebesell U., Saino T. &amp; Turley C., 2010. Developing a global ocean acidification observation network. Proceedings of OceanObs&rsquo;09: Sustained Ocean Observations and Information for Society, Venice, Italy, 1-24. ESA Publication WPP-306. [<a href="http://www.oceanobs09.net/">Conference web site</a>].
+
+Kleypas J. A., Feely R., Gattuso J.-P. &amp; Turley C. (eds), 2010. Frequently asked questions about ocean acidification, 14 p. Woods Hole: Ocean Carbon Biogeochemistry, EPOCA and UKOARP. [<a href="http://www.epoca-project.eu/index.php/what-is-ocean-acidification/faq.html">FAQ web page</a>]
+
+Langdon C., Gattuso J.-P. &amp; Andersson A., 2010. Measurements of calcification and dissolution of benthic organisms and communities. In: Riebesell U., Fabry V. J., Hansson L. &amp; Gattuso J.-P. (Eds.), Guide to best practices for ocean acidification research and data reporting, pp. 213-234. Luxembourg: Office for Official Publications of the European Union. [<a href="http://www.epoca-project.eu/index.php/Home/Guide-to-OA-Research/">Guide web page</a>]
+
+Liu J., Weinbauer M. G., Maier C., Dai M. &amp; Gattuso J.-P., 2010. Effect of ocean acidification on microbial diversity, and on microbe-driven biogeochemistry and ecosystem functioning. <i>Aquatic Microbial Ecology</i> 61:291-305. [<a href="http://dx.doi.org/10.3354/ame01446
+">Abstract</a>] [<a href="http://www.int-res.com/abstracts/ame/">Journal home page</a>]
+
+Lombard F., da Rocha R. E., Bijma J. &amp; Gattuso J.-P., 2010. Effect of carbonate ion concentration and irradiance on calcification in planktonic foraminifera. <i>Biogeosciences</i> 7:247-255. [<a href="http://www.biogeosciences.net/7/247/2010/
+">Abstract</a>] [<a href="http://www.biogeosciences.net">Journal home page</a>]
+
+McQuatters-Gollop A., Burkill P. H., Beaugrand G., Johns D. J., Gattuso J.-P. &amp; Edwards M., 2010. Atlas of calcifying plankton: results from the continuous plankton recorder survey, 20 p. Plymouth, UK: EPOCA and Sir Alister Hardy Foundation for Ocean Science.  [<a href="publications_PDF/McQuatters-Gollop_etal.2010_cpr_atlas_hr.pdf">High resolution pdf</a>]
+
+Nisumaa A.-M., Pesant S., Bellerby R. G. J., Middelburg J. J., Orr J. C., Riebesell U., Tyrrell T., Wolf-Gladrow D. &amp; Gattuso J.-P., 2010. EPOCA/EUR-OCEANS data compilation on the biological and biogeochemical responses to ocean acidification. <i>Earth System Science Data</i> 3: 109-130.  [<a href="http://www.earth-syst-sci-data.net/2/167/2010/essd-2-167-2010.html">Abstract</a>] [<a href="http://www.earth-syst-sci-data.net">Journal home page</a>]
+
+P&ouml;rtner H.-O., Dickson A. &amp; Gattuso J.-P., 2010. Terminology and units for parameters relevant to the carbonate system. In: Riebesell U., Fabry V. J., Hansson L. &amp; Gattuso J.-P. (Eds.), Guide to best practices for ocean acidification research and data reporting, pp. 18-19. Luxembourg: Office for Official Publications of the European Union. [<a href="http://www.epoca-project.eu/index.php/Home/Guide-to-OA-Research/">Guide web page</a>]
+
+Riebesell U., Fabry V. J., Hansson L. &amp; Gattuso J.-P. (Eds.), 2010. Guide to best practices for ocean acidification research and data reporting, 258 p. Luxembourg: Office for Official Publications of the European Union. [<a href="http://www.epoca-project.eu/index.php/Home/Guide-to-OA-Research/">Guide web page</a>]
+
+Riebesell U., Fabry V. J., Hansson L. &amp; Gattuso J.-P., 2010. Preface. In: Riebesell U., Fabry V. J., Hansson L. &amp; Gattuso J.-P. (Eds.), Guide to best practices for ocean acidification research and data reporting, pp. 5-6. Luxembourg: Office for Official Publications of the European Union. [<a href="http://www.epoca-project.eu/index.php/Home/Guide-to-OA-Research/">Guide web page</a>] [<a href="http://dx.doi.org/10.2777/58454">EU Bookshop</a>]
+
+Rodolfo-Metalpa R., Martin S., Ferrier-Pag&egrave;s C. &amp; Gattuso J.-P., 2010. Response of the temperate coral <i>Cladocora caespitosa</i> to mid- and long-term exposure to pCO<sub>2</sub> and temperature levels projected for the year 2100 AD. <i>Biogeosciences</i> 7:289-300. [<a href="http://www.biogeosciences.net/7/289/2010/
+">Abstract</a>] [<a href="http://www.biogeosciences.net">Journal home page</a>]
+
+Turley C., Eby M., Ridgwell A. J., Schmidt D. N., Findlay H. S., Brownlee C., Riebesell U., Fabry V. J., Feely R. A. &amp; Gattuso J.-P., 2010. The societal challenge of ocean acidification. <i>Marine Pollution Bulletin</i> 60:787-792. [<a href="http://dx.doi.org/10.1016/j.marpolbul.2010.05.006
+">Abstract</a>] [<a href="http://www.sciencedirect.com/science/journal/0025326X">Journal home page</a>]
+
+
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="2009">2009</a>
+
+Bijma J., Barange M., Brander L., Cardew G., de Leeuw J., Feely R., Fernand L., Ganssen G., Gattuso J.-P., Reichart G.-J., Rodhouse P. G., Schmidt F., Thorndyke M., Turley C., Urban E., Ziveri P., Lipiatou E., Avril B. &amp; Turk D., 2009. <i>Impacts of ocean acidification</i>. European Science Foundation Policy Briefing 37: 1-12. Strasbourg, France: European Science Foundation. [<a href="http://www.esf.org/publications.html">web site</a>]
+
+Bonilla-Findji O., Herndl G. J., Gattuso J.-P. &amp; Weinbauer M. G., 2009. Viral and flagellate control of prokaryotic production and community structure in offshore Mediterranean waters. <i>Applied and Environmental Microbiology</i> 75: 4801-4812. [<a href="http://dx.doi.org/10.1128/AEM.01376-08">Abstract</a>] [<a href="http://aem.asm.org/">Journal home page</a>]
+
+Bonilla-Findji O., Rochelle-Newall E., Weinbauer M. G., Pizay M.-D. &amp; Gattuso J.-P., 2009. Effect of seawater-freshwater cross-transplantations on viral dynamics and bacterial diversity and production. <i>Aquatic Microbial Ecology</i> 54: 1-11.  [<a href="http://www.int-res.com/abstracts/ame/v54/n1/p1-11/">Abstract</a>] [<a href="http://www.int-res.com/journals/ame/ame-home/">Journal home page</a>]
+
+Brainard R. E., Bainbridge S., Brinkman R., Eaki C. M., Field M., Gattuso J.-P., Gledhill D., Gramer L., Hendee J., Hoeke R. K., Holbrook S. J., Hoegh-Guldberg O., Lammers M., Manzello D., McManus M., Moffitt R., Monaco M., Morgan J., Obura D., Planes S., Schmitt R. J., Steinberg C., Sweatman H., Vetter O. J. &amp; Won K. B., 2009. An international network of coral reef ecosystem observing systems (I-CREOS). Proceedings of OceanObs&rsquo;09: Sustained Ocean Observations and Information for Society, Venice, Italy. ESA Publication WPP-306. [<a href="http://www.oceanobs09.net/">Conference web site</a>].
+
+Comeau S., Gorsky G., Jeffree R., Teyssi&eacute; J. L. &amp; Gattuso J.-P., 2009. Impact of ocean acidification on a key Arctic pelagic mollusc (<i>Limacina helicina</i>). <i>Biogeosciences</i> 6:1877-1882. [<a href="http://www.biogeosciences.net/6/1877/">Abstract</a>] [<a href="http://www.biogeosciences.net">Journal home page</a>]
+
+Fabry V. J., Langdon C., Balch W. M., Dickson A. G., Feely R. A., Hales B., Hutchins D. A., Kleypas J. A., Sabine C. L. (with contributions from Atkinson M. J., Andersson A. J., Barry J. P., Doney S. C., Gattuso J.-P., Gledhill D. K., Green M. A., Guinotte J. M., Jahnke R., Jewett L., Johnson S. K., Sedwick P., Thuesen E. V. &amp; Zimmerman R. C.), 2009. <i>Present and future impacts of ocean acidification on marine ecosystems and biogeochemical cycles</i>. Report of the Ocean Carbon and Biogeochemistry Scoping Workshop on Ocean Acidification Research, 65 p. Woods Hole: Ocean Carbon and Biogeochemistry Program. [<a href="http://www.whoi.edu/sbl/liteSite.do?litesiteid=19977">Workshop web site</a>]
+
+Feely R. A., Fabry V. J., Dickson A., Gattuso J.-P., Bijma J., Riebesell U., Doney S., Turley C., Saino T., Lee K., Anthony K. &amp; Kleypas J. A., 2009. Ocean acidification observational network. Proceedings of OceanObs&rsquo;09: Sustained Ocean Observations and Information for Society, Venice, Italy. ESA Publication WPP-306. [<a href="http://www.oceanobs09.net/">Conference web site</a>].
+
+Gao K. S., Ruan Z., Villafa&ntilde;e V. E., Gattuso J.-P. &amp; Helbling E. W., 2009. Ocean acidification exacerbates the effect of UV radiation on the calcifying phytoplankter <i>Emiliania huxleyi. Limnology and Oceanography</i> 54:1855-1862. [<a href="http://aslo.org/lo/toc/vol_54/issue_6/index.html">Abstract</a>] [<a href="http://aslo.org/lo">Journal home page</a>]
+
+Gattuso J.-P., Comeau S. &amp; Maier C., 2009. Impact of ocean acidification on marine snails and deep-sea corals. <i>Global Change Newsletter</i> 73:29. [<a href="http://www.igbp.net/page.php?pid=231">Journal home page</a>]
+
+Gattuso J.-P., Hansson L. &amp; the EPOCA consortium, 2009. European Project on Ocean Acidification (EPOCA): objectives, products and scientific highlights. <i>Oceanography</i> 22(4): 190-201. [<a href="http://tos.org/oceanography/">Journal home page</a>]
+
+Gattuso J.-P. &amp; Lavigne H., 2009. Technical note: approaches and software tools to investigate the impact of ocean acidification. <i>Biogeosciences</i> 6:2121-2133. [<a href="http://www.biogeosciences.net/6/2121/2009/bg-6-2121-2009.html">Abstract</a>] [<a href="http://www.biogeosciences.net">Journal home page</a>]
+
+Martin S. &amp; Gattuso J.-P., 2009. Response of Mediterranean coralline algae to ocean acidification and elevated temperature. <i>Global Change Biology</i> 15: 2089-2100. [<a href="http://dx.doi.org/10.1111/j.1365-2486.2009.01874.x">Abstract</a>] [<a href="http://www3.interscience.wiley.com/journal/117991450/home">Journal home page</a>]
+
+Maier C., Hegeman J., Weinbauer M. G.  &amp; Gattuso J.-P., 2009. Calcification of the cold-water coral <i>Lophelia pertusa</i> under ambient and reduced pH. <i>Biogeosciences</i> 6: 1671-1680. [<a href="http://www.biogeosciences.net/6/1671/">Abstract</a>] [<a href="http://www.biogeosciences.net">Journal home page</a>]
+
+Orr J. C., Caldeira K., Fabry V., Gattuso J.-P., Haugan P., Lehodey P., Pantoja S., P&ouml;rtner H.-O., Riebesell U., Trull T., Hood M., Urban E. &amp; Broadgate W., 2009. Research Priorities for Ocean Acidification, Report from the Second Symposium on the Ocean in a High-CO2 World. 25 p. Monaco: SCOR, IOC-UNESCO, IAEA and IGBP. [<a href="http://www.ocean-acidification.net/">Web site</a>]
+
+Orr J. C., Caldeira K., Fabry V., Gattuso J.-P., Haugan P., Lehodey P., Pantoja S., P&ouml;rtner H.-O., Riebesell U., Trull T., Urban E., Hood M. &amp; Broadgate W., 2009. Research priorities for understanding ocean acidification: summary from the second symposium on the ocean in a high-CO<sub>2</sub> world. <i>Oceanography</i> 22(4): 182-189. [<a href="http://tos.org/oceanography/">Journal home page</a>]
+
+Richier S., Kerros M.-E., de Vargas C., Haramaty L., Falkowski P. G. &amp; Gattuso J.-P., 2009. Light-dependent transcriptional regulation of genes of biogeochemical interest in the diploid and haploid life stages of <i>Emiliania huxleyi</i>. <i>Applied and Environmental Microbiology</i>.  [<a href="http://aem.asm.org/cgi/content/abstract/75/10/3366?maxtoshow=&amp;HITS=10&amp;hits=10&amp;RESULTFORMAT=&amp;author1=richier&amp;searchid=1&amp;FIRSTINDEX=0&amp;resourcetype=HWCIT">Abstract</a>] [<a href="http://aem.asm.org/">Journal home page</a>]
+
+Rollion-Bard C., Vigier N., Meibom A., Blamart D., Reynaud S., Rodolfo-Metalpa R., Martin S.  &amp; Gattuso J.-P., 2009. Effect of environmental conditions and skeletal ultrastructure on the Li isotopic composition of scleractinian corals. <i>Earth and Planetary Science Letters</i> 286: 63-70. [<a href="http://dx.doi.org/10.1016/j.epsl.2009.06.015">Abstract</a>] [<a href="http://www.sciencedirect.com/science/journal/0012821X">Journal home page</a>]
+
+Smith S. V.  &amp; Gattuso J.-P., 2009. Coral reefs. In: Laffoley D. &amp; Grimsditch G. (Eds.), The management of natural coastal carbon sinks, pp. 39-45. Gland, Switzerland: IUCN. [<a href="http://www.iucn.org/about/union/commissions/wcpa/wcpa_events/wcpa_climatepasummit/wcpa_paclimatedocs/">Web site</a>]
+
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="2008">2008</a>
+
+
+Bonilla-Findji O., Malits A., Lef&egrave;vre D., Rochelle-Newall E. J., Lem&eacute;e R., Weinbauer M. G. &amp; Gattuso J.-P., 2008. Viral effects on bacterial respiration, production and growth efficiency: consistent trends in the Southern Ocean and the Mediterranean Sea. <i>Deep-Sea Research (Part II, Topical Studies in Oceanography)</i> 55:790-800. [<a href="http://dx.doi.org/10.1016/j.dsr2.2007.12.004">Abstract</a>] [<a href="http://www.sciencedirect.com/science/journal/09670645">Journal home page</a>]
+
+Gattuso J.-P. &amp; Hansson L., 2008. EPOCA (European Project on Ocean Acidification) and other research efforts devoted to the Mediterranean Sea. In: Briand F. (Ed.), <i>Impacts of acidification on biological, chemical and physical systems in the Mediterranean and Black Seas</i>, pp. 31-33. Monaco: CIESM. [<a href="http://www.ciesm.org/online/monographs/Menton.html">Web site</a>]
+
+Gonz&aacute;lez N., Gattuso J.-P. &amp; Middelburg J. J., 2008. Oxygen production and carbon fixation in oligotrophic coastal bays and the relationship with gross and net primary production. <i>Aquatic Microbial Ecology</i> 52:119-130. [<a href="http://dx.doi.org/10.3354/ame01208">Abstract</a>] [<a href="http://www.int-res.com/journals/ame/ame-home/">Journal home page</a>]
+
+Jeffree R., Martin S., Lacoue-Labarthe T., Houlbr&egrave;que F., Oberh&auml;nsli F., Comeau S., Teyssi&eacute; J.-L., Boisson F., Gattuso J.-P. &amp; Orr J., 2008. Experimental studies of ocean-acidification impacts on Mediterranean seafood species. In: Briand F. (Ed.), Impacts of acidification on biological, chemical and physical systems in the Mediterranean and Black Seas, pp. 77-80. Monaco: CIESM. [<a href="http://www.ciesm.org/online/monographs/Menton.html">Web site</a>]
+
+Martin S., Gazeau F., Orr J. C. &amp; Gattuso J.-P., 2008. Ocean acidification and its consequences [<i>L'acidification des oc&eacute;ans et ses cons&eacute;quences</i>]. <i>French Earth System Science Partnership Newsletter</i> 21:5-16. [<a href="http://medias.obs-mip.fr/www/Reseau/LettrePigb/">Journal home page</a>]
+
+Martin S., Rodolfo-Metalpa R., Ransome E., Rowley S., Gattuso J.-P. &amp; Hall-Spencer J., 2008. Effects of naturally acidified seawater on seagrass calcareous epibionts. <i>Biology Letters</i>.  [<a href="http://dx.doi.org/10.1098/rsbl.2008.0412">Abstract</a>] [<a href="http://publishing.royalsociety.org/index.cfm?page=1566">Journal home page</a>]
+
+Smith P., Nabuurs G.-J., Janssens I., Reis S., Marland G., Soussana J.-F., Christensen T., Heath L., Apps M., Alexeyev V., Fang J., Gattuso J.-P., Guerschman J., Huang Y., Jobbagy E., Murdiyarso D., Ni J., Nobre A., Peng C., Walcroft A., Wang S., Pan Y. &amp; Zhou G., 2008. Sectoral approaches to improve regional carbon budgets. <i>Climatic Change</i> 88: 209-249. [<a href="http://dx.doi.org/10.1007/s10584-007-9378-5">Abstract</a>] [<a href="http://www.springerlink.com/content/100247/">Journal home page</a>]
+
+Reynaud S., Rollion-Bard C., Martin S., Rodolfo-Metalpa R. &amp; Gattuso J.-P., 2008. Effect of elevated pCO<sub>2</sub> on the boron isotopic composition into the Mediterranean scleractinian coral <i>Cladocora caespitosa</i>. In: Briand F. (Ed.), Impacts of acidification on biological, chemical and physical systems in the Mediterranean and Black Seas, pp. 71-75. Monaco: CIESM. [<a href="http://www.ciesm.org/online/monographs/Menton.html">Web site</a>]
+
+Yilmaz A., De Lange G., Dupont S., Fine M., Fowler S. W., Gattuso J.-P., Gazeau F., Gehlen M., Goyet C., Jeffree R., Montagna P., Rees A. P., Reynaud S., Rodolfo-Metalpa R., Ziveri P. &amp; Briand F., 2008. Executive summary. In: Briand F. (Ed.), Impacts of acidification on biological, chemical and physical systems in the Mediterranean and Black Seas, pp. 5-30. Monaco: CIESM. [<a href="http://www.ciesm.org/online/monographs/Menton.html">Web site</a>]
+
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="2007">2007</a>
+
+
+Bensoussan N. &amp; Gattuso J.-P., 2007. Community primary production and calcification in a NW Mediterranean ecosystem dominated by calcareous macroalgae. <i>Marine Ecology Progress Series</i> 334:37-45. [<a href="http://www.int-res.com/abstracts/meps/v334/p37-45/">Abstract</a>] [<a href="http://www.int-res.com/journals/meps/meps-home/">Journal home page</a>]
+
+Blackford J., Turley C., Widdicombe S., Orr J. &amp; Gattuso J.-P., 2007. <i>Ocean acidification- The other half of the CO2 problem</i>, EUR-OCEANS Fact Sheet 7.  [<a href="http://www.eur-oceans.eu/WP9/FS.htm">Web site</a>]
+
+Caldeira K., Archer D., Barry J. P., Bellerby R., Brewer P., Cao L., Dickson A. G., Doney S. C., Elderfield H., Fabry V. J., Feely R. A., Gattuso J.-P., Haugan P. M., Hoegh-Guldberg O., K. J. A., Kleypas J. A., Langdon C., Orr J. C., Ridgwell A., Sabine C. L., Seibel B. A., Shirayama Y., Turley C., Watson A. J. &amp; Zeebe R. E., 2007. Comment on &ldquo;Modern-age buildup of CO<sub>2</sub> and its effects on seawater acidity and salinity&rdquo; by Hugo A. Lo&aacute;iciga. <i>Geophysical Research Letters</i> 34: L18608.doi:10.1029/2006GL027288. [<a href="http://www.agu.org/pubs/crossref/2007/2006GL027288.shtml">Abstract</a>] [<a href="http://www.agu.org/journals/gl/">Journal home page</a>]
+
+Fernand L., Brewer P. G., P&ouml;rtner H. O., Gazeau F., Gattuso J.-P., Marubini F., Kildow J., Barry J., Kr&ouml;ger S., Dulvy N. K., Laing I., Blackford J., Widdicombe S., Hardman Mountford N., Bellerby R., Studd S., Suggett D. &amp; Borsheim K., 2007. <i>Report of the Workshop on the Significance of Changing Ocean CO2 and pH in Shelf Sea Ecosystems</i>, 31 p. London: DEFRA and ICES-CIEM. [<a href="http://www.cefas.co.uk/news-and-events/events/an-ices-workshop-on-the-significance-of-changes-in-surface-co2-and-ocean-ph-in-shelf-sea-ecosystems-(wkcph)---2-4-may-2007.aspx">Web site</a>]
+
+Gattuso J.-P. &amp; Smith S. V., 2007. Coastal zone. In: Cleveland C. J. (Ed.), <i>Encyclopedia of Earth</i>. Washington D. C.: Environmental Information Coalition, National Council for Science and the Environment. [Published 2007; Accessed: 7 March 2007]. [<a href="http://www.eoearth.org/article/Coastal_zone">Paper</a>] <a href="http://www.eoearth.org">Encyclopedia home page</a>]
+
+Gattuso J.-P., 2007. Ocean acidification. In: Cleveland C. J. (Ed.), <i>Encyclopedia of Earth</i>. Washington D. C.: Environmental Information Coalition, National Council for Science and the Environment. [Published 2007; Accessed: 6 November 2007]. [<a href="http://www.eoearth.org/article/Ocean_acidification">Paper</a>] <a href="http://www.eoearth.org">Encyclopedia home page</a>]
+
+Gazeau F., Middelburg J. J., Loijens M., Vanderborght J.-P., Pizay M.-D. &amp; Gattuso J.-P., 2007. Planktonic primary production in estuaries: a comparison of the <sup>14</sup>C, O<sub>2</sub> and <sup>18</sup>O methods. <i>Aquatic Microbial Ecology</i> 46: 95-106. [<a href="http://www.int-res.com/abstracts/ame/v46/n1/p95-106/">Abstract</a>] [<a href="http://www.int-res.com/journals/ame/ame-home/">Journal home page</a>]
+
+Gazeau F., Quiblier C., Jansen J. M., Gattuso J.-P., Middelburg J. J. &amp; Heip C. H. R., 2007. Impact of elevated CO<sub>2</sub> on shellfish calcification. <i>Geophysical Research Letters</i> 34, L07603. doi:10.1029/2006GL028554. [<a href="http://www.agu.org/pubs/crossref/2007.../2006GL028554.shtml">Abstract</a>] [<a href="http://www.agu.org/journals/gl/">Journal home page</a>]
+
+Rochelle-Newall E. J., Winter M., Barr&oacute;n C., Borges A. V., Duarte C. M., Gazeau F., Middelburg J. J., Pizay M.-D. &amp;  Gattuso J.-P., 2007. An artificial neural network analysis of factors controlling ecosystem metabolism in estuarine and coastal marine environments. <i>Ecological Applications</i> 17(special issue 5):S185-S196. [<a href="http://www.esajournals.org/perlserv/?request=get-abstract&doi=10.1890%2F05-1769.1">Abstract</a>] [<a href="http://www.esajournals.org/perlserv/?request=index-html&issn=1051-0761">Journal home page</a>]
+
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="2006">2006</a>
+
+
+Gattuso J.-P., Gentili B., Duarte C. M., Kleypas J. A., Middelburg J. J. &amp; Antoine D., 2006. Light availability in the coastal ocean: impact on the distribution of benthic photosynthetic organisms and their contribution to primary production. <i>Biogeosciences</i> 3: 489-513. [<a href="http://www.biogeosciences.net/3/489">Abstract</a>] [<a href="http://www.biogeosciences.net/3/489/2006/bg-3-489-2006-supplement.zip">Supplementary material</a>] [<a href="http://www.biogeosciences.net">Journal home page</a>]
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="2005">2005</a>
+
+Delille B., Harlay J., Zondervan I., Jacquet S., Chou L., Wollast R., Bellerby R. G. J., Frankignoulle M., Borges A. V., Riebesell U. &amp; Gattuso J.-P., 2005. Response of primary production and calcification to changes of  pCO<sub>2</sub> during experimental blooms of the coccolithophorid <i>Emiliania huxleyi. Global Biogeochemical Cycles</i>, GB2023. doi:10.1029/2004GB002318. [<a href="http://dx.doi.org/10.1029/2004GB002318">Abstract</a>] [<a href="http://www.agu.org/pubs/agu_jourgbc.html/">Journal home page</a>]
+
+Engel A., Zondervan I., Aerts K., Beaufort L., Benthien A., Chou L., Delille B., Gattuso J.-P., Harlay J., Heemann C., Hoffmann L., Jacquet S., Nejstgaard J., Pizay M.-D., Rochelle-Newall E., Schneider U., Terbr&uuml;ggen A. &amp; Riebesell U., 2005. Testing the direct effect of CO<sub>2</sub> concentration on a bloom the coccolithophorid <i>Emiliania huxleyi</i> in mesocosm experiements. <i>Limnology and Oceanography</i> 50(2): 493-507. [<a href="http://www.aslo.org/lo/toc/vol_50/issue_2/0493.html">Abstract</a>] [<a href="http://www.aslo.org/lo/">Journal home page</a>]
+
+Gattuso J.-P., Dawson N., Duarte C. M. &amp; Middelburg J. J., 2005. Patterns of publication effort in coastal biogeochemistry: a bibliometric survey (1971-2003). <i>Marine Ecology Progress Series</i>294: 9-22. [<a href="http://www.int-res.com/abstracts/meps/v294/p9-22/">Abstract</a>] [<a href="http://www.int-res.com/journals/meps/">Journal home page</a>]
+
+Gazeau F., Duarte A. C., Gattuso J.-P., Barr&oacute;n C., Gazeau F., Navarro N., Ru&iacute;z S., Prairie Y. T., Calleja M., Delille B., Frankignoulle M. &amp; Borges A., 2005. Whole-system metabolism and CO<sub>2</sub> flux in a Mediterranean Bay dominated by seagrass beds (Palma Bay, NW Mediterranean). <i>Biogeosciences</i> 2: 43-60. [<a href="http://www.biogeosciences.net/2/43">Abstract</a>] [<a href="http://www.biogeosciences.net">Journal home page</a>]
+
+Gazeau F., Borges A. V., Barr&oacute;n C., Duarte C. M., Iversen N., Middelburg J. J., Delille B., Pizay M.-D., Frankignoulle M. &amp; Gattuso J.-P., 2005. Net ecosystem metabolism in a micro-tidal estuary (Randers Fjord, Denmark): evaluation of methods. <i>Marine  Ecology Progress Series</i> 301:23-41. [<a href="http://www.int-res.com/abstracts/meps/v301/p23-41/">Abstract</a>] [<a href="http://www.int-res.com/abstracts/meps/">Journal home page</a>]
+
+Gazeau F., Gattuso J.-P., Middelburg J. J., Barr&oacute;n C., Duarte C. M., Schiettecatte L.-S., Pizay M.-D., Frankignoulle M. &amp; Borges A. V., 2005. Planktonic and whole system metabolism in a nutrient-rich estuary (The Sheldt estuary). <i>Estuaries</i> 28:868-883. [<a href="http://estuaries.olemiss.edu/cgi-bin/est/printabstract_public.cgi?ESTU2005_28_6_868_883">Abstract</a>] [<a href="http://estuaries.olemiss.edu/">Journal home page</a>]
+
+Kleypas J. A., Buddemeier R. W., Eakin C. M., Gattuso J.-P., Guinotte J., Hoegh-Guldberg O., Iglesias-Prieto R., Jokiel P. L., Langdon C., Skirving O. W. &amp; Strong A. E., 2005. Comment on &ldquo;Coral reef calcification and climate change: The effect of ocean warming&rdquo;. <i>Geophysical Research Letters</i> L08601. doi:10.1029/2004GL022329. [<a href="http://dx.doi.org/10.1029/2004GL022329">Abstract</a>] [<a href="http://www.agu.org/journals/gl/">Journal home page</a>]
+
+Middelburg J. J., Duarte C. M. &amp; Gattuso J.-P., 2005. Respiration in coastal benthic communities. In: del Giorgio P. A. &amp; Williams L. P. J. (eds), <i>Respiration in aquatic ecosystems</i>, pp. 206-224. Oxford: Oxford University Press. [<a href="http://books.google.com/books?id=32YKKYwNFT0C&amp;dq=Respiration+in+aquatic+ecosystems&amp;printsec=frontcover&amp;source=bn&amp;hl=en&amp;ei=3cp2TKqfCoSMOK6exLQG&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=4&amp;ved=0CC4Q6AEwAw#v=onepage&amp;q&amp;f=false">Book on Google books</a>]
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="2004">2004</a>
+
+
+Buddemeier R. W. &amp; Gattuso J.-P. 2004. Les coraux hissent le drapeau blanc. <i>Les Dossiers de La Recherche</i> 17: 62-67[<a href="http://www.larecherche.fr/">Journal home page</a>]
+
+Gazeau F., Smith  S. V., Gentili B., Frankignoulle M. &amp; Gattuso J.-P., 2004. The European coastal zone: characterization and first assessment of ecosystem metabolism. <i>Estuarine, Coastal and Shelf Science</i>60(4): 673-694. [<a href="http://www.sciencedirect.com/science/article/B6WDV-4CJV9WC-1/1/284d3c6886c5b86e63ae0da2db08a6d7">Abstract</a>] [<a href="http://www.elsevier.com/wps/find/journaldescription.cws_home/622823/description#description">Journal home page</a>]
+
+Reynaud S., Hemming G., Juillet-Leclerc A. &amp; Gattuso J.-P., 2004. Effect of pCO<sub>2</sub> and temperature on the boron isotopic composition of the zooxanthellate coral <i>Acropora</i> sp. <i>Coral Reefs</i> 23:539-546. [<a href="http://dx.doi.org/10.1007/s00338-004-0399-5">Abstract</a>] [<a href="http://www.springeronline.com/journal/00338/about">Journal home page</a>]
+
+<tr valign = top><td><p><input type="checkbox" name="file[]" value="rochelle-newall_etal_2004a.pdf"> <td><p align="left" class="biblio"> Rochelle-Newall E., Delille B., Frankignoulle M., Gattuso J.-P., Jacquet S., Riebesell U., Terbr&uuml;ggen A. &amp; Zondervan I., 2004. Chromophoric dissolved organic matter in experimental mesocosms maintained under different pCO<sub>2</sub> levels. <i>Marine Ecology Progress Series</i> 272: 25-31. [<a href="http://www.int-res.com/abstracts/meps/v272/p25-31.html">Abstract</a>] [<a href="http://www.int-res.com/journals/meps/index.html">Journal home page</a>]
+
+Rochelle-Newall E., Pizay M.-D., Middelburg J. J., Boschker H. T. S. &amp; Gattuso J.-P., 2004. Degradation of riverine dissolved organic matter by seawater bacteria. <i>Aquatic Microbial Ecology</i>37: 9-22. [<a href="http://www.int-res.com/abstracts/ame/v37/n1/p9-22.html">Abstract</a>] [<a href="http://www.int-res.com/journals/ame/index.html">Journal home page</a>]
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="2003">2003</a>
+
+
+Heip C., Brandt A., Gattuso J.-P., Antia A., Berger W. H., Boissonnas J., Burkill P., d'Ozouville L., Graf G., Herndl G. J., Patching P., Reise K., Riou G., Sim&oacute; R., Smetacek V. &amp; Wassmann P., 2003. Ecosystem functioning and biodiversity. In: Wefer G., Lamy F. &amp; Mantoura F. (eds), <i>Marine Science Frontiers for Europe</i>, pp. 289-302. Berlin: Springer-Verlag.
+
+Reynaud S., Leclercq N., Romaine-Lioud S., Ferrier-Pag&egrave;s C., Jaubert J. &amp; Gattuso J.-P., 2003. Interacting effects of CO<sub>2</sub> partial pressure and temperature on photosynthesis and calcification in a scleractinian coral. <i>Global Change Biology</i> 9(11): 1660-1668. [<a href="http://www.blackwell-synergy.com/links/doi/10.1046/j.1365-2486.2003.00678.x/abs/">Abstract</a>] [<a href="http://www.blackwell-synergy.com/rd.asp?code=GCB&amp;goto=journal">Journal home page</a>]
+
+Sciandra A., Harlay J., Lef&egrave;vre D., Lem&eacute;e R., Rimmelin P., Denis M. &amp; Gattuso J.-P., 2003. Response of the coccolithophorid <i>Emiliania huxleyi</i> to elevated partial pressure of CO<sub>2</sub> under nitrate limitation. <i>Marine Ecology Progress Series</i> 261: 111-122. [<a href="http://www.int-res.com/abstracts/meps/v261/p111-122.html">Abstract</a>] [<a href="http://www.int-res.com/journals/meps/index.html">Journal home page</a>]
+
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="2002">2002</a>
+
+Gattuso J.-P., Peduzzi S., Pizay M.-D. &amp; Tonolla M., 2002. Changes in bacterial community composition during measurements of microbial and community respiration. <i>Journal of Plankton Research</i> 24: 1197-1206. [<a href="http://plankt.oupjournals.org/cgi/content/abstract/24/11/1197">Abstract</a>] [<a href="http://plankt.oupjournals.org/">Journal home page</a>]
+
+Gattuso J.-P., 2002. Marine biogeochemical cycles: effects on climate and response to climate change. In: Nihoul J. C. J. (Editor), <i><a href="http://www.eolss.net/">Encyclopedia of life support systems</a>.</i> Oxford: EOLSS Publishers Ltd.
+
+Mign&eacute; A., Davoult D., Spilmont N., Menu D., Boucher G., Gattuso J.-P. &amp; Rybarczyk H., 2002. A closed-chamber CO<sub>2</sub> flux method for estimating intertidal primary production and respiration in emersed conditions. <i>Marine Biology</i> 140: 865-869. [<a href="http://link.springer.de/link/service/journals/00227/contents/01/00741/">Abstract</a>] [<a href="http://link.springer.de/link/service/journals/00227/">Journal home page</a>]
+
+Leclercq N., Gattuso J.-P. &amp; Jaubert J., 2002. Primary production, respiration and calcification of a coral reef mesocosm under increased CO<sub><small>2</small></sub> partial pressure. <i>Limnology and Oceanography</i> 47(2): 558-564. [<a href="http://www.aslo.org/lo/toc/vol_47/issue_2/0558.html" name="Abs L+O">Abstract</a>] [<a href="http://aslo.org/lo/" name="L&amp;O">Journal home page</a>]
+
+Lem&eacute;e R., Rochelle-Newall E., Van Wambeke F., Pizay M.-D., Rinaldi P. &amp; Gattuso J.-P., 2002. Seasonal variation of bacterial production, respiration and growth efficiency in the open NW Mediterranean Sea. <i>Aquatic Microbial Ecology</i> 29: 227-237. [<a href="http://www.int-res.com/abstracts/ame/v29/n3/p227-237.html">Abstract</a>] [<a href="http://www.obs-vlfr.fr/~gattuso/files/Erratum.pdf"><b>erratum</b></a>] [<a href="http://www.int-res.com/journals/ame/index.html">Journal home page</a>]
+
+Reynaud S., Ferrier-Pag&egrave;s C., Sambrotto R., Juillet-Leclerc A., Jaubert J. &amp; Gattuso J.-P., 2002. Effect of feeding on the carbon, oxygen and nitrogen isotopic composition of the tissues and skeleton of the zooxanthellate coral <i>Stylophora pistillata</i>. <i>Marine Ecology Progress Series</i> 238: 81-89. [<a href="http://www.int-res.com/abstracts/meps/v238/p81-89.html">Abstract</a>] [<a href="http://www.int-res.com/journals/meps/index.html">Journal home page</a>]
+
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="2001">2001</a>
+
+Gattuso J.-P. &amp; Buddemeier R. W., 2001. Coral reefs: an ecosystem subject to multiple environmental threats. In: Mooney H. A. &amp; Canadell J. (eds), <i>The Earth system: Biological and ecological dimensions of global environmental change</i>, pp. 232-241. New-York: Wiley.
+
+Kleypas J. A., Buddemeier R. W. &amp; Gattuso J.-P., 2001. The future of coral reefs in an age of global change. <i>International Journal of Earth Sciences</i> 90(2): 426-437. [<a href="http://link.springer.de/link/service/journals/00531/bibs/1090002/10900426.htm" name="Abs IJES">Abstract</a>] [<a href="http://link.springer.de/link/service/journals/00531/index.htm" name="International Journal of Earth Science">Journal home page</a>]
+
+Reynaud-Vaganay S., Juillet-Leclerc A., Jaubert J. &amp; Gattuso J.-P., 2001. Effect of light on skeletal &#948;<small><sup>13</sup></small>C and &#948;<small><sup>18</sup></small>O, and interaction with photosynthesis, respiration and calcification in two zooxanthellate scleractinian corals. <i>Paleogeography, Paleoclimatology, Paleoecology</i> 175(1-4): 393-404. [<a href="http://www.obs-vlfr.fr/%7Egattuso/Abstracts/absPaleo3.htm" name="Abs Paleo3">Abstract</a>] [<a href="http://www.elsevier.nl/inca/publications/store/5/0/3/3/5/5/" name="Paleogeography, Paleoclimatology, Paleoecology">Journal home page</a>]
+
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="2000">2000</a>
+
+
+Gattuso J.-P. &amp; Buddemeier R. W., 2000. Ocean biogeochemistry: calcification and CO<sub>2</sub>. <i>Nature</i> 407: 311-312. [<a href="http://www.nature.com/" name="Nature">Journal home page</a>]
+
+Buddemeier R. W. &amp; Gattuso J.-P., 2000. Mauvais air pour les r&eacute;cifs coralliens. <i>La Recherche</i> 334: 52-56. [<a href="http://www.larecherche.fr/" name="La Recherche">Journal home page</a>]
+
+Ferrier-Pag&egrave;s C., Gattuso J.-P., Dallot S. &amp; Jaubert J., 2000. Effect of nutrient enrichment on growth and photosynthesis of the zooxanthellate coral <i>Stylophora pistillata. Coral Reefs</i> 19: 103-113. [<a href="http://link.springer.de/link/service/journals/00338/bibs/0019002/00190103.htm" name="Abs CR">Abstract</a>] [<a href="http://link.springer.de/link/service/journals/00338/index.htm" name="Coral Reefs">Journal home page</a>]
+
+Gattuso J.-P., Reynaud-Vaganay S., Bourge I., Furla P., Romaine-Lioud S., Frankignoulle M. and Jaubert J., 2000. Calcification does not stimulate photosynthesis in the zooxanthellate scleractinian coral <i>Stylophora pistillata. Limnology and Oceanography</i> 45(1): 246-250. [<a href="http://www.aslo.org/lo/toc/vol_45/issue_1/0246.html">Abstract</a>] [<a href="http://aslo.org/lo/">Journal home page</a>]
+
+Leclercq N., Gattuso J.-P. &amp; Jaubert J., 2000. CO<sub>2</sub> partial pressure controls the calcification rate of a coral community. <i>Global Change Biology</i> 6: 329-334. [<a href="http://www.blackwell-synergy.com/Journals/processfree2.asp?contentid=gcb.2000.3&amp;filetype=abstracts&amp;article=57060&amp;year=&amp;journal=">Abstract</a>] [<a href="http://www.blackwell-synergy.com/rd.asp?code=GCB&amp;goto=journal">Journal home page</a>]
+
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="1999">1999</a>
+
+Leclercq N., Gattuso J.-P. &amp; Jaubert J., 1999. Measurement of primary production and respiration in open-Top mesocosms: application to a coral reef mesocosm. <i>Marine Ecology Progress Series</i> 177: 299-304. [<a href="http://www.int-res.com/abstracts/meps/v177/p299-304.html">Abstract</a>] [<a href="http://www.int-res.com/journals/meps/index.html">Journal home page</a>]
+
+Gattuso J.-P., Allemand D. &amp; Frankignoulle M., 1999. Photosynthesis and calcification at cellular, organismal and community levels in coral reefs: a review on interactions and control by carbonate chemistry. <i>American Zoologist</i> 39(1): 160-183. [Invited review]. [<a href="http://www.obs-vlfr.fr/%7Egattuso/Abstracts/abs88.htm">Abstract</a>]<a href="http://www.sicb.org/public/publications/AZ/index.html">Journal home page</a>]
+
+Kleypas J. A., Buddemeier R. W., Archer D., Gattuso J.-P., Langdon C. &amp; Opdyke B. N., 1999. Geochemical consequences of increased atmospheric CO<sub>2</sub> on coral reefs. <i>Science</i> 284: 118-120. [<a href="http://www.sciencemag.org/cgi/content/abstract/284/5411/118">Abstract</a>] [<a href="http://www.sciencemag.org/">Journal home page</a>]
+
+Ferrier-Pag&egrave;s C., Gattuso J.-P. &amp; Jaubert J., 1999. Effect of small variations in salinity on the rates of photosynthesis and respiration of the zooxanthellate coral <i>Stylophora pistillata. Marine Ecology Progress Series</i> 181:309-314. [<a href="http://www.int-res.com/abstracts/meps/v181/p309-314.html">Abstract</a>] [<a href="http://www.int-res.com/journals/meps/index.html">Journal home page</a>]
+
+Reynaud-Vaganay S., Gattuso J.-P., Cuif J.-P., Jaubert J. &amp; Juillet-Leclerc A., 1999. A novel culture technique for scleractinian corals: application to investigate changes in skeletal d<sup>18</sup>O as a function of temperature. <i>Marine Ecology Progress Series</i> 180: 121-130. [<a href="http://www.int-res.com/abstracts/meps/v181/p309-314.html">Abstract</a>] [<a href="http://www.int-res.com/journals/meps/index.html">Journal home page</a>]
+
+Shick J. M., Romaine-Lioud S., Ferrier-Pag&egrave;s C. &amp; Gattuso J.-P., 1999. Ultraviolet-B radiation stimulates shikimate pathway-dependent accumulation of mycosporine-like amino acids in the coral <i>Stylophora pistillata</i> despite decreases in its population of symbiotic dinoflagellates. <i>Limnology and Oceanography</i> 44(7): 1667-1682. [<a href="http://www.aslo.org/lo/toc/vol_44/issue_7/1667.html">Abstract</a>] [<a href="http://aslo.org/lo/">Journal home page</a>]
+
+Gattuso J.-P., Frankignoulle M. &amp; Smith S. V., 1999. Measurement of community metabolism and significance of coral reefs in the CO<sub>2</sub> source-sink debate. <i>Proceedings of the National Academy of Science U.S.A.</i> 96(23): 13017-13022. [<a href="http://www.pnas.org/cgi/content/abstract/96/23/13017">Abstract</a>] [<a href="http://www.pnas.org/">Journal home page</a>]
+
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="1998">1998</a>
+
+Ferrier-Pag&egrave;s C. &amp; Gattuso J.-P., 1998. Biomass, production and grazing rates of pico- and nanoplankton in coral reef waters (Miyako Island, Japan). <i>Microbial Ecology</i> 35: 46-57. [<a href="http://link.springer.de/link/service/00248/bibs/35n1p46.html">Abstract</a>] [<a href="http://link.springer.de/link/service/00248/index.html">Journal home page</a>]
+
+Boucher G., Clavier J., Hily C. &amp; Gattuso J.-P., 1998. Contribution of soft-bottoms to the community metabolism (carbon production and calcification) of a barrier reef flat (Moorea Island, French Polynesia). <i>Journal of Experimental Marine Biology and Ecology</i> 225(2): 269-283. [<a href="http://www.elsevier.nl/cgi-bin/cas/tree/store/jembe/cas_sub/browse/browse.cgi?year=1998&amp;volume=225&amp;issue=2&amp;aid=3004">Abstract</a>] [<a href="http://www.elsevier.nl/locate/jembe">Journal home page</a>]
+
+Gattuso J.-P., Frankignoulle M., Bourge I., Romaine S. &amp; Buddemeier R. W., 1998. Effect of calcium carbonate saturation of seawater on coral calcification. <i>Global and Planetary Change</i> 18(1-2): 37-46. [<a href="http://www.elsevier.nl/cgi-bin/cas/tree/store/global/cas_sub/browse/browse.cgi?year=1998&amp;volume=18&amp;issue=1-2&amp;aid=382">Abstract</a>] [<a href="http://www.elsevier.nl/inca/publications/store/5/0/3/3/3/5/index.htt">Journal home page</a>]
+
+Gattuso J.-P., Frankignoulle M. &amp; Wollast R., 1998. Carbon and carbonate metabolism in coastal aquatic ecosystems. <i>Annual Review of Ecology and Systematics</i> 29: 405-434. [<a href="http://ecolsys.annualreviews.org/cgi/content/abstract/29/1/405?maxtoshow=&amp;HITS=10&amp;hits=10&amp;RESULTFORMAT=&amp;author1=gattuso&amp;searchid=1011595992322_16&amp;stored_search=&amp;FIRSTINDEX=0&amp;journalcode=ecolsys">Abstract</a>] [<a href="http://ecolsys.annualreviews.org/">Journal home page</a>]
+
+Buddemeier R. W., Gattuso J.-P., Kleypas J. A., 1998. Rising CO<small><sub>2</sub></small> and marine calcification. <i>LOICZ Newsletter</i> 8: 1-3. [<a href="http://www.nioz.nl/loicz/nwl.htm">Journal home page</a>]
+
+Ferrier-Pag&egrave;s C., Gattuso J.-P., Cauwet, G., Allemand D. &amp; Jaubert J., 1998. Release and uptake of dissolved organic carbon and nitrogen by the zooxanthellate coral <i>Galaxea fascicularis. Marine Ecology Progress Series</i> 172: 265-274. [<a href="http://www.int-res.com/abstracts/meps/v172/p265-274.html">Abstract</a>] [<a href="http://www.int-res.com/journals/meps/index.html">Journal home page</a>]
+
+Gattuso J.-P. &amp; Frankignoulle M.,1998. Carbonate chemistry in Bora Bay (Miyako Island, Japan) and carbon cycling in Okinawan reefs. In: <i>International Workshop on CO<small><sub>2</sub></small> Cycling and Metabolism in Coral Reefs</i>, Kyoto (Japan), 19-20 November 1998. [<a href="http://www.obs-vlfr.fr/%7Egattuso/Abstracts/abs83.htm">Abstract</a>] 
+
+Ferrier-Pag&egrave;s C., Allemand D., Gattuso J.-P., Jaubert J. &amp; Rassoulzadegan F., 1998. Micro-heterotrophy in the zooxanthellate coral <i>Stylophora pistillata</i>: effects of light and ciliate density. <i>Limnology and Oceanography</i> 43(7): 1639-1648. [<a href="http://www.obs-vlfr.fr/%7Egattuso/Abstracts/abs84.htm">Abstract</a>] [<a href="http://aslo.org/lo/">Journal home page</a>]
+
+Mign&eacute; A., Davoult D. &amp; Gattuso J.-P., 1998. Calcium carbonate production of a dense population of the brittle star <i>Ophiothrix fragilis</i> (Echinodermata: Ophiuroidea): role in the carbon cycle of a temperate coastal ecosystem. <i>Marine Ecology Progress Series</i> 173: 305-308. [<a href="http://www.int-res.com/abstracts/meps/v173/p305-308.html">Abstract</a>] [<a href="http://www.int-res.com/journals/meps/index.html">Journal home page</a>]
+
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="1997">1997</a>
+
+Romaine S., Tambutt&eacute; E., Allemand D. &amp; Gattuso J.-P., 1997. Photosynthesis, respiration and calcification of a zooxanthellate scleractinian coral under exposed and submersed conditions. <i>Marine Biology</i> 129(1): 175-182. [<a href="http://link.springer.de/link/service/journals/00227/bibs/7129001/71290175.htm">Abstract</a>] [<a href="http://link.springer.de/link/service/journals/00227/index.htm">Journal home page</a>]
+
+Gattuso J.-P. &amp; Kayanne H., 1997. Carbon and carbonate cycling in coral reefs. In: <i>Proc. 8th International Coral Reef Symposium</i>, Panama 1: 935-938.
+
+Juillet-Leclerc A., Montaggioni L., Pichon M. &amp; Gattuso J.-P., 1997. Effects of calcification patterns on the oxygen isotopic composition of the skeleton of the scleractinian coral <i>Acropora formosa. Oceanologica Acta</i> 20(4): 645-658. [<a href="http://www.int-res.com/abstracts/meps/v157/p109-117.html">Abstract</a>]
+
+Gattuso J.-P., Payri C. E., Pichon M., Delesalle B. &amp; Frankignoulle M., 1997. Primary production, calcification, and air-sea CO<small><sub>2</sub></small> fluxes of a macroalgal-dominated coral reef community (Moorea, French Polynesia). <i>Journal of Phycology</i> 33(5): 729-738. [<a href="http://www.obs-vlfr.fr/%7Egattuso/Abstracts/abs64.htm">Abstract</a>]
+
+Juillet-Leclerc A., Gattuso J.-P., Montaggioni L. &amp; Pichon M., 1997. Seasonal variation in primary productivity and skeletal <img src="delta_small.gif" alt="Small delta" width="8" height="12" border="0"><small><sup>13</sup></small>C and <img src="delta_small.gif" alt="Small delta" width="8" height="12" border="0"><small><sup>18</sup></small>O in the zooxanthellate scleractinian coral <i>Acropora formosa</i>. <i>Marine Ecology Progress Series</i> 157: 109-117. [<a href="http://www.obs-vlfr.fr/%7Egattuso/Abstracts/abs65.htm">Abstract</a>] [<a href="http://www.int-res.com/journals/meps/index.html">Journal home page</a>]
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="1996">1996</a>
+
+Gattuso J.-P., Frankignoulle M., Smith S. V., Ware J. R., Wollast R., 1996. Coral reefs and carbon dioxide. <i>Science</i> 271: 1298-1300. [<a href="http://www.sciencemag.org/">Journal home page</a>]
+
+Frankignoulle M., Pichon M. &amp; Gattuso J.-P., 1996. Coral reef metabolism and dynamics of inorganic carbon. In: <i>Proceedings of the International Workshop on Carbon Cycling and Coral Reef Metabolism</i>, Miyako Jima, 22-24 October 1995, pp. 35-36.
+Gattuso J.-P., 1996. Productivity and calcification in recent coral reefs: effect on air-sea CO<small><sub>2</sub></small> fluxes. In: <i>Proceedings of the International Workshop on Response of Coral Reefs to Global Changes</i>, Tsukuba, 4-6 March 1996, pp. 52-63. [<a href="http://www.obs-vlfr.fr/%7Egattuso/Abstracts/abs51.htm">Abstract</a>]
+
+Gattuso J.-P., Pichon M. &amp; Frankignoulle M., 1996. Effect of photosynthetic and calcifying organisms and ecosystems on air-sea CO<small><sub>2</sub></small> fluxes. In: <i>Proceedings of the International Workshop on Carbon cycling and Coral Reef Metabolism, Miyako Jima</i>, 22-24 October 1995, pp. 30-34.
+
+Gattuso J.-P., Pichon M., Jaubert J., Marchioretti M. &amp; Frankignoulle M., 1996. Primary production, calcification and air-sea CO<small><sub>2</sub></small> fluxes in coral reefs: organism, ecosystem and global scales. <i>Bulletin de l'Institut Oc&eacute;anographique, Monaco</i> n&deg; spec. 14(4): 39-46. [<a href="http://www.obs-vlfr.fr/%7Egattuso/Abstracts/abs55.htm">Abstract</a>]
+
+Frankignoulle M., Gattuso J.-P., Biondo R., Bourge I., Copin-Mont&eacute;gut G. &amp; Pichon M., 1996. Carbon fluxes in coral reefs. 2. Eulerian study of inorganic carbon dynamics and measurement of air-sea CO<small><sub>2</sub></small> exchanges. <i>Marine Ecology Progress Series</i> 145: 123-132. [<a href="http://www.int-res.com/abstracts/meps/v145/p123-132.html">Abstract</a>] [<a href="http://www.int-res.com/journals/meps/index.html">Journal home page</a>]
+
+Gattuso J.-P., Pichon M., Delesalle B., Canon C. &amp; Frankignoulle M., 1996. Carbon fluxes in coral reefs. 1. Lagrangian measurement of community metabolism and resulting air-sea CO<small><sub>2</sub></small> disequilibrium. <i>Marine Ecology Progress Series</i> 145: 109-121. [<a href="http://www.int-res.com/abstracts/meps/v145/p109-121.html">Abstract</a>] [<a href="http://www.int-res.com/journals/meps/index.html">Journal home page</a>]
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="1995">1995</a>
+
+Tambutt&eacute; E., Allemand D., Bourge I., Gattuso J.-P. &amp; Jaubert J., 1995. An improved <small><sup>45</sup></small>Ca method for investigating physiological mechanisms in coral calcification. <i>Marine Biology</i> 122(3): 453-459. [<a href="http://www.obs-vlfr.fr/%7Egattuso/Abstracts/abs35.htm">Abstract</a>] [<a href="http://link.springer.de/link/service/journals/00227/index.htm">Journal home page</a>]
+
+Frankignoulle M., Pichon M. &amp; Gattuso J.-P., 1995. Aquatic calcification as a source of carbon dioxide. In: M. A. Beran (ed.) <i>Carbon sequestration in the biosphere</i>, NATO ASI Series, vol. I33, pp. 265-271.- Berlin: Springer-Verlag.
+
+Gattuso J.-P., Pichon M. &amp; Frankignoulle M., 1995. Biological control of air-sea CO<small><sub>2</sub></small> fluxes: effect of photosynthetic and calcifying organisms and ecosystems. <i>Marine Ecology Progress Series</i> 129:307-312. [<a href="http://www.int-res.com/abstracts/meps/v129/p307-312.html">Abstract</a>] [<a href="http://www.int-res.com/journals/meps/index.html">Journal home page</a>]
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="1994">1994</a>
+
+Gattuso J.-P., 1994. <i>M&eacute;tabolisme dans les r&eacute;cifs coralliens: de l'organisme &agrave; l'&eacute;cosyst&egrave;me.</i> Dipl&ocirc;me d'Habilitation &agrave; Diriger des Recherches, Universit&eacute; de Nice Sophia-Antipolis, 245 p., 24 fig., 6 tabl. [<a href="http://www.obs-vlfr.fr/%7Egattuso/Abstracts/abs30.htm">Abstract</a>]
+Frankignoulle M., Canon C. &amp; Gattuso J.-P., 1994. Marine calcification as a source of carbon dioxide: positive feedback of increasing atmospheric CO<small><sub>2</sub></small>. <i>Limnology and Oceanography</i> 39(2): 458-462. [<a href="http://www.obs-vlfr.fr/%7Egattuso/Abstracts/abs31.htm">Abstract</a>] [<a href="http://aslo.org/lo/">Journal home page</a>]
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="1993">1993</a>
+
+Frankignoulle M. &amp; Gattuso J.-P., 1993. Air-sea CO<small><sub>2</sub></small> exchange in coastal ecosystems. In: eds Wollast R., Mackenzie F. T., Chou L., <i>Interactions of C, N, P and S biogeochemical cycles and global change</i>, NATO ASI Series, 14: pp. 233-248.- Berlin: Springer-Verlag. [<a href="http://www.obs-vlfr.fr/%7Egattuso/Abstracts/abs23.htm">Abstract</a>]
+
+Watson A. J., Liss P. S., Gammon R. H., Cauwet G., Gattuso J.-P., Knauer G. A. &amp; Rabouille C., 1993. Interactions of the cycles of C, N, P and S in the recent past (the Quaternary) and present. In: eds R. Wollast, F. T. Mackenzie &amp; L. Chou, <i>Interactions of C, N, P and S biogeochemical cycles and global change</i>, NATO ASI Series, 14: pp. 495-500.- Berlin: Springer-Verlag.
+
+Gattuso J.-P., Yellowlees D. &amp; Lesser M., 1993. Depth- and light-dependent variation in carbon partitioning and utilization in the zooxanthellate coral <i>Stylophora pistillata. Marine Ecology Progress Series</i> 92: 267-276.<br>  [<a href="http://www.obs-vlfr.fr/%7Egattuso/Abstracts/abs24.htm">Abstract</a>] [<a href="http://www.int-res.com/journals/meps/index.html">Journal home page</a>]
+
+Gattuso J.-P., Pichon M., Delesalle B., Frankignoulle M., 1993. Community metabolism and air-sea CO<small><sub>2</sub></small> fluxes in a coral reef ecosystem (Moorea, French Polynesia). <i>Marine Ecology Progress Series</i> 96: 259-267.<br>  [<a href="http://www.obs-vlfr.fr/%7Egattuso/Abstracts/abs25.htm">Abstract</a>] [<a href="http://www.int-res.com/int-res/meps/">Journal home page</a>]
+
+Delesalle B., Gattuso J.-P., Pichon M. &amp; Frankignoulle M., 1993. Effects of a cyclone on coral reef phytoplankton biomass, primary production and composition (Moorea, French Polynesia). <i>Journal of Plankton Research</i> 15: 1413-1423.<br>  [<a href="http://www.obs-vlfr.fr/%7Egattuso/Abstracts/abs26.htm">Abstract</a>].
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="1991">1991</a>
+
+Gattuso J.-P., Pichon M. &amp; Jaubert J., 1991. Physiology and taxonomy of scleractinian corals: a case study in the genus <i>Stylophora.</i> <i>Coral Reefs</i> 9: 173-182. [<a href="http://www.obs-vlfr.fr/%7Egattuso/Abstracts/abs20.htm">Abstract</a>].
+
+Chisholm J. R. M. &amp; Gattuso J.-P., 1991. Validation of the alkalinity anomaly technique for investigating calcification and photosynthesis in coral reef communities. <i>Limnology and Oceanography</i> 36(6): 1232-1239. [<a href="http://www.obs-vlfr.fr/%7Egattuso/Abstracts/abs21.htm">Abstract</a>] [<a href="http://aslo.org/lo/">Journal home page</a>].
+
+
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="1990">1990</a>
+
+Gattuso J.-P. &amp; Jaubert J., 1990. Effect of light on oxygen and carbon dioxide fluxes and on metabolic quotients measured <i>in situ</i> in a zooxanthellate coral. <i>Limnology and Oceanography</i> 35(8): 1796-1804. [<a href="http://www.obs-vlfr.fr/%7Egattuso/Abstracts/abs19.htm">Abstract</a>] [<a href="http://aslo.org/lo/">Journal home page</a>].
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="1989">1989</a>
+
+Gattuso J.-P., 1989. Effect of temperature on the photosynthesis-irradiance curves of two caulerpales algae grown in aquaria. <i>Bulletin de l'Institut Oc&eacute;anographique, Monaco</i> n&deg; sp&eacute;cial 5: 173-180.
+Jaubert J. &amp; Gattuso J.-P., 1989. Changements de forme provoqu&eacute;s par la lumi&egrave;re, observ&eacute;s, en aquarium, chez des coraux (scl&eacute;ractiniaires &agrave; zooxanthelles). <i>Bulletin de l'Institut Oc&eacute;anographique, Monaco</i> n&deg; sp&eacute;cial 5: 195-204.
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="1988">1988</a>
+
+Gattuso J.-P. &amp; Jaubert J., 1988. Computation of metabolic quotients in plant-animal symbiotic units. <i>Journal of Theoretical Biology</i> 130: 205-212.
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="1987">1987</a>
+
+Gattuso J.-P., 1987. <i>Ecomorphologie, m&eacute;tabolisme, croissance et calcification du Scl&eacute;ractiniaire &agrave; zooxanthelles</i> Stylophora pistillata (golfe d'Aqaba, mer Rouge)- Influence de l'&eacute;clairement. Th&egrave;se de doctorat, Universit&eacute; d'Aix-Marseille II, 289 p.
+
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="1985">1985</a>
+
+Gattuso J.-P. &amp; Jaubert J., 1985. Photosynthesis and respiration of <i>Caulerpa racemosa</i> (Chlorophyceae, Caulerpales) grown in aquaria: effects of light and temperature. <i>Botanica Marina</i> 28: 327-332.
+
+Gattuso J.-P., 1985. Features of depth effects on <i>Stylophora pistillata</i> , an hermatypic coral in the Gulf of Aqaba (Jordan, Red Sea). In: <i>Proc. 5th Int. coral reef congress, Tahiti,</i> 6: 95-100.
+
+Jaubert J., Vaglio F. &amp; Gattuso J.-P., 1985. Appareils de mesure et d'enregistrement de param&egrave;tres de l'environnement, utilisables en plong&eacute;e. <i>Bulletin de l'Institut Oc&eacute;anographique, Monaco</i> n&deg; sp&eacute;cial 4: 181-184.
+
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="1984">1984</a>
+
+Gattuso J.-P. &amp; Jaubert J., 1984. Premi&egrave;res donn&eacute;es concernant    l'action de la lumi&egrave;re sur le m&eacute;tabolisme, la croissance et la calcification    <i>in situ</i> du Scl&eacute;ractiniaire hermatypique <i>Stylophora pistillata.</i>    <i>Comptes-Rendus de l'Acad&eacute;mie des Sciences de Paris</i> 14: 585-590.
+

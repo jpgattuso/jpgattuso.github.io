@@ -1,0 +1,16 @@
+---
+title: "Research activities"
+description: ""
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
++ <a href="https://www.face-it-project.eu" target="_blank">FACE-IT: Arctic Biodiversity & Livelihoods</a>
++ <a href="https://wwz.ifremer.fr/cocorico2_en/" target="_blank">CocoriCO2: La conchyliculture dans un monde riche en CO2</a>
++ <a href="http://www.intaros.eu/" target="_blank">INTAROS: Integrated Arctic Observation System</a>
++ <a href="http://4oceansmopga.com" target="_blank">4Oceans: Predicting future oceans under climate change</a>
++ <a href="tosi_products.html" target="_blank">TOSI: The Ocean Solutions Initiative</a>
++ <a href="O2015_products.html" target="_blank">O2015: The Oceans 2015 Initiative</a>
++ <a href="seacarb.html" target="_blank">R package seacarb</a>

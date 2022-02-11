@@ -1,0 +1,11 @@
+---
+title: "Short CV"
+description: ""
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
++ <a href="files/gattuso_short_cv.pdf">**Short CV in English**</a>
++ <a href="files/gattuso_cv_court.pdf">**CV court en français**</a>

@@ -1,0 +1,39 @@
+---
+title: "R package seacarb"
+description: ""
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+In the early 2000s, the situation with respect to the software describing the seawater carbonate system was frustrating for Macintosh and Unix users. There were very useful, thorough and powerful programs out there but they run either with DOS (CO2, developed by Michel Frankignoulle), Windows (<a href="http://cdiac.esd.ornl.gov/oceans/co2rprt.html">CO2sys</a>, developed by <a href="mailto:elewis@bnl.gov">Ernie Lewis</a> and <a href="mailto:dwallace@ifm.uni-kiel.de">Doug Wallace</a>), Excel spreadsheet (<a href="http://www.ecy.wa.gov/programs/eap/models/">CO2sys</a>, developed by <a href="mailto:gpel461@ecy.wa.gov">Greg Pelletier</a>), or Matlab (<a href="https://www.soest.hawaii.edu/oceanography/faculty/zeebe_files/CO2_System_in_Seawater/csys.html">files</a> developed by <a href="mailto:rzeebe@awi-bremerhaven.de">Richard Zeebe</a> and <a href="mailto:dwolf@awi-bremerhaven.de">Dieter Wolf-Gladrow</a>). These programs did not run on Macintosh without purchasing rather expensive commercial software. The situation was equally frustrating for plain Unix or Linux users.
+
+In 2003, Aurélien Proye and I put together seacarb, an <a href="http://www.r-project.org/">R</a> package that calculates various parameters of the carbonate system in seawater. R is free and really cross-platform ((MacOS, Unix, Linux and Windows). seacarb was subsequently upgraded, at least once a year. Portions of code and/or corrections have been contributed by Samir Alliouane, Kimberlee Baldry, Jean-Marie Epitalon, Bernard Gentili, Mathilde Hagens, Umihiko Hoshijima, Lydia Kapsenberg, Karol Kulinski, Jens Mueller, James Orr, James Rae, and Karline Soetaert.
+
+
+seacarb uses equations mostly from the following four sources:
+
++ Dickson A. G., Sabine C. L.  & Christian J. R., 2007. Guide to best practices for ocean CO<sub>2</sub> measurements. PICES Special Publication 3:1-191.</li>
++ DOE, 1994. Handbook of methods for the analysis of the various parameters of the carbon dioxide system in sea water; version 2. Dickson, A. G. and Goyet, C., editors. ORNL/CDIAC-74, 1994.</li>
++ Frankignoulle M., 1994. A complete set of buffer factors for acid/base CO<sub>2</sub> system in seawater. Journal of Marine Systems 5: 111-118.</li>
++ Zeebe R. E. & Wolf-Gladrow D. A., 2001. CO<sub>2</sub> in seawater: equilibrium, kinetics, isotopes. Amsterdam: Elsevier, 346 pp.
+
+seacarb is provided free under the GNU General Public License (<a href="http://www.gnu.org/copyleft/gpl.html" target="_blank">GNU GPL</a>). The current version (3.0) will be improved using the comments that I will receive. If you are new to R, please check the <a ref="http://cran.r-project.org/manuals.html">manuals</a> and <a href="http://cran.r-project.org/faqs.html">FAQs</a> available on the R-project web site to get information on how to install R and the seacarb package on your system. Please only report and comment on seacarb, not on general problems related to R.
+
+Briefly, after installing R and if you have an Internet connection, here is the simplest way to install seacarb:
+
++ Launch R
++ To install seacarb (to be done only once), type the following command: install.packages("seacarb")
++ To load the seacarb package into memory in order to use it (to be done each time R is launched), type the following command: library(seacarb)
+
+The seacarb package can be downloaded from the Comprehensive R Archive Network (<a href="http://CRAN.R-project.org/package=seacarb">CRAN</a>). The documentation is included in the package and is accessible using standard R commands. **Please give due credit to the publications mentioned above and cite seacarb as follows**:
+
+Gattuso, J.-P., Epitalon, J.-M. Lavigne H., & Orr J., 2021. seacarb: seawater carbonate chemistry. R package version 3.3.0. http://CRAN.R-project.org/package=seacarb. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4600014.svg)](https://doi.org/10.5281/zenodo.4600014)
+
+seacarb was supported by the following projects: 
+
++ Nutrients cycling and the trophic status of coastal ecosystems (EUROTROPH)
++ Marine carbon sources and sinks assessment (CARBOOCEAN)
++ European Project on Ocean Acidification (<a href="https://en.wikipedia.org/wiki/European_Project_on_Ocean_Acidification">EPOCA</a>)
++ Integrated Arctic Observation System (<a href="http://www.intaros.eu">INTAROS</a>)
