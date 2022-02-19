@@ -20,6 +20,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Garrabou J., Gómez-Gras D., Medrano A., Cerrano C., Ponti M., Schlegel R., Bensoussan N., Turicchia E., Sini M., Gerovasileiou V., Teixido N., Mirasole A., Tamburello L., Cebrian E., Rilov G., Ledoux J. B., Ben Souissi J., Khamassi F., Ghanem R., Benabdi M., Grimes S., Ocaña O., Bazairi H., Hereu B., Linares C., Kersting D. K., Rovira G., Ortega J., Casals D., Pagès-Escolà M., Margarit N., Capdevila P., Verdura J., Ramos A., Izquierdo A., Barbera C., Rubio-Portillo E., Anton I., López-Sendino P., Díaz D., Vázquez-Luis M., Duarte C., Marbà N., Aspillaga E., Espinosa F., Grech D., Guala I., Azzurro E., Farina S., Gambi M. C., Chimienti G., Montefalcone M., Azzola A., Pulido M., T, Fraschetti S., Ceccherelli G., Kipson S., Bakran-Petricioli T., Petricioli D., Jimenez C., Katsanevakis S., Tuney K., I, Kizilkaya Z., Sartoretto S., Rouanet E., Ruitton S., Comeau S., Gattuso J.-P. & Harmelin J. G., Feb. 2022 Marine heatwaves drive recurrent mass mortalities in the Mediterranean Sea. <i>Nature Ecology and Evolution</i>.
 
+Lebrun A., Comeau S., Gazeau F. & Gattuso J.-P., Feb. 2022. Impact of climate change on coastal Arctic benthic communities. <i>Global and Planetary Change</i>.
+
 Williamson P. & Gattuso J.-P., Jan. 2022. Negative emissions from coastal blue carbon ecosystems: uncertain, unreliable and unlikely to be climatically cost-effective. <i>Frontiers in Climate</i>. 
 
 ### <a name="In revision">In revision</a>
