@@ -43,6 +43,8 @@ Pessarrodona A., Assis J., Filbee-Dexter K., Gattuso J.-P., Duarte C. M., Krause
 <!-- <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p> -->
 ### <a name="2022">2022</a>
 
+Gattuso J.-P., 2022. L’Homme aura toujours de l’oxygène à respirer mais pas les poissons. <i>Mer et Marine</i>. [<a href="https://www.meretmarine.com/fr/content/oos-sciences-lhomme-aura-toujours-de-loxygene-respirer-mais-pas-les-poissons/" target="_blank">Web article</a>].  
+
 Gattuso J.-P. & Magnan A., 2022. L’océan, un garde-fou climatique. <i>Polytechnique insights</i>. [<a href="https://www.polytechnique-insights.com/tribunes/planete/locean-un-garde-fou-climatique/" target="_blank">Web article</a>].  
 
 Jiang L.-Q., Pierrot D., Wanninkhof R., Feely R. A., Tilbrook B., Alin S., Barbero L., Byrne R. H., Carter B. R., Dickson A. G., Gattuso J.-P., Greeley D., Hoppema M., Humphreys M. P., Karstensen J., Lange N., Lauvset S. K., Lewis E. R., Olsen A., Pérez F. F., Sabine C., Sharp J. D., Tanhua T., Trull T. W., Velo A., Allegra A. J., Barker P., Burger E., Cai W.-J., Chen C.-T. A., Cross J., Garcia H., Hernandez-Ayon J. M., Hu X., Kozyr A., Langdon C., Lee K., Salisbury J., Wang Z. A. & Xue L., 2022. Best practice data standards for discrete chemical oceanographic observations. <i>Frontiers in Marine Science</i> 8:705638. [<a href="http://dx.doi.org/10.3389/fmars.2021.705638" target="_blank">Abstract</a>][<a href="https://www.frontiersin.org/journals/marine-science" target="_blank">Journal home page</a>].
