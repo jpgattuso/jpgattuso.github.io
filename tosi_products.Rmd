@@ -64,6 +64,8 @@ The Ocean Solutions Initiative is coordinated by the <a href="https://www.fpa2.o
 
 <li>Gattuso J.-P. &amp; Hansson L., 2017. <i>Ocean acidification</i>. In: Euzen A., Gaill F., Lacroix S. &amp; Cury P. (Eds.), The ocean revealed, pp. 66-67. Paris: CNRS Editions.</li>
 
+<li>Gattuso J.-P., Jiao N., Chen F., Jouzel J., Le Quéré C., Lu Y., Tréguer P., von Schuckmann K., Wang Z. L. & Zang J., 2022. Ocean-based climate action. 12 p. Beijing and Brussels: Chinese Academy of Sciences and European Academy of Sciences.</li>
+
 <li>Gattuso J.-P. &amp; Magnan A., 2017. <i>Risks related to climate change</i>. In: Euzen A., Gaill F., Lacroix S. &amp; Cury P. (Eds.), The ocean revealed, pp. 220-221. Paris: CNRS Editions.</li>
 
 <li>Gattuso J.-P., Magnan A. K., Bopp L., Cheung W. W. L., Duarte C. M., Hinkel J., Mcleod E., Micheli F., Oschlies A., Williamson P., Billé R., Chalastani V. I., Gates R. D., Irisson J.-O., Middelburg J. J., P&ouml;rtner H.-O. &amp; Rau G. H., 2018. Ocean solutions to address climate change and its effects on marine ecosystems . <i>Frontiers in Marine Science</i> 5:337. [<a href="https://doi.org/10.3389/fmars.2018.00337" target="_blank">link</a>][<a href="https://www.frontiersin.org/articles/10.3389/fmars.2018.00337/full#supplementary-material" target="_blank">supplementary material</a>]</li> 
