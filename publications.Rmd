@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### <a name="Submitted">Submitted</a>
 
-<!-- Albright R., Hansson L., Cooley S., Gattuso J.-P., Marshall P., Marshal N., Fletcher S., Haraldsson G. & Hoegh-Guldberg O., Jan. 2022. Are we ready for ocean acidification? A framework for assessing and advancing policy readiness. <i>Nature Climate Change</i>.  -->
+Albright R., Hansson L., Cooley S., Gattuso J.-P., Marshall P., Marshal N., Fletcher S., Haraldsson G. & Hoegh-Guldberg O., April 2022. Are we ready for ocean acidification? A framework for assessing and advancing policy readiness. <i>Scientific Reports</i>.
 
 Hassoun A. E. R., Bantelman A., Canu D. M., Comeau S., Galdies C., Gattuso J.-P., Giani M., Grelaud M., Hendriks I. E., VIbello V., Idrissi M., Krasakopoulou E., Shaltout N., Solidoro, Swarzenski P. W. & Ziveri P., March 2022. Ocean acidification research in the Mediterranean Sea: status, trends and next steps. <i>Frontiers in Marine Science</i>.
 
