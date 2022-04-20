@@ -18,6 +18,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Albright R., Hansson L., Cooley S., Gattuso J.-P., Marshall P., Marshal N., Fletcher S., Haraldsson G. & Hoegh-Guldberg O., April 2022. Are we ready for ocean acidification? A framework for assessing and advancing policy readiness. <i>Scientific Reports</i>.
 
+Carbonne C., Comeau S., Chan P. T. W., Plichon K., Gattuso J.-P. & Teixidó N., April 2021. Early life stages of a Mediterranean coral are vulnerable to ocean warming and acidification. <i>Biogeosciences</i>.
+
 Hassoun A. E. R., Bantelman A., Canu D. M., Comeau S., Galdies C., Gattuso J.-P., Giani M., Grelaud M., Hendriks I. E., VIbello V., Idrissi M., Krasakopoulou E., Shaltout N., Solidoro, Swarzenski P. W. & Ziveri P., March 2022. Ocean acidification research in the Mediterranean Sea: status, trends and next steps. <i>Frontiers in Marine Science</i>.
 
 Lebrun A., Comeau S., Gazeau F. & Gattuso J.-P., Feb. 2022. Impact of climate change on coastal Arctic benthic communities. <i>Global and Planetary Change</i>.
