@@ -39,15 +39,15 @@ Pessarrodona A., Assis J., Filbee-Dexter K., Gattuso J.-P., Duarte C. M., Krause
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
 
-### <a name="In press">In press</a>
-
-Duarte C. M., Gattuso J.-P., Hancke K., Gundersen H., Filbee-Dexter K., Pedersen M. F., Middelburg J. J., Burrows M. T., Krumhansl K. A., Wernberg T., Moore P., Pessarrodona A., Bachmann Ørberg S., Pinto I. S., Assis J., Queirós A. M., Smale D. A., Bekkby T., Serrão E. A. & Krause-Jensen D., in press. Global estimates of the extent and production of macroalgal forests. <i>Global Ecology and Biogeography</i>.
+<!-- ### <a name="In press">In press</a> -->
 
 
-<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+<!-- <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p> -->
 
 
 ### <a name="2022">2022</a>
+
+Duarte C. M., Gattuso J.-P., Hancke K., Gundersen H., Filbee-Dexter K., Pedersen M. F., Middelburg J. J., Burrows M. T., Krumhansl K. A., Wernberg T., Moore P., Pessarrodona A., Bachmann Ørberg S., Pinto I. S., Assis J., Queirós A. M., Smale D. A., Bekkby T., Serrão E. A. & Krause-Jensen D., 2022 Global estimates of the extent and production of macroalgal forests. <i>Global Ecology and Biogeography</i>.  [<a href="https://doi.org/10.1111/geb.13515" target="_blank">Abstract</a>][<a href="https://onlinelibrary.wiley.com/journal/14668238" target="_blank">Journal home page</a>].
 
 Gattuso J.-P., 2022. L’Homme aura toujours de l’oxygène à respirer mais pas les poissons. <i>Mer et Marine</i>. [<a href="https://www.meretmarine.com/fr/content/oos-sciences-lhomme-aura-toujours-de-loxygene-respirer-mais-pas-les-poissons/" target="_blank">Web article</a>].  
 
