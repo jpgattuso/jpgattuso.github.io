@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Albright R., Hansson L., Cooley S., Gattuso J.-P., Marshall P., Marshal N., Fletcher S., Haraldsson G. & Hoegh-Guldberg O., April 2022. Are we ready for ocean acidification? A framework for assessing and advancing policy readiness. <i>Scientific Reports</i>.
 
-Hassoun A. E. R., Bantelman A., Canu D. M., Comeau S., Galdies C., Gattuso J.-P., Giani M., Grelaud M., Hendriks I. E., VIbello V., Idrissi M., Krasakopoulou E., Shaltout N., Solidoro, Swarzenski P. W. & Ziveri P., March 2022. Ocean acidification research in the Mediterranean Sea: status, trends and next steps. <i>Frontiers in Marine Science</i>.
+Carbonne C., Comeau S., Chan P. T. W., Plichon K., Gattuso J.-P. & Teixidó N., April 2022. Early life stages of a Mediterranean coral are vulnerable to ocean warming and acidification. <i>Biogeosciences</i>.
 
 Lebrun A., Comeau S., Gazeau F. & Gattuso J.-P., Feb. 2022. Impact of climate change on coastal Arctic benthic communities. <i>Global and Planetary Change</i>.
 
@@ -28,7 +28,7 @@ Williamson P. & Gattuso J.-P., Jan. 2022. Negative emissions from coastal blue c
 
 Fourrier M., Coppola L., d’Ortenzio F., Migon C. & Gattuso J.-P., March 2022. Impact of intermittent convection in the northwestern Mediterranean Sea on oxygen content, nutrients and the carbonate system. <i>Journal of Geophysical Research- Oceans</i>.
 
-Garrabou J., Gómez-Gras D., Medrano A., Cerrano C., Ponti M., Schlegel R., Bensoussan N., Turicchia E., Sini M., Gerovasileiou V., Teixido N., Mirasole A., Tamburello L., Cebrian E., Rilov G., Ledoux J. B., Ben Souissi J., Khamassi F., Ghanem R., Benabdi M., Grimes S., Ocaña O., Bazairi H., Hereu B., Linares C., Kersting D. K., Rovira G., Ortega J., Casals D., Pagès-Escolà M., Margarit N., Capdevila P., Verdura J., Ramos A., Izquierdo A., Barbera C., Rubio-Portillo E., Anton I., López-Sendino P., Díaz D., Vázquez-Luis M., Duarte C., Marbà N., Aspillaga E., Espinosa F., Grech D., Guala I., Azzurro E., Farina S., Gambi M. C., Chimienti G., Montefalcone M., Azzola A., Pulido M., T, Fraschetti S., Ceccherelli G., Kipson S., Bakran-Petricioli T., Petricioli D., Jimenez C., Katsanevakis S., Tuney K., I, Kizilkaya Z., Sartoretto S., Rouanet E., Ruitton S., Comeau S., Gattuso J.-P. & Harmelin J. G., April 2022 Marine heatwaves drive recurrent mass mortalities in the Mediterranean Sea. <i>Global Change Biology</i>.
+Hassoun A. E. R., Bantelman A., Canu D. M., Comeau S., Galdies C., Gattuso J.-P., Giani M., Grelaud M., Hendriks I. E., VIbello V., Idrissi M., Krasakopoulou E., Shaltout N., Solidoro, Swarzenski P. W. & Ziveri P., March 2022. Ocean acidification research in the Mediterranean Sea: status, trends and next steps. <i>Frontiers in Marine Science</i>.
 
 Kapsenberg L., Bitter M. C., Miglioli A., Pelejero C., Gattuso J.-P. & Dumollard R., Jan. 2022 Molecular basis of ocean acidification sensitivity and adaptation in <i>Mytilus galloprovincialis</i>. <i>iScience</i>.
 
@@ -39,13 +39,14 @@ Pessarrodona A., Assis J., Filbee-Dexter K., Gattuso J.-P., Duarte C. M., Krause
 
 ### <a name="In press">In press</a>
 
-Duarte C. M., Gattuso J.-P., Hancke K., Gundersen H., Filbee-Dexter K., Pedersen M. F., Middelburg J. J., Burrows M. T., Krumhansl K. A., Wernberg T., Moore P., Pessarrodona A., Bachmann Ørberg S., Pinto I. S., Assis J., Queirós A. M., Smale D. A., Bekkby T., Serrão E. A. & Krause-Jensen D., in press. Global estimates of the extent and production of macroalgal forests. <i>Global Ecology and Biogeography</i>.
-
+Garrabou J., Gómez-Gras D., Medrano A., Cerrano C., Ponti M., Schlegel R., Bensoussan N., Turicchia E., Sini M., Gerovasileiou V., Teixido N., Mirasole A., Tamburello L., Cebrian E., Rilov G., Ledoux J. B., Ben Souissi J., Khamassi F., Ghanem R., Benabdi M., Grimes S., Ocaña O., Bazairi H., Hereu B., Linares C., Kersting D. K., Rovira G., Ortega J., Casals D., Pagès-Escolà M., Margarit N., Capdevila P., Verdura J., Ramos A., Izquierdo A., Barbera C., Rubio-Portillo E., Anton I., López-Sendino P., Díaz D., Vázquez-Luis M., Duarte C., Marbà N., Aspillaga E., Espinosa F., Grech D., Guala I., Azzurro E., Farina S., Gambi M. C., Chimienti G., Montefalcone M., Azzola A., Pulido M., T, Fraschetti S., Ceccherelli G., Kipson S., Bakran-Petricioli T., Petricioli D., Jimenez C., Katsanevakis S., Tuney K., I, Kizilkaya Z., Sartoretto S., Rouanet E., Ruitton S., Comeau S., Gattuso J.-P. & Harmelin J. G., in press. Marine heatwaves drive recurrent mass mortalities in the Mediterranean Sea. <i>Global Change Biology</i>.
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
 
 ### <a name="2022">2022</a>
+
+Duarte C. M., Gattuso J.-P., Hancke K., Gundersen H., Filbee-Dexter K., Pedersen M. F., Middelburg J. J., Burrows M. T., Krumhansl K. A., Wernberg T., Moore P., Pessarrodona A., Bachmann Ørberg S., Pinto I. S., Assis J., Queirós A. M., Smale D. A., Bekkby T., Serrão E. A. & Krause-Jensen D., 2022 Global estimates of the extent and production of macroalgal forests. <i>Global Ecology and Biogeography</i>.  [<a href="https://doi.org/10.1111/geb.13515" target="_blank">Abstract</a>][<a href="https://onlinelibrary.wiley.com/journal/14668238" target="_blank">Journal home page</a>].
 
 Gattuso J.-P., 2022. L’Homme aura toujours de l’oxygène à respirer mais pas les poissons. <i>Mer et Marine</i>. [<a href="https://www.meretmarine.com/fr/content/oos-sciences-lhomme-aura-toujours-de-loxygene-respirer-mais-pas-les-poissons/" target="_blank">Web article</a>].  
 
@@ -774,7 +775,7 @@ Juillet-Leclerc A., Montaggioni L., Pichon M. &amp; Gattuso J.-P., 1997. Effects
 
 Gattuso J.-P., Payri C. E., Pichon M., Delesalle B. &amp; Frankignoulle M., 1997. Primary production, calcification, and air-sea CO<small><sub>2</sub></small> fluxes of a macroalgal-dominated coral reef community (Moorea, French Polynesia). <i>Journal of Phycology</i> 33(5): 729-738. [<a href="http://www.obs-vlfr.fr/%7Egattuso/Abstracts/abs64.htm">Abstract</a>]
 
-Juillet-Leclerc A., Gattuso J.-P., Montaggioni L. &amp; Pichon M., 1997. Seasonal variation in primary productivity and skeletal <img src="delta_small.gif" alt="Small delta" width="8" height="12" border="0"><small><sup>13</sup></small>C and <img src="delta_small.gif" alt="Small delta" width="8" height="12" border="0"><small><sup>18</sup></small>O in the zooxanthellate scleractinian coral <i>Acropora formosa</i>. <i>Marine Ecology Progress Series</i> 157: 109-117. [<a href="http://www.obs-vlfr.fr/%7Egattuso/Abstracts/abs65.htm">Abstract</a>] [<a href="http://www.int-res.com/journals/meps/index.html">Journal home page</a>]
+Juillet-Leclerc A., Gattuso J.-P., Montaggioni L. &amp; Pichon M., 1997. Seasonal variation in primary productivity and skeletal &delta;<sup>13</sup>C and &delta;<sup>18</sup>O in the zooxanthellate scleractinian coral <i>Acropora formosa</i>. <i>Marine Ecology Progress Series</i> 157: 109-117. [<a href="http://www.obs-vlfr.fr/%7Egattuso/Abstracts/abs65.htm">Abstract</a>] [<a href="http://www.int-res.com/journals/meps/index.html">Journal home page</a>]
 
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
