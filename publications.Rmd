@@ -29,9 +29,6 @@ Hassoun A. E. R., Bantelman A., Canu D. M., Comeau S., Galdies C., Gattuso J.-P.
 
 Lebrun A., Comeau S., Gazeau F. & Gattuso J.-P., Aug. 2022. Impact of climate change on coastal Arctic benthic communities. <i>Global and Planetary Change</i>.
 
-Pessarrodona A., Assis J., Filbee-Dexter K., Gattuso J.-P., Duarte C. M., Krause-Jensen D., Moore P. J., Smale D. & Wernberg T., June 2022. Global seaweed productivity. <i>Science Advances</i>.
-
-
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
 
@@ -42,6 +39,8 @@ Garrabou J., Gómez-Gras D., Medrano A., Cerrano C., Ponti M., Schlegel R., Bens
 Gattuso J.-P. & Jiao N., in press. Ocean-based climate actions recommended by academicians from Europe and China. <i>SCIENCE CHINA Earth Sciences</i>. [<a href="https://doi.org/10.1007/s11430-022-9970-0" target="_blank">Abstract</a>][<a href="https://www.sciengine.com/SCES/home" target="_blank">Journal home page</a>].
 
 Kapsenberg L., Bitter C. M., Miglioli A., Aparicio-Estalella C., Pelejero C., Gattuso J.-P. & Dumollard R., in press. Molecular basis of ocean acidification sensitivity and adaptation in Mytilus galloprovincialis. <i>ISCIENCE</i>.
+
+Pessarrodona A., Assis J., Filbee-Dexter K., Gattuso J.-P., Duarte C. M., Krause-Jensen D., Moore P. J., Smale D. & Wernberg T., in press Global seaweed productivity. <i>Science Advances</i>.
 
 Williamson P. & Gattuso J.-P., in press. Carbon removal using coastal blue carbon ecosystems is uncertain and unreliable, with questionable climatic cost-effectiveness. <i>Frontiers in Climate</i>.
 
