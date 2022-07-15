@@ -38,8 +38,6 @@ Garrabou J., Gómez-Gras D., Medrano A., Cerrano C., Ponti M., Schlegel R., Bens
 
 Gattuso J.-P. & Jiao N., in press. Ocean-based climate actions recommended by academicians from Europe and China. <i>SCIENCE CHINA Earth Sciences</i>. [<a href="https://doi.org/10.1007/s11430-022-9970-0" target="_blank">Abstract</a>][<a href="https://www.sciengine.com/SCES/home" target="_blank">Journal home page</a>].
 
-Kapsenberg L., Bitter C. M., Miglioli A., Aparicio-Estalella C., Pelejero C., Gattuso J.-P. & Dumollard R., in press. Molecular basis of ocean acidification sensitivity and adaptation in Mytilus galloprovincialis. <i>ISCIENCE</i>.
-
 Pessarrodona A., Assis J., Filbee-Dexter K., Gattuso J.-P., Duarte C. M., Krause-Jensen D., Moore P. J., Smale D. & Wernberg T., in press Global seaweed productivity. <i>Science Advances</i>.
 
 Williamson P. & Gattuso J.-P., in press. Carbon removal using coastal blue carbon ecosystems is uncertain and unreliable, with questionable climatic cost-effectiveness. <i>Frontiers in Climate</i>.
@@ -59,6 +57,9 @@ Gattuso J.-P., Jiao N., Chen F., Jouzel J., Le Quéré C., Lu Y., Tréguer P., v
 Gattuso J.-P. & Magnan A., 2022. L’océan, un garde-fou climatique. <i>Polytechnique insights</i>. [<a href="https://www.polytechnique-insights.com/tribunes/planete/locean-un-garde-fou-climatique/" target="_blank">Web article</a>].  
 
 Jiang L.-Q., Pierrot D., Wanninkhof R., Feely R. A., Tilbrook B., Alin S., Barbero L., Byrne R. H., Carter B. R., Dickson A. G., Gattuso J.-P., Greeley D., Hoppema M., Humphreys M. P., Karstensen J., Lange N., Lauvset S. K., Lewis E. R., Olsen A., Pérez F. F., Sabine C., Sharp J. D., Tanhua T., Trull T. W., Velo A., Allegra A. J., Barker P., Burger E., Cai W.-J., Chen C.-T. A., Cross J., Garcia H., Hernandez-Ayon J. M., Hu X., Kozyr A., Langdon C., Lee K., Salisbury J., Wang Z. A. & Xue L., 2022. Best practice data standards for discrete chemical oceanographic observations. <i>Frontiers in Marine Science</i> 8:705638. [<a href="http://dx.doi.org/10.3389/fmars.2021.705638" target="_blank">Abstract</a>][<a href="https://www.frontiersin.org/journals/marine-science" target="_blank">Journal home page</a>].
+
+Kapsenberg L., Bitter M. C., Miglioli A., Aparicio-Estalella C., Pelejero C., Gattuso J.-P. & Dumollard R., 2022. Molecular basis of ocean acidification sensitivity and adaptation in <i>Mytilus galloprovincialis</i>. iScience 25:104677.[<a href="http://dx.doi.org/10.1016/j.isci.2022.104677" target="_blank">Abstract</a>][<a href="https://www.cell.com/iscience/home" target="_blank">Journal home page</a>].
+
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 ### <a name="2021">2021</a>
