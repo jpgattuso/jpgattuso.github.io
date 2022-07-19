@@ -23,7 +23,7 @@ Carbonne C., Comeau S., Chan P. T. W., Plichon K., Gattuso J.-P. & Teixidó N., 
 
 ### <a name="In revision">In revision</a>
 
-Fourrier M., Coppola L., d’Ortenzio F., Migon C. & Gattuso J.-P., March 2022. Impact of intermittent convection in the northwestern Mediterranean Sea on oxygen content, nutrients and the carbonate system. <i>Journal of Geophysical Research- Oceans</i>.
+Fourrier M., Coppola L., d’Ortenzio F., Migon C. & Gattuso J.-P., July 2022. Impact of intermittent convection in the northwestern Mediterranean Sea on oxygen content, nutrients and the carbonate system. <i>Journal of Geophysical Research- Oceans</i>.
 
 Hassoun A. E. R., Bantelman A., Canu D. M., Comeau S., Galdies C., Gattuso J.-P., Giani M., Grelaud M., Hendriks I. E., VIbello V., Idrissi M., Krasakopoulou E., Shaltout N., Solidoro, Swarzenski P. W. & Ziveri P., March 2022. Ocean acidification research in the Mediterranean Sea: status, trends and next steps. <i>Frontiers in Marine Science</i>.
 
@@ -51,6 +51,8 @@ Williamson P. & Gattuso J.-P., in press. Carbon removal using coastal blue carbo
 Duarte C. M., Gattuso J.-P., Hancke K., Gundersen H., Filbee-Dexter K., Pedersen M. F., Middelburg J. J., Burrows M. T., Krumhansl K. A., Wernberg T., Moore P., Pessarrodona A., Bachmann Ørberg S., Pinto I. S., Assis J., Queirós A. M., Smale D. A., Bekkby T., Serrão E. A. & Krause-Jensen D., 2022 Global estimates of the extent and production of macroalgal forests. <i>Global Ecology and Biogeography</i> 31:1422-1439.  [<a href="https://doi.org/10.1111/geb.13515" target="_blank">Abstract</a>][<a href="https://onlinelibrary.wiley.com/journal/14668238" target="_blank">Journal home page</a>].
 
 Gattuso J.-P., 2022. L’Homme aura toujours de l’oxygène à respirer mais pas les poissons. <i>Mer et Marine</i>. [<a href="https://www.meretmarine.com/fr/content/oos-sciences-lhomme-aura-toujours-de-loxygene-respirer-mais-pas-les-poissons/" target="_blank">Web article</a>].  
+
+Gattuso J.-P. & Jiao N., 2022. Ocean-based climate actions recommended by academicians from Europe and China. <i>SCIENCE CHINA Earth Sciences</i>. [<a href="https://www.sciengine.com/SCES/doi/10.1007/s11430-022-9970-0" target="_blank">Abstract</a>][<a href="https://www.sciengine.com/SCES/home" target="_blank">Journal home page</a>].
 
 Gattuso J.-P., Jiao N., Chen F., Jouzel J., Le Quéré C., Lu Y., Tréguer P., von Schuckmann K., Wang Z. L. & Zang J., 2022. Ocean-based climate action. 12 p. Beijing and Brussels: Chinese Academy of Sciences and European Academy of Sciences. [<a href="https://doi.org/10.5281/zenodo.6410659" target="_blank">Report</a>].
 
