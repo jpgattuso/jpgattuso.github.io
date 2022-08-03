@@ -80,6 +80,10 @@ Dupont S., Gattuso J.-P., Pörtner H.-O. & Widdicombe S., 2021. Ocean acidiﬁca
 
 Duvat V. K. E., Magnan A. K., Perry C. T., Spencer T., Bell J. D., Wabnitz C., Webb A. P., White I., McInness K. L., Gattuso J.-P., Graham N. A. J., Nunn P. D. & Le Cozannet G., 2021. Risks to future atoll habitability from climate-driven environmental changes. <i>WIREs Climate Change</i> 12: e700. [<a href="https://doi.org/10.1002/wcc.700" target="_blank">Abstract</a>][<a href="https://onlinelibrary.wiley.com/journal/17577799" target="_blank">Journal home page</a>].
 
+Fischer P., Posner U., Gattuso J.-P., Alliouane S., Spotowitz L., Schwanitz M., Brand M., Brix H. & Baschek B., 2021. Hydrographical time series data of the littoral zone of Kongsfjorden, Svalbard 2019. <i>PANGAEA</i>. [<a href="https://doi.pangaea.de/10.1594/PANGAEA.927607" target="_blank">Data set</a>].  
+
+Fischer P., Spotowitz L., Posner U., Schwanitz M., Brand M., Gattuso J.-P., Alliouane S., Friedrich M., Brix H. & Baschek B., 2021. Hydrographical time series data of the littoral zone of Kongsfjorden, Svalbard 2020. <i>PANGAEA</i>. [<a href="https://doi.pangaea.de/10.159410.1594/PANGAEA.929583" target="_blank">Data set</a>]. 
+
 Gattuso J.-P., Bopp L., Duarte C. M. & Joos F, 2021. Humans will always have oxygen to breathe, but we can’t say the same for ocean life. <i>The Conversation</i>. [<a href="https://theconversation.com/humans-will-always-have-oxygen-to-breathe-but-we-cant-say-the-same-for-ocean-life-165148" target="_blank">Web article</a>]. 
 
 Gattuso J.-P. & Duarte C. M., 2021. Érosion de la biodiversité marine : quelles solutions ? <i>Questions Internationales</i> 107-108: 113-115. [<a href="https://www.vie-publique.fr/catalogue/280110-geopolitique-des-oceans" target="_blank">Journal home page</a>].
@@ -149,6 +153,8 @@ Boyd P. W., Collins S., Dupont S., Fabricius K., Gattuso J.-P., Havenhand J., Hu
 D&iacute;az-Casta&ntilde;eda V., Cox T. E., Gazeau F., Fitzer S., Delille J., Alliouane S. &amp; Gattuso J. P., 2019. Ocean acidification affects calcareous tube growth in adult stage and reared offspring of serpulid polychaetes. <i>Journal of Experimental Biology</i> 222:jeb196543. [<a href="https://jeb.biologists.org/content/222/13/jeb196543.long" target="_blank">Abstract</a>] [<a href="https://jeb.biologists.org" target="_blank">Journal home page</a>].
 
 Duvat V., Magnan A. &amp; Gattuso J.-P., 2019. Small islands, ocean and climate. In: Ocean and Climate (Ed.), Scientific fact sheets, pp. 88-100. Paris: Ocean and Climate Platform. [<a href="https://ocean-climate.org/wp-content/uploads/2020/01/EN_ppp-version-finale.pdf" target="_blank">Full report</a>].
+
+Fischer P., Schwanitz M., Brand M., Posner U., Gattuso J.-P., Alliouane S., Brix H. & Baschek B., 2019. Hydrographical time series data of the littoral zone of Kongsfjorden, Svalbard 2018. <i>PANGAEA</i>. [<a href="https://doi.pangaea.de/10.1594/PANGAEA.897349" target="_blank">Data set</a>].  
 
 Gattuso J.-P., Magnan A. K., Gallo N., Herr D., Rochette J., Vallejo L. &amp; Williamson P., 2019. Opportunities for increasing ocean action in climate strategies. Iddri Policy Brief 02/19:1-4. [<a href="http://bit.ly/2OwiQjJ" target="_blank">Abstract</a>][<a href="http://www.obs-vlfr.fr/~gattuso/Supplementary_Material_policy_brief_2019.pdf" target="_blank">Supplementary information</a>].
 
