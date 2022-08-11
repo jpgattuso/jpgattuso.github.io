@@ -64,8 +64,6 @@ The Ocean Solutions Initiative is coordinated by the <a href="https://www.fpa2.o
 
 <li>Gattuso J.-P. &amp; Hansson L., 2017. <i>Ocean acidification</i>. In: Euzen A., Gaill F., Lacroix S. &amp; Cury P. (Eds.), The ocean revealed, pp. 66-67. Paris: CNRS Editions.</li>
 
-<li>Gattuso J.-P., Jiao N., Chen F., Jouzel J., Le Quéré C., Lu Y., Tréguer P., von Schuckmann K., Wang Z. L. & Zang J., 2022. Ocean-based climate action. 12 p. Beijing and Brussels: Chinese Academy of Sciences and European Academy of Sciences.</li>
-
 <li>Gattuso J.-P. &amp; Magnan A., 2017. <i>Risks related to climate change</i>. In: Euzen A., Gaill F., Lacroix S. &amp; Cury P. (Eds.), The ocean revealed, pp. 220-221. Paris: CNRS Editions.</li>
 
 <li>Gattuso J.-P., Magnan A. K., Bopp L., Cheung W. W. L., Duarte C. M., Hinkel J., Mcleod E., Micheli F., Oschlies A., Williamson P., Billé R., Chalastani V. I., Gates R. D., Irisson J.-O., Middelburg J. J., P&ouml;rtner H.-O. &amp; Rau G. H., 2018. Ocean solutions to address climate change and its effects on marine ecosystems . <i>Frontiers in Marine Science</i> 5:337. [<a href="https://doi.org/10.3389/fmars.2018.00337" target="_blank">link</a>][<a href="https://www.frontiersin.org/articles/10.3389/fmars.2018.00337/full#supplementary-material" target="_blank">supplementary material</a>]</li> 
@@ -73,6 +71,10 @@ The Ocean Solutions Initiative is coordinated by the <a href="https://www.fpa2.o
 <li>Gattuso J.-P., Magnan A. K., Duarte C. &amp; Williamson P., 2021 The potential for ocean-based climate action: negative emissions technologies and beyond. <i>Frontiers in Climate</i> 2:575716. [<a href="https://doi.org/10.3389/fclim.2020.575716" target="_blank">link</a>]</li>
 
 <li>Gattuso J.-P., Magnan A. K., Gallo N., Herr D., Rochette J., Vallejo L. &amp; Williamson P., 2019. Opportunities for increasing ocean action in climate strategies. <i>Iddri Policy Brief</i> 02/19:1-4. [<a href="http://bit.ly/2NswD9t" target="_blank">link</a>][<a href="supplementary_Material_policy_brief_2019.pdf" target="_blank">supplementary material</a>]</li>
+
+<li>Gattuso J.-P. & Jiao N., 2022. Ocean-based climate actions recommended by academicians from Europe and China. <i>SCIENCE CHINA Earth Sciences</i>. [<a href="https://www.sciengine.com/SCES/doi/10.1007/s11430-022-9970-0" target="_blank">Abstract</a>][<a href="https://www.sciengine.com/SCES/home" target="_blank">Journal home page</a>].</li>
+
+<li>Gattuso J.-P., Jiao N., Chen F., Jouzel J., Le Quéré C., Lu Y., Tréguer P., von Schuckmann K., Wang Z. L. & Zang J., 2022. Ocean-based climate action. 12 p. Beijing and Brussels: Chinese Academy of Sciences and European Academy of Sciences. [<a href="https://doi.org/10.5281/zenodo.6410659" target="_blank">Report</a>]</li>
 
 <li>Kleypas J., Allemand D., Anthony K., Baker A. C., Beck M., Hale L. Z., Hilmi N., Hoegh-Guldberg O., Hughes T., Kaufman L., Kayanne H., Magnan A., Mcleod E., Mumby P., Palumbi S., Richmond R., Rinkevich B., Steneck R. S., Voolstra C. R., Wachenfeld D. &amp; Gattuso J.-P., 2021 Designing a blueprint for coral reef survival. <i>Biological Conservation</i> 257:109107.</i> [<a href="https://doi.org/10.1016/j.biocon.2021.109107" target="_blank">link</a>]</li>
 
@@ -88,7 +90,15 @@ The Ocean Solutions Initiative is coordinated by the <a href="https://www.fpa2.o
 
 <li>Masson-Delmotte V. &amp; Gattuso J.-P., 2017. <i>The ocean in IPCC reports</i>. In: Euzen A., Gaill F., Lacroix S. &amp; Cury P. (Eds.), The ocean revealed, pp. 258-259. Paris: CNRS Editions.</li>
 
-<li>Rau G. H., Caldeira K., Gattuso J.-P., Greene C. H., Karl D. M., Leinen M., McNutt M. K., Murray J. W. &amp; von Herzen B., submitted. Carbon dioxide removal: size matters. <i>Science</i>, <a href="http://science.sciencemag.org/content/356/6339/706/tab-e-letters" target="_blank">http://science.sciencemag.org/content/356/6339/706/tab-e-letters</a>. (correspondence)</li> 
+<li>Rau G. H., Caldeira K., Gattuso J.-P., Greene C. H., Karl D. M., Leinen M., McNutt M. K., Murray J. W. &amp; von Herzen B., submitted. Carbon dioxide removal: size matters. <i>Science</i>, <a href="http://science.sciencemag.org/content/356/6339/706/tab-e-letters" target="_blank">http://science.sciencemag.org/content/356/6339/706/tab-e-letters</a>. (correspondence)</li>
+
+<li>Williamson P. & Gattuso J.-P., 2022. Carbon removal using coastal blue carbon ecosystems is uncertain and unreliable, with questionable climatic cost-effectiveness. <i>Frontiers in Climate</i> 4. [<a href="https://doi.org/10.3389/fclim.2022.853666" target="_blank">Abstract</a>][<a href="https://www.frontiersin.org/journals/climate" target="_blank">Journal home page</a>].</li>
+
+<li>Williamson P. & Gattuso J.-P., 2022. Pourquoi on ne peut pas se fier à la restauration des habitats côtiers pour ralentir le changement climatique. The Conversation. 
+[<a href="https://theconversation.com/pourquoi-on-ne-peut-pas-se-fier-a-la-restauration-des-habitats-cotiers-pour-ralentir-le-changement-climatique-187788" target="_blank">Web article</a>]</li>
+
+<li>Williamson P. & Gattuso J.-P., 2022. Climate change: why we can’t rely on regrowing coastal habitats to offset carbon emissions. The Conversation. 
+[<a href="https://theconversation.com/climate-change-why-we-cant-rely-on-regrowing-coastal-habitats-to-offset-carbon-emissions-185726" target="_blank">Web article</a>]</li>
 
 </ul>
 
