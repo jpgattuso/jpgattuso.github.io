@@ -18,6 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Albright R., Hansson L., Cooley S., Gattuso J.-P., Marshall P., Marshal N., Fletcher S., Haraldsson G. & Hoegh-Guldberg O., April 2022. Are we ready for ocean acidification? A framework for assessing and advancing policy readiness. <i>Scientific Reports</i>.
 
+
 ### <a name="In revision">In revision</a>
 
 Fourrier M., Coppola L., d’Ortenzio F., Migon C. & Gattuso J.-P., Aug. 2022. Impact of intermittent convection in the northwestern Mediterranean Sea on oxygen content, nutrients and the carbonate system. <i>Journal of Geophysical Research- Oceans</i>.
@@ -26,8 +27,8 @@ Hassoun A. E. R., Bantelman A., Canu D. M., Comeau S., Galdies C., Gattuso J.-P.
 
 Lebrun A., Comeau S., Gazeau F. & Gattuso J.-P., Aug. 2022. Impact of climate change on coastal Arctic benthic communities. <i>Global and Planetary Change</i>.
 
-<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
 ### <a name="In press">In press</a>
 
