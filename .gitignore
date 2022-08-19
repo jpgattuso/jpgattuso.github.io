@@ -28,3 +28,4 @@ vignettes/*.pdf
 .Renviron
 # Jean-Pierre
 .DS_Store
+eol.html
