@@ -21,7 +21,6 @@ Albright R., Hansson L., Cooley S., Gattuso J.-P., Marshall P., Marshal N., Flet
 
 ### <a name="In revision">In revision</a>
 
-Fourrier M., Coppola L., d’Ortenzio F., Migon C. & Gattuso J.-P., Aug. 2022. Impact of intermittent convection in the northwestern Mediterranean Sea on oxygen content, nutrients and the carbonate system. <i>Journal of Geophysical Research- Oceans</i>.
 
 Hassoun A. E. R., Bantelman A., Canu D. M., Comeau S., Galdies C., Gattuso J.-P., Giani M., Grelaud M., Hendriks I. E., VIbello V., Idrissi M., Krasakopoulou E., Shaltout N., Solidoro, Swarzenski P. W. & Ziveri P., March 2022. Ocean acidification research in the Mediterranean Sea: status, trends and next steps. <i>Frontiers in Marine Science</i>.
 
@@ -33,6 +32,8 @@ Lebrun A., Comeau S., Gazeau F. & Gattuso J.-P., Aug. 2022. Impact of climate ch
 ### <a name="In press">In press</a>
 
 Carbonne C., Comeau S., Chan P. T. W., Plichon K., Gattuso J.-P. & Teixidó N., in press. Early life stages of a Mediterranean coral are vulnerable to ocean warming and acidification. <i>Biogeosciences</i>.
+
+Fourrier M., Coppola L., d’Ortenzio F., Migon C. & Gattuso J.-P., in press. Impact of intermittent convection in the northwestern Mediterranean Sea on oxygen content, nutrients and the carbonate system. <i>Journal of Geophysical Research-Oceans</i>.  [<a href="https://doi.org/10.1029/2022JC018615." target="_blank">Abstract</a>][<a href="https://agupubs.onlinelibrary.wiley.com/journal/21699291" target="_blank">Journal home page</a>].
 
 Pessarrodona A., Assis J., Filbee-Dexter K., Gattuso J.-P., Duarte C. M., Krause-Jensen D., Moore P. J., Smale D. & Wernberg T., in press. Global seaweed productivity. <i>Science Advances</i>.
 
