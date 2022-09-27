@@ -50,16 +50,17 @@ pre.numberSource code > span > a:first-child::before
   }
 pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
 div.sourceCode
-  {   }
+  { color: #00769e; background-color: #f1f3f5; }
 @media screen {
 pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
+code span { color: #00769e; } /* Normal */
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
-code span.at { } /* Attribute */
+code span.at { color: #657422; } /* Attribute */
 code span.bn { color: #ad0000; } /* BaseN */
 code span.bu { } /* BuiltIn */
-code span.cf { color: #007ba5; } /* ControlFlow */
+code span.cf { color: #00769e; } /* ControlFlow */
 code span.ch { color: #20794d; } /* Char */
 code span.cn { color: #8f5902; } /* Constant */
 code span.co { color: #5e5e5e; } /* Comment */
@@ -73,9 +74,9 @@ code span.fl { color: #ad0000; } /* Float */
 code span.fu { color: #4758ab; } /* Function */
 code span.im { } /* Import */
 code span.in { color: #5e5e5e; } /* Information */
-code span.kw { color: #007ba5; } /* Keyword */
+code span.kw { color: #00769e; } /* Keyword */
 code span.op { color: #5e5e5e; } /* Operator */
-code span.ot { color: #007ba5; } /* Other */
+code span.ot { color: #00769e; } /* Other */
 code span.pp { color: #ad0000; } /* Preprocessor */
 code span.sc { color: #5e5e5e; } /* SpecialChar */
 code span.ss { color: #20794d; } /* SpecialString */
@@ -1030,10 +1031,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     margin-top: 1.5em;
   }
 
-  .figure img {
-    width: 100%;
-  }
-
   .figure .caption {
     color: rgba(0, 0, 0, 0.6);
     font-size: 12px;
@@ -1863,6 +1860,12 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
+        if ($(this).children()[0].nodeName == "D-FOOTNOTE") {
+          var fn = $(this).children()[0]
+          $(this).html(fn.shadowRoot.querySelector("sup"))
+          $(this).id = fn.id
+          fn.remove()
+        }
         var refs = $(this).attr('data-cites').split(" ");
         var refHtml = refs.map(function(ref) {
           return "<p>" + $('#ref-' + ref).html() + "</p>";
@@ -1877,6 +1880,31 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
           placement: 'bottom-start'
         });
       });
+
+      // fix footnotes in tables (#411)
+      // replacing broken distill.pub feature
+      $('table d-footnote').each(function() {
+        // we replace internal showAtNode methode which is triggered when hovering a footnote
+        this.hoverBox.showAtNode = function(node) {
+          // ported from https://github.com/distillpub/template/pull/105/files
+          calcOffset = function(elem) {
+              let x = elem.offsetLeft;
+              let y = elem.offsetTop;
+              // Traverse upwards until an `absolute` element is found or `elem`
+              // becomes null.
+              while (elem = elem.offsetParent && elem.style.position != 'absolute') {
+                  x += elem.offsetLeft;
+                  y += elem.offsetTop;
+              }
+
+              return { left: x, top: y };
+          }
+          // https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetTop
+          const bbox = node.getBoundingClientRect();
+          const offset = calcOffset(node);
+          this.show([offset.left + bbox.width, offset.top + bbox.height]);
+        }
+      })
 
       // clear polling timer
       clearInterval(tid);
@@ -1976,6 +2004,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     // mark non-body figures created by knitr chunks as 100% width
     $('.layout-chunk').each(function(i, val) {
       var figures = $(this).find('img, .html-widget');
+      // ignore leaflet img layers (#106)
+      figures = figures.filter(':not(img[class*="leaflet"])')
       if ($(this).attr('data-layout') !== "l-body") {
         figures.css('width', '100%');
       } else {
@@ -1998,7 +2028,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     // get rid of index.html references in header
     if (window.location.protocol !== "file:") {
       $('.distill-site-header a[href]').each(function(i,val) {
-        $(this).attr('href', $(this).attr('href').replace("index.html", "./"));
+        $(this).attr('href', $(this).attr('href').replace(/^index[.]html/, "./"));
       });
     }
 
@@ -2455,21 +2485,6 @@ Impact of climate change on coastal Arctic benthic communities.
 &amp; Teixidó N., in press. Early life stages of a Mediterranean coral
 are vulnerable to ocean warming and acidification.
 <i>Biogeosciences</i>.</p>
-<p>Fourrier M., Coppola L., d’Ortenzio F., Migon C. &amp; Gattuso J.-P.,
-in press. Impact of intermittent convection in the northwestern
-Mediterranean Sea on oxygen content, nutrients and the carbonate system.
-<i>Journal of Geophysical Research-Oceans</i>.
-[<a href="https://doi.org/10.1029/2022JC018615." target="_blank">Abstract</a>][<a href="https://agupubs.onlinelibrary.wiley.com/journal/21699291" target="_blank">Journal
-home page</a>].</p>
-<p>Hassoun A. E. R., Bantelman A., Canu D. M., Comeau S., Galdies C.,
-Gattuso J.-P., Giani M., Grelaud M., Hendriks I. E., Vibello V., Idrissi
-M., Krasakopoulou E., Shaltout N., Solidoro, Swarzenski P. W. &amp;
-Ziveri P., in press. Ocean acidification research in the Mediterranean
-Sea: status, trends and next steps. <i>Frontiers in Marine
-Science</i>.</p>
-<p>Pessarrodona A., Assis J., Filbee-Dexter K., Gattuso J.-P., Duarte C.
-M., Krause-Jensen D., Moore P. J., Smale D. &amp; Wernberg T., in press.
-Global seaweed productivity. <i>Science Advances</i>.</p>
 <p>
 <a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a>
 </p>
@@ -2481,6 +2496,12 @@ Assis J., Queirós A. M., Smale D. A., Bekkby T., Serrão E. A. &amp;
 Krause-Jensen D., 2022 Global estimates of the extent and production of
 macroalgal forests. <i>Global Ecology and Biogeography</i> 31:1422-1439.
 [<a href="https://doi.org/10.1111/geb.13515" target="_blank">Abstract</a>][<a href="https://onlinelibrary.wiley.com/journal/14668238" target="_blank">Journal
+home page</a>].</p>
+<p>Fourrier M., Coppola L., d’Ortenzio F., Migon C. &amp; Gattuso J.-P.,
+2022 Impact of intermittent convection in the northwestern Mediterranean
+Sea on oxygen content, nutrients and the carbonate system. <i>Journal of
+Geophysical Research-Oceans</i> 127:e2022JC018615.
+[<a href="https://doi.org/10.1029/2022JC018615." target="_blank">Abstract</a>][<a href="https://agupubs.onlinelibrary.wiley.com/journal/21699291" target="_blank">Journal
 home page</a>].</p>
 <p>Garrabou J., Gómez-Gras D., Medrano A., Cerrano C., Ponti M.,
 Schlegel R., Bensoussan N., Turicchia E., Sini M., Gerovasileiou V.,
@@ -2517,6 +2538,14 @@ of Sciences and European Academy of Sciences.
 climatique. <i>Polytechnique insights</i>.
 [<a href="https://www.polytechnique-insights.com/tribunes/planete/locean-un-garde-fou-climatique/" target="_blank">Web
 article</a>].</p>
+<p>Hassoun A. E. R., Bantelman A., Canu D. M., Comeau S., Galdies C.,
+Gattuso J.-P., Giani M., Grelaud M., Hendriks I. E., Vibello V., Idrissi
+M., Krasakopoulou E., Shaltout N., Solidoro, Swarzenski P. W. &amp;
+Ziveri P., 2022. Ocean acidification research in the Mediterranean Sea:
+status, trends and next steps. <i>Frontiers in Marine Science</i>
+9:10.3389/fmars.2022.892670.
+[<a href="https://doi.org/10.3389/fmars.2022.892670" target="_blank">Abstract</a>][<a href="https://www.frontiersin.org/journals/marine-science" target="_blank">Journal
+home page</a>].</p>
 <p>Jiang L.-Q., Pierrot D., Wanninkhof R., Feely R. A., Tilbrook B.,
 Alin S., Barbero L., Byrne R. H., Carter B. R., Dickson A. G., Gattuso
 J.-P., Greeley D., Hoppema M., Humphreys M. P., Karstensen J., Lange N.,
@@ -2533,6 +2562,12 @@ Pelejero C., Gattuso J.-P. &amp; Dumollard R., 2022. Molecular basis of
 ocean acidification sensitivity and adaptation in <i>Mytilus
 galloprovincialis</i>. iScience
 25:104677.[<a href="http://dx.doi.org/10.1016/j.isci.2022.104677" target="_blank">Abstract</a>][<a href="https://www.cell.com/iscience/home" target="_blank">Journal
+home page</a>].</p>
+<p>Pessarrodona A., Assis J., Filbee-Dexter K., Gattuso J.-P., Duarte C.
+M., Krause-Jensen D., Moore P. J., Smale D. &amp; Wernberg T., 2022.
+Global seaweed productivity. <i>Science Advances</i>
+8:10.1126/sciadv.abn2465.
+[<a href="https://doi.org/10.1126/sciadv.abn2465" target="_blank">Abstract</a>][<a href="https://www.science.org/journal/sciadv" target="_blank">Journal
 home page</a>].</p>
 <p>Williamson P. &amp; Gattuso J.-P., 2022. Carbon removal using coastal
 blue carbon ecosystems is uncertain and unreliable, with questionable
