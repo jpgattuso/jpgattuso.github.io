@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Albright R., Hansson L., Cooley S., Gattuso J.-P., Marshall P., Marshal N., Fletcher S., Haraldsson G. & Hoegh-Guldberg O., Aug. 2022. Are we ready for ocean acidification? A framework for assessing and advancing policy readiness. <i>Environmental Research Letters</i>.
 
-Schlegel R., Bartsch I., Bischof K., Bjørst L., Dannevig H., Diehl N., Duarte P., Hovelsrud G., Juul-Pedersen T., Lebrun A., Merillet L., Miller C., Ren C., Sjer M., Søreide J. & Gattuso J.-P., Oct. 2022. Drivers of change in Arctic fjord socio-ecological systems. Cambridge Prisms: Coastal Futures.
+Schlegel R., Bartsch I., Bischof K., Bjørst L., Dannevig H., Diehl N., Duarte P., Hovelsrud G., Juul-Pedersen T., Lebrun A., Merillet L., Miller C., Ren C., Sjer M., Søreide J. & Gattuso J.-P., Oct. 2022. Drivers of change in Arctic fjord socio-ecological systems. <i>Cambridge Prisms: Coastal Futures</i>.
 
 <!-- ### <a name="In revision">In revision</a> -->
 
