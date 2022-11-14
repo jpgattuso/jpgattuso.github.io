@@ -721,7 +721,7 @@ Gattuso J.-P. &amp; Buddemeier R. W., 2001. Coral reefs: an ecosystem subject to
 
 Kleypas J. A., Buddemeier R. W. &amp; Gattuso J.-P., 2001. The future of coral reefs in an age of global change. <i>International Journal of Earth Sciences</i> 90(2): 426-437. [<a href="http://link.springer.de/link/service/journals/00531/bibs/1090002/10900426.htm" name="Abs IJES">Abstract</a>] [<a href="http://link.springer.de/link/service/journals/00531/index.htm" name="International Journal of Earth Science">Journal home page</a>]
 
-Reynaud-Vaganay S., Juillet-Leclerc A., Jaubert J. &amp; Gattuso J.-P., 2001. Effect of light on skeletal &#948;<small><sup>13</sup></small>C and &#948;<small><sup>18</sup></small>O, and interaction with photosynthesis, respiration and calcification in two zooxanthellate scleractinian corals. <i>Paleogeography, Paleoclimatology, Paleoecology</i> 175(1-4): 393-404. [<a href="http://www.obs-vlfr.fr/%7Egattuso/Abstracts/absPaleo3.htm" name="Abs Paleo3">Abstract</a>] [<a href="http://www.elsevier.nl/inca/publications/store/5/0/3/3/5/5/" name="Paleogeography, Paleoclimatology, Paleoecology">Journal home page</a>]
+Reynaud-Vaganay S., Juillet-Leclerc A., Jaubert J. &amp; Gattuso J.-P., 2001. Effect of light on skeletal &#948;<small><sup>13</sup></small>C and &#948;<small><sup>18</sup></small>O, and interaction with photosynthesis, respiration and calcification in two zooxanthellate scleractinian corals. <i>Paleogeography, Paleoclimatology, Paleoecology</i> 175(1-4): 393-404. [<a href="https://doi.org/10.1016/S0031-0182(01)00382-0">Abstract</a>] [<a href="http://www.elsevier.nl/inca/publications/store/5/0/3/3/5/5/" name="Paleogeography, Paleoclimatology, Paleoecology">Journal home page</a>]
 
 
 
@@ -746,7 +746,7 @@ Leclercq N., Gattuso J.-P. &amp; Jaubert J., 2000. CO<sub>2</sub> partial pressu
 
 Leclercq N., Gattuso J.-P. &amp; Jaubert J., 1999. Measurement of primary production and respiration in open-Top mesocosms: application to a coral reef mesocosm. <i>Marine Ecology Progress Series</i> 177: 299-304. [<a href="http://www.int-res.com/abstracts/meps/v177/p299-304.html">Abstract</a>] [<a href="http://www.int-res.com/journals/meps/index.html">Journal home page</a>]
 
-Gattuso J.-P., Allemand D. &amp; Frankignoulle M., 1999. Photosynthesis and calcification at cellular, organismal and community levels in coral reefs: a review on interactions and control by carbonate chemistry. <i>American Zoologist</i> 39(1): 160-183. [Invited review]. [<a href="http://www.obs-vlfr.fr/%7Egattuso/Abstracts/abs88.htm">Abstract</a>]<a href="http://www.sicb.org/public/publications/AZ/index.html">Journal home page</a>]
+Gattuso J.-P., Allemand D. &amp; Frankignoulle M., 1999. Photosynthesis and calcification at cellular, organismal and community levels in coral reefs: a review on interactions and control by carbonate chemistry. <i>American Zoologist</i> 39(1): 160-183. [<a href="https://doi.org/10.1093/icb/39.1.160">Abstract</a>]<a href="http://www.sicb.org/public/publications/AZ/index.html">Journal home page</a>]
 
 Kleypas J. A., Buddemeier R. W., Archer D., Gattuso J.-P., Langdon C. &amp; Opdyke B. N., 1999. Geochemical consequences of increased atmospheric CO<sub>2</sub> on coral reefs. <i>Science</i> 284: 118-120. [<a href="http://www.sciencemag.org/cgi/content/abstract/284/5411/118">Abstract</a>] [<a href="http://www.sciencemag.org/">Journal home page</a>]
 
@@ -829,7 +829,7 @@ Gattuso J.-P., Pichon M. &amp; Frankignoulle M., 1995. Biological control of air
 
 Gattuso J.-P., 1994. <i>M&eacute;tabolisme dans les r&eacute;cifs coralliens: de l'organisme &agrave; l'&eacute;cosyst&egrave;me.</i> Dipl&ocirc;me d'Habilitation &agrave; Diriger des Recherches, Universit&eacute; de Nice Sophia-Antipolis, 245 p., 24 fig., 6 tabl. [<a href="http://www.obs-vlfr.fr/%7Egattuso/Abstracts/abs30.htm">Abstract</a>]
 
-Frankignoulle M., Canon C. &amp; Gattuso J.-P., 1994. Marine calcification as a source of carbon dioxide: positive feedback of increasing atmospheric CO<small><sub>2</sub></small>. <i>Limnology and Oceanography</i> 39(2): 458-462. [<a href="http://www.obs-vlfr.fr/%7Egattuso/Abstracts/abs31.htm">Abstract</a>] [<a href="http://aslo.org/lo/">Journal home page</a>]
+Frankignoulle M., Canon C. &amp; Gattuso J.-P., 1994. Marine calcification as a source of carbon dioxide: positive feedback of increasing atmospheric CO<small><sub>2</sub></small>. <i>Limnology and Oceanography</i> 39(2): 458-462. [<a href=" https://doi.org/10.4319/lo.1994.39.2.0458">Abstract</a>] [<a href="http://aslo.org/lo/">Journal home page</a>]
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 ### <a name="1993">1993</a>
