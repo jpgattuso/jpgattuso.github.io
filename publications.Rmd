@@ -20,13 +20,19 @@ Albright R., Hansson L., Cooley S., Gattuso J.-P., Marshall P., Marshal N., Flet
 
 Boyd P. W., Claustre H., Legendre L., Gattuso J.-P. & Le Traon P.-Y., Oct. 2022. Operational monitoring of open-ocean carbon dioxide removal deployments: detection, attribution, and determination of side-effects. <i>Oceanography</i>.
 
-Schlegel R., Bartsch I., Bischof K., Bjørst L., Dannevig H., Diehl N., Duarte P., Hovelsrud G., Juul-Pedersen T., Lebrun A., Merillet L., Miller C., Ren C., Sjer M., Søreide J. & Gattuso J.-P., Oct. 2022. Drivers of change in Arctic fjord socio-ecological systems. <i>Cambridge Prisms: Coastal Futures</i>.
-
-<!-- ### <a name="In revision">In revision</a> -->
+Schlegel, R., & Gattuso, J.-P., Dec. 2022. A dataset for investigating socio-ecological changes in Arctic fjords. <i>Earth System Science Data.</i>
 
 
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
-<!-- <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p> -->
+### <a name="In revision">In revision</a>
+
+
+
+Schlegel R., Bartsch I., Bischof K., Bjørst L., Dannevig H., Diehl N., Duarte P., Hovelsrud G., Juul-Pedersen T., Lebrun A., Merillet L., Miller C., Ren C., Sjer M., Søreide J. & Gattuso J.-P., Jan. 2023 Drivers of change in Arctic fjord socio-ecological systems. <i>Cambridge Prisms: Coastal Futures</i>.
+
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
 <!-- ### <a name="In press">In press</a> -->
 
