@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = FALSE)
 +  <a href="https://www.researchgate.net/profile/Jean-Pierre_Gattuso/?ev=hdr_xprf" target="_blank">ResearchGate</a>
 
 <a name="top"></a>
-| <a href="#In_revision">In revision</a> | <a href="#In_press">In press</a> |    <a href="#2022">2022</a>  | <a href="#2021">2021</a>  |  <a href="#2020">2020</a> | <a href="#2019">2019</a> | <a href="#2018">2018</a> | <a href="#2017">2017</a> | <a href="#2016">2016</a> | <a href="#2015">2015</a> | <a href="#2014">2014</a> | <a href="#2013">2013</a> | <a href="#2012">2012</a> | <a href="#2011">2011</a> | <a href="#2010">2010</a> | <a href="#2009">2009</a> | <a href="#2008">2008</a> | <a href="#2007">2007</a> | <a href="#2006">2006</a> | <a href="#2005">2005</a> | <a href="#2004">2004</a> | <a href="#2003">2003</a> | <a href="#2002">2002</a> | <a href="#2001">2001</a> | <a href="#2000">2000</a> | <a href="#1999">1999</a> | <a href="#1998">1998</a> | <a href="#1997">1997</a> | <a href="#1996">1996</a> | <a href="#1995">1995</a> | <a href="#1994">1994</a> | <a href="#1993">1993</a> | <a href="#1991">1991</a> | <a href="#1990">1990</a> | <a href="#1989">1989</a> | <a href="#1988">1988</a> | <a href="#1987">1987</a> | <a href="#1985">1985</a> | <a href="#1984">1984</a> |  
+| <a href="#In_revision">In revision</a> | <a href="#In_press">In press</a>|    <a href="#2022">2023</a> |    <a href="#2022">2022</a>  | <a href="#2021">2021</a>  |  <a href="#2020">2020</a> | <a href="#2019">2019</a> | <a href="#2018">2018</a> | <a href="#2017">2017</a> | <a href="#2016">2016</a> | <a href="#2015">2015</a> | <a href="#2014">2014</a> | <a href="#2013">2013</a> | <a href="#2012">2012</a> | <a href="#2011">2011</a> | <a href="#2010">2010</a> | <a href="#2009">2009</a> | <a href="#2008">2008</a> | <a href="#2007">2007</a> | <a href="#2006">2006</a> | <a href="#2005">2005</a> | <a href="#2004">2004</a> | <a href="#2003">2003</a> | <a href="#2002">2002</a> | <a href="#2001">2001</a> | <a href="#2000">2000</a> | <a href="#1999">1999</a> | <a href="#1998">1998</a> | <a href="#1997">1997</a> | <a href="#1996">1996</a> | <a href="#1995">1995</a> | <a href="#1994">1994</a> | <a href="#1993">1993</a> | <a href="#1991">1991</a> | <a href="#1990">1990</a> | <a href="#1989">1989</a> | <a href="#1988">1988</a> | <a href="#1987">1987</a> | <a href="#1985">1985</a> | <a href="#1984">1984</a> |  
 
 ### <a name="Submitted">Submitted</a>
 
@@ -20,7 +20,7 @@ Albright R., Hansson L., Cooley S., Gattuso J.-P., Marshall P., Marshal N., Flet
 
 Boyd P. W., Claustre H., Legendre L., Gattuso J.-P. & Le Traon P.-Y., Oct. 2022. Operational monitoring of open-ocean carbon dioxide removal deployments: detection, attribution, and determination of side-effects. <i>Oceanography</i>.
 
-Schlegel, R., & Gattuso, J.-P., Dec. 2022. A dataset for investigating socio-ecological changes in Arctic fjords. <i>Earth System Science Data.</i>
+Schlegel, R., & Gattuso, J.-P., Jan. 2023. A dataset for investigating socio-ecological changes in Arctic fjords. <i>Earth System Science Data.</i> [<a href="https://doi.org/10.5194/essd-2022-455">Discussion paper</a>]
 
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
@@ -37,6 +37,8 @@ Schlegel R., Bartsch I., Bischof K., Bjørst L., Dannevig H., Diehl N., Duarte P
 <!-- ### <a name="In press">In press</a> -->
 
 <!-- <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p> -->
+
+### <a name="2023">2023</a>
 
 
 ### <a name="2022">2022</a>
@@ -66,6 +68,8 @@ Kapsenberg L., Bitter M. C., Miglioli A., Aparicio-Estalella C., Pelejero C., Ga
 Lebrun A., Comeau S., Gazeau F. & Gattuso J.-P., 2022. Impact of climate change on coastal Arctic benthic communities. <i>Global and Planetary Change</i> 219:103980.  [<a href="https://doi.org/10.1016/j.gloplacha.2022.103980" target="_blank">Abstract</a>][<a href="https://www.sciencedirect.com/journal/global-and-planetary-change" target="_blank">Journal home page</a>].
 
 Pessarrodona A., Assis J., Filbee-Dexter K., Gattuso J.-P., Duarte C. M., Krause-Jensen D., Moore P. J., Smale D. & Wernberg T., 2022. Global seaweed productivity. <i>Science Advances</i> 8:10.1126/sciadv.abn2465. [<a href="https://doi.org/10.1126/sciadv.abn2465" target="_blank">Abstract</a>][<a href="https://www.science.org/journal/sciadv" target="_blank">Journal home page</a>].
+
+Schlegel R. & Gattuso J.-P., 2022. A dataset for investigating socio-ecological changes in Arctic fjords.  <i>PANGAEA</i>. [<a href="https://doi.pangaea.de/10.1594/PANGAEA.953115" target="_blank">Data set</a>]. 
 
 Williamson P. & Gattuso J.-P., 2022. Carbon removal using coastal blue carbon ecosystems is uncertain and unreliable, with questionable climatic cost-effectiveness. <i>Frontiers in Climate</i> 4. [<a href="https://doi.org/10.3389/fclim.2022.853666" target="_blank">Abstract</a>][<a href="https://www.frontiersin.org/journals/climate" target="_blank">Journal home page</a>].
 
