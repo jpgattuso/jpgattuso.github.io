@@ -25,20 +25,22 @@ Schlegel, R., & Gattuso, J.-P., Jan. 2023. A dataset for investigating socio-eco
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
-### <a name="In revision">In revision</a>
+<!-- ### <a name="In revision">In revision</a> -->
 
 
 
-Schlegel R., Bartsch I., Bischof K., Bjørst L., Dannevig H., Diehl N., Duarte P., Hovelsrud G., Juul-Pedersen T., Lebrun A., Merillet L., Miller C., Ren C., Sjer M., Søreide J. & Gattuso J.-P., Jan. 2023 Drivers of change in Arctic fjord socio-ecological systems. <i>Cambridge Prisms: Coastal Futures</i>.
+
+
+<!-- <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p> -->
+
+### <a name="In press">In press</a>
+
+Schlegel R., Bartsch I., Bischof K., Bjørst L., Dannevig H., Diehl N., Duarte P., Hovelsrud G., Juul-Pedersen T., Lebrun A., Merillet L., Miller C., Ren C., Sjer M., Søreide J. & Gattuso J.-P., Jan. 2023. Drivers of change in Arctic fjord socio-ecological systems: examples from the European Arctic. <i>Cambridge Prisms: Coastal Futures</i>.
 
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
-<!-- ### <a name="In press">In press</a> -->
-
-<!-- <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p> -->
-
-### <a name="2023">2023</a>
+<!-- ### <a name="2023">2023</a> -->
 
 
 ### <a name="2022">2022</a>
@@ -68,6 +70,8 @@ Kapsenberg L., Bitter M. C., Miglioli A., Aparicio-Estalella C., Pelejero C., Ga
 Lebrun A., Comeau S., Gazeau F. & Gattuso J.-P., 2022. Impact of climate change on coastal Arctic benthic communities. <i>Global and Planetary Change</i> 219:103980.  [<a href="https://doi.org/10.1016/j.gloplacha.2022.103980" target="_blank">Abstract</a>][<a href="https://www.sciencedirect.com/journal/global-and-planetary-change" target="_blank">Journal home page</a>].
 
 Pessarrodona A., Assis J., Filbee-Dexter K., Gattuso J.-P., Duarte C. M., Krause-Jensen D., Moore P. J., Smale D. & Wernberg T., 2022. Global seaweed productivity. <i>Science Advances</i> 8:10.1126/sciadv.abn2465. [<a href="https://doi.org/10.1126/sciadv.abn2465" target="_blank">Abstract</a>][<a href="https://www.science.org/journal/sciadv" target="_blank">Journal home page</a>].
+
+Schlegel R. & Gattuso J.-P., 2022. A dataset for investigating socio-ecological changes in Arctic fjords.  <i>PANGAEA</i>. [<a href="https://doi.pangaea.de/10.1594/PANGAEA.953115" target="_blank">Data set</a>]. 
 
 Williamson P. & Gattuso J.-P., 2022. Carbon removal using coastal blue carbon ecosystems is uncertain and unreliable, with questionable climatic cost-effectiveness. <i>Frontiers in Climate</i> 4. [<a href="https://doi.org/10.3389/fclim.2022.853666" target="_blank">Abstract</a>][<a href="https://www.frontiersin.org/journals/climate" target="_blank">Journal home page</a>].
 
