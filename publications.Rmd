@@ -35,14 +35,14 @@ Schlegel, R., & Gattuso, J.-P., Jan. 2023. A dataset for investigating socio-eco
 
 ### <a name="In press">In press</a>
 
-Schlegel R., Bartsch I., Bischof K., Bjørst L., Dannevig H., Diehl N., Duarte P., Hovelsrud G., Juul-Pedersen T., Lebrun A., Merillet L., Miller C., Ren C., Sjer M., Søreide J. & Gattuso J.-P., Jan. 2023. Drivers of change in Arctic fjord socio-ecological systems: examples from the European Arctic. <i>Cambridge Prisms: Coastal Futures</i>.
 
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
-<!-- ### <a name="2023">2023</a> -->
+### <a name="2023">2023</a>
+Schlegel R., Bartsch I., Bischof K., Bjørst L., Dannevig H., Diehl N., Duarte P., Hovelsrud G., Juul-Pedersen T., Lebrun A., Merillet L., Miller C., Ren C., Sjer M., Søreide J. & Gattuso J.-P., 2023. Drivers of change in Arctic fjord socio-ecological systems: examples from the European Arctic. <i>Cambridge Prisms: Coastal Futures</i>. [<a href="https://doi.org/10.1017/cft.2023.1" target="_blank">Abstract</a>][<a href="https://www.cambridge.org/core/journals/cambridge-prisms-coastal-futures" target="_blank">Journal home page</a>].
 
-
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 ### <a name="2022">2022</a>
 
 Carbonne C., Comeau S., Chan P. T. W., Plichon K., Gattuso J.-P. & Teixidó N., 2022. Early life stages of a Mediterranean coral are vulnerable to ocean warming and acidification. Biogeosciences 19:4767-4777. [<a href="https://doi.org/10.5194/bg-19-4767-2022" target="_blank">Abstract</a>][<a href="https://www.biogeosciences.net" target="_blank">Journal home page</a>].
@@ -98,7 +98,7 @@ Duvat V. K. E., Magnan A. K., Perry C. T., Spencer T., Bell J. D., Wabnitz C., W
 
 Fischer P., Posner U., Gattuso J.-P., Alliouane S., Spotowitz L., Schwanitz M., Brand M., Brix H. & Baschek B., 2021. Hydrographical time series data of the littoral zone of Kongsfjorden, Svalbard 2019. <i>PANGAEA</i>. [<a href="https://doi.pangaea.de/10.1594/PANGAEA.927607" target="_blank">Data set</a>].  
 
-Fischer P., Spotowitz L., Posner U., Schwanitz M., Brand M., Gattuso J.-P., Alliouane S., Friedrich M., Brix H. & Baschek B., 2021. Hydrographical time series data of the littoral zone of Kongsfjorden, Svalbard 2020. <i>PANGAEA</i>. [<a href="https://doi.pangaea.de/10.159410.1594/PANGAEA.929583" target="_blank">Data set</a>]. 
+Fischer P., Spotowitz L., Posner U., Schwanitz M., Brand M., Gattuso J.-P., Alliouane S., Friedrich M., Brix H. & Baschek B., 2021. Hydrographical time series data of the littoral zone of Kongsfjorden, Svalbard 2020. <i>PANGAEA</i>. [<a href="https://doi.pangaea.de/10.159410.1594/PANGAEA.929583" target="_blank">Data set</a>].
 
 Gattuso J.-P., Bopp L., Duarte C. M. & Joos F, 2021. Humans will always have oxygen to breathe, but we can’t say the same for ocean life. <i>The Conversation</i>. [<a href="https://theconversation.com/humans-will-always-have-oxygen-to-breathe-but-we-cant-say-the-same-for-ocean-life-165148" target="_blank">Web article</a>]. 
 
