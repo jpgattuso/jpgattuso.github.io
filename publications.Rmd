@@ -39,11 +39,11 @@ Schlegel, R., & Gattuso, J.-P., Jan. 2023. A dataset for investigating socio-eco
 
 <!-- <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p> -->
 
-<!-- ### <a name="2023">2023</a> -->
-<!-- Schlegel R., Bartsch I., Bischof K., Bjørst L., Dannevig H., Diehl N., Duarte P., Hovelsrud G., Juul-Pedersen T., Lebrun A., Merillet L., Miller C., Ren C., Sjer M., Søreide J. & Gattuso J.-P., 2023. Drivers of change in Arctic fjord socio-ecological systems: examples from the European Arctic. <i>Cambridge Prisms: Coastal Futures</i>. [<a href="https://doi.org/10.1017/cft.2023.1" target="_blank">Abstract</a>][<a href="https://www.cambridge.org/core/journals/cambridge-prisms-coastal-futures" target="_blank">Journal home page</a>]. -->
+### <a name="2023">2023</a>
+Schlegel R., Bartsch I., Bischof K., Bjørst L., Dannevig H., Diehl N., Duarte P., Hovelsrud G., Juul-Pedersen T., Lebrun A., Merillet L., Miller C., Ren C., Sjer M., Søreide J. & Gattuso J.-P., 2023. Drivers of change in Arctic fjord socio-ecological systems: examples from the European Arctic. <i>Cambridge Prisms: Coastal Futures</i>. [<a href="https://doi.org/10.1017/cft.2023.1" target="_blank">Abstract</a>][<a href="https://www.cambridge.org/core/journals/cambridge-prisms-coastal-futures" target="_blank">Journal home page</a>].
 
-<!-- <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p> -->
-<!-- ### <a name="2022">2022</a> -->
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+### <a name="2022">2022</a>
 
 Carbonne C., Comeau S., Chan P. T. W., Plichon K., Gattuso J.-P. & Teixidó N., 2022. Early life stages of a Mediterranean coral are vulnerable to ocean warming and acidification. Biogeosciences 19:4767-4777. [<a href="https://doi.org/10.5194/bg-19-4767-2022" target="_blank">Abstract</a>][<a href="https://www.biogeosciences.net" target="_blank">Journal home page</a>].
 
