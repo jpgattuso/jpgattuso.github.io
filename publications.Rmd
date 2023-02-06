@@ -16,8 +16,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### <a name="Submitted">Submitted</a>
 
-Albright R., Hansson L., Cooley S., Gattuso J.-P., Marshall P., Marshal N., Fletcher S., Haraldsson G. & Hoegh-Guldberg O., Aug. 2022. Are we ready for ocean acidification? A framework for assessing and advancing policy readiness. <i>Environmental Research Letters</i>.
-
 Boyd P. W., Claustre H., Legendre L., Gattuso J.-P. & Le Traon P.-Y., Oct. 2022. Operational monitoring of open-ocean carbon dioxide removal deployments: detection, attribution, and determination of side-effects. <i>Oceanography</i>.
 
 Schlegel, R., & Gattuso, J.-P., Jan. 2023. A dataset for investigating socio-ecological changes in Arctic fjords. <i>Earth System Science Data.</i> [<a href="https://doi.org/10.5194/essd-2022-455">Discussion paper</a>]
@@ -25,24 +23,22 @@ Schlegel, R., & Gattuso, J.-P., Jan. 2023. A dataset for investigating socio-eco
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
-<!-- ### <a name="In revision">In revision</a> -->
+### <a name="In revision">In revision</a>
 
+Albright R., Hansson L., Cooley S., Gattuso J.-P., Marshall P., Marshal N., Fletcher S., Haraldsson G. & Hoegh-Guldberg O., Jan. 2023. Are we ready for ocean acidification? A framework for assessing and advancing policy readiness. <i>Environmental Research Letters</i>.
 
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+
+<!-- ### <a name="In press">In press</a> -->
 
 
 
 <!-- <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p> -->
 
-### <a name="In press">In press</a>
-
-Schlegel R., Bartsch I., Bischof K., Bjørst L., Dannevig H., Diehl N., Duarte P., Hovelsrud G., Juul-Pedersen T., Lebrun A., Merillet L., Miller C., Ren C., Sjer M., Søreide J. & Gattuso J.-P., Jan. 2023. Drivers of change in Arctic fjord socio-ecological systems: examples from the European Arctic. <i>Cambridge Prisms: Coastal Futures</i>.
-
+### <a name="2023">2023</a>
+Schlegel R., Bartsch I., Bischof K., Bjørst L., Dannevig H., Diehl N., Duarte P., Hovelsrud G., Juul-Pedersen T., Lebrun A., Merillet L., Miller C., Ren C., Sjer M., Søreide J. & Gattuso J.-P., 2023. Drivers of change in Arctic fjord socio-ecological systems: examples from the European Arctic. <i>Cambridge Prisms: Coastal Futures</i>. [<a href="https://doi.org/10.1017/cft.2023.1" target="_blank">Abstract</a>][<a href="https://www.cambridge.org/core/journals/cambridge-prisms-coastal-futures" target="_blank">Journal home page</a>].
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
-
-<!-- ### <a name="2023">2023</a> -->
-
-
 ### <a name="2022">2022</a>
 
 Carbonne C., Comeau S., Chan P. T. W., Plichon K., Gattuso J.-P. & Teixidó N., 2022. Early life stages of a Mediterranean coral are vulnerable to ocean warming and acidification. Biogeosciences 19:4767-4777. [<a href="https://doi.org/10.5194/bg-19-4767-2022" target="_blank">Abstract</a>][<a href="https://www.biogeosciences.net" target="_blank">Journal home page</a>].
@@ -55,7 +51,7 @@ Garrabou J., Gómez-Gras D., Medrano A., Cerrano C., Ponti M., Schlegel R., Bens
 
 Gattuso J.-P., 2022. L’Homme aura toujours de l’oxygène à respirer mais pas les poissons. <i>Mer et Marine</i>. [<a href="https://www.meretmarine.com/fr/content/oos-sciences-lhomme-aura-toujours-de-loxygene-respirer-mais-pas-les-poissons/" target="_blank">Web article</a>].  
 
-Gattuso J.-P. & Jiao N., 2022. Ocean-based climate actions recommended by academicians from Europe and China. <i>SCIENCE CHINA Earth Sciences</i>. [<a href="https://www.sciengine.com/SCES/doi/10.1007/s11430-022-9970-0" target="_blank">Abstract</a>][<a href="https://www.sciengine.com/SCES/home" target="_blank">Journal home page</a>].
+Gattuso J.-P. & Jiao N., 2022. Ocean-based climate actions recommended by academicians from Europe and China. <i>SCIENCE CHINA Earth Sciences</i> 65:1612-1614. [<a href="https://www.sciengine.com/SCES/doi/10.1007/s11430-022-9970-0" target="_blank">Abstract</a>][<a href="https://www.sciengine.com/SCES/home" target="_blank">Journal home page</a>].
 
 Gattuso J.-P., Jiao N., Chen F., Jouzel J., Le Quéré C., Lu Y., Tréguer P., von Schuckmann K., Wang Z. L. & Zang J., 2022. Ocean-based climate action. 12 p. Beijing and Brussels: Chinese Academy of Sciences and European Academy of Sciences. [<a href="https://doi.org/10.5281/zenodo.6410659" target="_blank">Report</a>].
 
@@ -98,7 +94,7 @@ Duvat V. K. E., Magnan A. K., Perry C. T., Spencer T., Bell J. D., Wabnitz C., W
 
 Fischer P., Posner U., Gattuso J.-P., Alliouane S., Spotowitz L., Schwanitz M., Brand M., Brix H. & Baschek B., 2021. Hydrographical time series data of the littoral zone of Kongsfjorden, Svalbard 2019. <i>PANGAEA</i>. [<a href="https://doi.pangaea.de/10.1594/PANGAEA.927607" target="_blank">Data set</a>].  
 
-Fischer P., Spotowitz L., Posner U., Schwanitz M., Brand M., Gattuso J.-P., Alliouane S., Friedrich M., Brix H. & Baschek B., 2021. Hydrographical time series data of the littoral zone of Kongsfjorden, Svalbard 2020. <i>PANGAEA</i>. [<a href="https://doi.pangaea.de/10.159410.1594/PANGAEA.929583" target="_blank">Data set</a>]. 
+Fischer P., Spotowitz L., Posner U., Schwanitz M., Brand M., Gattuso J.-P., Alliouane S., Friedrich M., Brix H. & Baschek B., 2021. Hydrographical time series data of the littoral zone of Kongsfjorden, Svalbard 2020. <i>PANGAEA</i>. [<a href="https://doi.pangaea.de/10.159410.1594/PANGAEA.929583" target="_blank">Data set</a>].
 
 Gattuso J.-P., Bopp L., Duarte C. M. & Joos F, 2021. Humans will always have oxygen to breathe, but we can’t say the same for ocean life. <i>The Conversation</i>. [<a href="https://theconversation.com/humans-will-always-have-oxygen-to-breathe-but-we-cant-say-the-same-for-ocean-life-165148" target="_blank">Web article</a>]. 
 
