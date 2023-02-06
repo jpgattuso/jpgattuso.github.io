@@ -67,7 +67,7 @@ Lebrun A., Comeau S., Gazeau F. & Gattuso J.-P., 2022. Impact of climate change 
 
 Pessarrodona A., Assis J., Filbee-Dexter K., Gattuso J.-P., Duarte C. M., Krause-Jensen D., Moore P. J., Smale D. & Wernberg T., 2022. Global seaweed productivity. <i>Science Advances</i> 8:10.1126/sciadv.abn2465. [<a href="https://doi.org/10.1126/sciadv.abn2465" target="_blank">Abstract</a>][<a href="https://www.science.org/journal/sciadv" target="_blank">Journal home page</a>].
 
-Schlegel R. & Gattuso J.-P., 2022. A dataset for investigating socio-ecological changes in Arctic fjords.  <i>PANGAEA</i>. [<a href="https://doi.pangaea.de/10.1594/PANGAEA.953115" target="_blank">Data set</a>]. 
+Schlegel R. & Gattuso J.-P., 2022. A dataset for investigating socio-ecological changes in Arctic fjords.  <i>PANGAEA</i>. [<a href="https://doi.org/10.1594/PANGAEA.953115" target="_blank">Data set</a>]. 
 
 Williamson P. & Gattuso J.-P., 2022. Carbon removal using coastal blue carbon ecosystems is uncertain and unreliable, with questionable climatic cost-effectiveness. <i>Frontiers in Climate</i> 4. [<a href="https://doi.org/10.3389/fclim.2022.853666" target="_blank">Abstract</a>][<a href="https://www.frontiersin.org/journals/climate" target="_blank">Journal home page</a>].
 
