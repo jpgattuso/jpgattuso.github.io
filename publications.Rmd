@@ -16,8 +16,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### <a name="Submitted">Submitted</a>
 
-Boyd P. W., Claustre H., Legendre L., Gattuso J.-P. & Le Traon P.-Y., Oct. 2022. Operational monitoring of open-ocean carbon dioxide removal deployments: detection, attribution, and determination of side-effects. <i>Oceanography</i>.
-
 Schlegel, R., & Gattuso, J.-P., Jan. 2023. A dataset for investigating socio-ecological changes in Arctic fjords. <i>Earth System Science Data.</i> [<a href="https://doi.org/10.5194/essd-2022-455">Discussion paper</a>]
 
 
@@ -26,6 +24,10 @@ Schlegel, R., & Gattuso, J.-P., Jan. 2023. A dataset for investigating socio-eco
 ### <a name="In revision">In revision</a>
 
 Albright R., Hansson L., Cooley S., Gattuso J.-P., Marshall P., Marshal N., Fletcher S., Haraldsson G. & Hoegh-Guldberg O., Jan. 2023. Are we ready for ocean acidification? A framework for assessing and advancing policy readiness. <i>Environmental Research Letters</i>.
+
+Boyd P. W., Claustre H., Legendre L., Gattuso J.-P. & Le Traon P.-Y., Feb. 2023. Operational monitoring of open-ocean carbon dioxide removal deployments: detection, attribution, and determination of side-effects. <i>Oceanography</i>.
+
+Jiang L.-Q., Dunne J., Carter B. R., Tjiputra J. F., Terhaar J., Sharp J. D., Olsen A., Alin S., Bakker D. C. E., Feely R. A., Gattuso J.-P., Hogan P., Ilyina T., Lange N., Lauvset S. K., Lewis E. R., Lovato T., Palmieri J., Santana-Falcón Y., Schwinger J., Séférian R., Strand G., Swart N., Tanhua T., Tsujino H., Wanninkhof R., Watanabe M., Yamamoto A. & Ziehn T., Feb. 2023. Global surface ocean acidification indicators from 1750 to 2100. <i>Journal of Advances in Modeling Earth Systems</i>.
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
