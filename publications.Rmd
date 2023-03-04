@@ -23,13 +23,14 @@ Schlegel, R., & Gattuso, J.-P., Jan. 2023. A dataset for investigating socio-eco
 
 ### <a name="In revision">In revision</a>
 
-Jiang L.-Q., Dunne J., Carter B. R., Tjiputra J. F., Terhaar J., Sharp J. D., Olsen A., Alin S., Bakker D. C. E., Feely R. A., Gattuso J.-P., Hogan P., Ilyina T., Lange N., Lauvset S. K., Lewis E. R., Lovato T., Palmieri J., Santana-Falcón Y., Schwinger J., Séférian R., Strand G., Swart N., Tanhua T., Tsujino H., Wanninkhof R., Watanabe M., Yamamoto A. & Ziehn T., Feb. 2023. Global surface ocean acidification indicators from 1750 to 2100. <i>Journal of Advances in Modeling Earth Systems</i>.
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
 ### <a name="In press">In press</a>
 
 Albright R., Hansson L., Cooley S., Gattuso J.-P., Marshall P., Marshal N., Fletcher S., Haraldsson G. & Hoegh-Guldberg O., in press. Are we ready for ocean acidification? A framework for assessing and advancing policy readiness. <i>Environmental Research Letters</i>.
+
+Jiang L.-Q., Dunne J., Carter B. R., Tjiputra J. F., Terhaar J., Sharp J. D., Olsen A., Alin S., Bakker D. C. E., Feely R. A., Gattuso J.-P., Hogan P., Ilyina T., Lange N., Lauvset S. K., Lewis E. R., Lovato T., Palmieri J., Santana-Falcón Y., Schwinger J., Séférian R., Strand G., Swart N., Tanhua T., Tsujino H., Wanninkhof R., Watanabe M., Yamamoto A. & Ziehn T., in press. Global surface ocean acidification indicators from 1750 to 2100. <i>Journal of Advances in Modeling Earth Systems</i>.
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
@@ -63,7 +64,7 @@ Jiang L.-Q., Pierrot D., Wanninkhof R., Feely R. A., Tilbrook B., Alin S., Barbe
 
 Kapsenberg L., Bitter M. C., Miglioli A., Aparicio-Estalella C., Pelejero C., Gattuso J.-P. & Dumollard R., 2022. Molecular basis of ocean acidification sensitivity and adaptation in <i>Mytilus galloprovincialis</i>. iScience 25:104677.[<a href="http://dx.doi.org/10.1016/j.isci.2022.104677" target="_blank">Abstract</a>][<a href="https://www.cell.com/iscience/home" target="_blank">Journal home page</a>].
 
-Lebrun A., Comeau S., Gazeau F. & Gattuso J.-P., 2022. Impact of climate change on coastal Arctic benthic communities. <i>Global and Planetary Change</i> 219:103980.  [<a href="https://doi.org/10.1016/j.gloplacha.2022.103980" target="_blank">Abstract</a>][<a href="https://www.sciencedirect.com/journal/global-and-planetary-change" target="_blank">Journal home page</a>].
+Lebrun A., Comeau S., Gazeau F. & Gattuso J.-P., 2022. Impact of climate change on Arctic macroalgal communities. <i>Global and Planetary Change</i> 219:103980.  [<a href="https://doi.org/10.1016/j.gloplacha.2022.103980" target="_blank">Abstract</a>][<a href="https://www.sciencedirect.com/journal/global-and-planetary-change" target="_blank">Journal home page</a>].
 
 Pessarrodona A., Assis J., Filbee-Dexter K., Gattuso J.-P., Duarte C. M., Krause-Jensen D., Moore P. J., Smale D. & Wernberg T., 2022. Global seaweed productivity. <i>Science Advances</i> 8:10.1126/sciadv.abn2465. [<a href="https://doi.org/10.1126/sciadv.abn2465" target="_blank">Abstract</a>][<a href="https://www.science.org/journal/sciadv" target="_blank">Journal home page</a>].
 
