@@ -28,14 +28,15 @@ Schlegel, R., & Gattuso, J.-P., Jan. 2023. A dataset for investigating socio-eco
 
 ### <a name="In press">In press</a>
 
-Albright R., Hansson L., Cooley S., Gattuso J.-P., Marshall P., Marshal N., Fletcher S., Haraldsson G. & Hoegh-Guldberg O., in press. Are we ready for ocean acidification? A framework for assessing and advancing policy readiness. <i>Environmental Research Letters</i>.
 
 Jiang L.-Q., Dunne J., Carter B. R., Tjiputra J. F., Terhaar J., Sharp J. D., Olsen A., Alin S., Bakker D. C. E., Feely R. A., Gattuso J.-P., Hogan P., Ilyina T., Lange N., Lauvset S. K., Lewis E. R., Lovato T., Palmieri J., Santana-Falcón Y., Schwinger J., Séférian R., Strand G., Swart N., Tanhua T., Tsujino H., Wanninkhof R., Watanabe M., Yamamoto A. & Ziehn T., in press. Global surface ocean acidification indicators from 1750 to 2100. <i>Journal of Advances in Modeling Earth Systems</i>.
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
 ### <a name="2023">2023</a>
-Boyd P. W., Claustre H., Legendre L., Gattuso J.-P. & Le Traon P.-Y., 2023 Operational monitoring of open-ocean carbon dioxide removal deployments: detection, attribution, and determination of side-effects. <i>Oceanography</i>.  [<a href="https://doi.org/10.5670/oceanog.2023.s1.2" target="_blank">Abstract</a>][<a href="https://tos.org/oceanography/" target="_blank">Journal home page</a>].
+Albright R., Hansson L., Cooley S., Gattuso J.-P., Marshall P., Marshal N., Fletcher S., Haraldsson G. & Hoegh-Guldberg O., 2023 Are we ready for ocean acidification? A framework for assessing and advancing policy readiness. <i>Environmental Research Letters</i>. [<a href="http://dx.doi.org/10.1088/1748-9326/acc085" target="_blank">Abstract</a>].
+
+Boyd P. W., Claustre H., Legendre L., Gattuso J.-P. & Le Traon P.-Y., 2023 Operational monitoring of open-ocean carbon dioxide removal deployments: detection, attribution, and determination of side-effects. <i>Oceanography</i>. [<a href="https://doi.org/10.5670/oceanog.2023.s1.2" target="_blank">Abstract</a>][<a href="https://tos.org/oceanography/" target="_blank">Journal home page</a>].
 
 Schlegel R., Bartsch I., Bischof K., Bjørst L., Dannevig H., Diehl N., Duarte P., Hovelsrud G., Juul-Pedersen T., Lebrun A., Merillet L., Miller C., Ren C., Sjer M., Søreide J. & Gattuso J.-P., 2023. Drivers of change in Arctic fjord socio-ecological systems: examples from the European Arctic. <i>Cambridge Prisms: Coastal Futures</i> 1:E13. [<a href="https://doi.org/10.1017/cft.2023.1" target="_blank">Abstract</a>][<a href="https://www.cambridge.org/core/journals/cambridge-prisms-coastal-futures" target="_blank">Journal home page</a>].
 
