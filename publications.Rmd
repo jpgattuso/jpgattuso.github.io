@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### <a name="Submitted">Submitted</a>
 
-Gattuso J.-P., Alliouane S. & Fischer P., March 2023. High-frequency, year-round time series of the carbonate chemistry in a high-Arctic fjord (Svalbard). <i>Earth System Science Data</i>. 
+Gattuso J.-P., Alliouane S. & Fischer P., March 2023. High-frequency, year-round time series of the carbonate chemistry in a high-Arctic fjord (Svalbard). <i>Earth System Science Data</i>. [<a href="https://doi.org/10.5194/essd-2023-92">Discussion paper</a>]
 
 Schlegel, R., & Gattuso, J.-P., Jan. 2023. A dataset for investigating socio-ecological changes in Arctic fjords. <i>Earth System Science Data.</i> [<a href="https://doi.org/10.5194/essd-2022-455">Discussion paper</a>]
 
