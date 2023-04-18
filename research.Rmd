@@ -14,3 +14,4 @@ knitr::opts_chunk$set(echo = FALSE)
 + <a href="tosi_products.html" target="_blank">TOSI: The Ocean Solutions Initiative</a>
 + <a href="O2015_products.html" target="_blank">O2015: The Oceans 2015 Initiative</a>
 + <a href="seacarb.html" target="_blank">R package seacarb</a>
++ <a href="https://oae-best-practice.carbondioxide-removal.eu/" target="_blank">Guide to best practices for ocean alkalinity enhancement research</a>
