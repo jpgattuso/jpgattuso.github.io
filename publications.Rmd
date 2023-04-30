@@ -22,6 +22,8 @@ Gattuso J.-P., Alliouane S. & Fischer P., March 2023. High-frequency, year-round
 
 Miller C., Urrutti P., Gattuso J.-P., Comeau S., Lebrun A., Alliouane S., Schlegel R. & Gazeau F., April 2023 An autonomous flow-through salinity and temperature perturbation mesocosm system for multi-stressor experiments. <i>Biogeosciences</i>.
 
+Pfister C. A., Cardini U., Mirasole A., Montilla L., Veseli I., Gattuso J.-P. & Teixido N., April 2023. Microbial associates of an endemic Mediterranean seagrass enhance the access of the host and the surrounding seawater to inorganic nitrogen under ocean acidification. <i>Scientific Reports</i>
+
 Schlegel, R., & Gattuso, J.-P., Jan. 2023. A dataset for investigating socio-ecological changes in Arctic fjords. <i>Earth System Science Data.</i> [<a href="https://doi.org/10.5194/essd-2022-455">Discussion paper</a>]
 
 
