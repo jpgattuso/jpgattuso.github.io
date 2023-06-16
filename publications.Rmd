@@ -16,6 +16,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### <a name="Submitted">Submitted</a>
 
+Attard K., Singh R. K., Gattuso J.-P., Filbee-Dexter K., Krause-Jensen D., Kühl M., Sejr M. K., Archambault P., Babin M., Bélanger S., Berg P., Glud R. N., Hancke K., Jänicke S., Qin J., Rysgaard S., Sørensen E. B., Tachon F., Wenzhöfer F. & Ardyna M., June 2023. Seafloor primary production in a changing Arctic Ocean. <i>Proceedings of the National Academy of Science U.S.A.</i>
+
 Filbee-Dexter K., Pessarrodona A., Pedersen M. F., Wernberg T., Duarte C. M., Assis J., Bekkby T., Burrows M. T., Carlson D. F., Gattuso J.-P., Gundersen H., Hancke K., Krumhansl K. A., Kuwae T., Middelburg J. J., Moore P., Bachmann Ørberg S., Queirós A. M., Serrão E. A., Smale D. A., Pinto I. S., Suzuki N. & Krause-Jensen D., Apr 2023. Carbon export from seaweed forests to deep ocean sinks. <i>Nature Geoscience</i>.
 
 Miller C., Urrutti P., Gattuso J.-P., Comeau S., Lebrun A., Alliouane S., Schlegel R. & Gazeau F., April 2023 Technical note: An autonomous flow-through salinity and temperature perturbation mesocosm system for multi-stressor experiments. <i>Biogeosciences</i> [<a href="https://doi.org/10.5194/egusphere-2023-768">Discussion paper</a>]
