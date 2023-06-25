@@ -18,9 +18,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Attard K., Singh R. K., Gattuso J.-P., Filbee-Dexter K., Krause-Jensen D., Kühl M., Sejr M. K., Archambault P., Babin M., Bélanger S., Berg P., Glud R. N., Hancke K., Jänicke S., Qin J., Rysgaard S., Sørensen E. B., Tachon F., Wenzhöfer F. & Ardyna M., June 2023. Seafloor primary production in a changing Arctic Ocean. <i>Proceedings of the National Academy of Science U.S.A.</i>
 
-Jiang L., Subhas A., Basso D., Fennel K. & Gattuso J.-P., 2023. Data reporting and sharing. In: Oschlies A., Stevenson A., Bach L., Fennel K., Rickaby R., Satterfield T., Webb R. M. & Gattuso J.-P. (Eds.), Guide to Best Practices in Ocean Alkalinity Enhancement Research. <i>State of the Planet Discussions</i>.
+Jiang L., Subhas A., Basso D., Fennel K. & Gattuso J.-P., 2023. Data reporting and sharing. In: Oschlies A., Stevenson A., Bach L., Fennel K., Rickaby R., Satterfield T., Webb R. M. & Gattuso J.-P. (Eds.), Guide to Best Practices in Ocean Alkalinity Enhancement Research. <i>State of the Planet Discussions</i>. [<a href="https://sp.copernicus.org/preprints/sp-2023-6/">Discussion paper</a>].
 
-Miller C., Urrutti P., Gattuso J.-P., Comeau S., Lebrun A., Alliouane S., Schlegel R. & Gazeau F., April 2023 Technical note: An autonomous flow-through salinity and temperature perturbation mesocosm system for multi-stressor experiments. <i>Biogeosciences</i> [<a href="https://doi.org/10.5194/egusphere-2023-768">Discussion paper</a>]
+Miller C., Urrutti P., Gattuso J.-P., Comeau S., Lebrun A., Alliouane S., Schlegel R. & Gazeau F., April 2023 Technical note: An autonomous flow-through salinity and temperature perturbation mesocosm system for multi-stressor experiments. <i>Biogeosciences</i> [<a href="https://doi.org/10.5194/egusphere-2023-768">Discussion paper</a>].
 
 Pfister C. A., Cardini U., Mirasole A., Montilla L., Veseli I., Gattuso J.-P. & Teixido N., April 2023. Microbial associates of an endemic Mediterranean seagrass enhance the access of the host and the surrounding seawater to inorganic nitrogen under ocean acidification. <i>Scientific Reports</i>
 
