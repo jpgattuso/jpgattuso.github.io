@@ -20,7 +20,7 @@ Attard K., Singh R. K., Gattuso J.-P., Filbee-Dexter K., Krause-Jensen D., Kühl
 
 Carbonne C., Comeau S., Plichon K., Schaub S., Gattuso J.-P. & Teixidó N., June 2023. Response of two temperate scleractinian corals to projected ocean warming and marine heatwaves. <i>Proceedings of the Royal Society B</i>. 
 
-Deprez L., Leadley P., Dooley K., Williamson P., Cramer C., Gattuso J.-P., Rankovic A., Carlson E. & Creutziig F., July 2023 Sustainability thresholds for carbon dioxide removal reveal true climate mitigation challenge. <i>Science</i>.
+Deprez L., Leadley P., Dooley K., Williamson P., Cramer C., Gattuso J.-P., Rankovic A., Carlson E. & Creutzig F., July 2023 Sustainability thresholds for carbon dioxide removal reveal true climate mitigation challenge. <i>Science</i>.
 
 Jiang L., Subhas A., Basso D., Fennel K. & Gattuso J.-P., June 2023. Data reporting and sharing. In: Oschlies A., Stevenson A., Bach L., Fennel K., Rickaby R., Satterfield T., Webb R. M. & Gattuso J.-P. (Eds.), Guide to Best Practices in Ocean Alkalinity Enhancement Research. <i>State of the Planet Discussions</i>. [<a href="https://sp.copernicus.org/preprints/sp-2023-6/">Discussion paper</a>].
 
@@ -37,15 +37,14 @@ Pfister C. A., Cardini U., Mirasole A., Montilla L., Veseli I., Gattuso J.-P. & 
 
 Filbee-Dexter K., Pessarrodona A., Pedersen M. F., Wernberg T., Duarte C. M., Assis J., Bekkby T., Burrows M. T., Carlson D. F., Gattuso J.-P., Gundersen H., Hancke K., Krumhansl K. A., Kuwae T., Middelburg J. J., Moore P., Bachmann Ørberg S., Queirós A. M., Serrão E. A., Smale D. A., Pinto I. S., Suzuki N. & Krause-Jensen D., June 2023. Carbon export from seaweed forests to deep ocean sinks. <i>Nature Geoscience</i>.
 
-Schlegel, R., & Gattuso, J.-P., June 2023. A dataset for investigating socio-ecological changes in Arctic fjords. <i>Earth System Science Data.</i> [<a href="https://doi.org/10.5194/essd-2022-455">Discussion paper</a>]
-
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
-<!-- ### <a name="In press">In press</a> -->
+### <a name="In press">In press</a>
 
+Schlegel, R., & Gattuso, J.-P., 2023. A dataset for investigating socio-ecological changes in Arctic fjords. <i>Earth System Science Data.</i> [<a href="https://doi.org/10.5194/essd-2022-455">Discussion paper</a>].
 
-<!-- <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p> -->
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
 ### <a name="2023">2023</a>
 Albright R., Hansson L., Cooley S., Gattuso J.-P., Marshall P., Marshal N., Fletcher S., Haraldsson G. & Hoegh-Guldberg O., 2023. Are we ready for ocean acidification? A framework for assessing and advancing policy readiness. <i>Environmental Research Letters</i> 18:041001. [<a href="http://dx.doi.org/10.1088/1748-9326/acc085" target="_blank">Abstract</a>].
