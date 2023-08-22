@@ -34,7 +34,7 @@ Oschlies A., Bach L., Rickaby R., Satterfield T., Webb R. M. & Gattuso J.-P., Ju
 
 Pfister C. A., Cardini U., Mirasole A., Montilla L., Veseli I., Gattuso J.-P. & Teixido N., April 2023. Microbial associates of an endemic Mediterranean seagrass enhance the access of the host and the surrounding seawater to inorganic nitrogen under ocean acidification. <i>Scientific Reports</i>.
 
-Teixidó N., Carlot J., Alliouane A., Ballesteros E., De Vittor C., Gambi M. C., Gattuso J.-P., Kroeker K., Micheli F., Mirasole A., Parravacini V. & Villéger S., Aug. 2023. Functional changes across benthic habitats due to ocean acidification. <i>Nature Ecology & Evolution</i>.
+Teixidó N., Carlot J., Alliouane A., Ballesteros E., De Vittor C., Gambi M. C., Gattuso J.-P., Kroeker K., Micheli F., Mirasole A., Parravacini V. & Villéger S., Aug. 2023. Functional changes across benthic habitats due to ocean acidification. <i>Nature Communications</i>.
 
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
