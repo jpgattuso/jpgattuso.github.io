@@ -49,7 +49,6 @@ Miller C., Urrutti P., Gattuso J.-P., Comeau S., Lebrun A., Alliouane S., Schleg
 
 ### <a name="In press">In press</a>
 
-Schlegel, R., & Gattuso, J.-P., 2023. A dataset for investigating socio-ecological changes in Arctic fjords. <i>Earth System Science Data.</i> [<a href="https://doi.org/10.5194/essd-2022-455">Discussion paper</a>].
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
@@ -67,6 +66,8 @@ Lebrun A., Comeau S., Gazeau F. & Gattuso J.-P., 2023. Benthic diversity along a
 Magnan A. K. & Gattuso J.-P., 2023. Managing transboundary ocean resources under a changing climate. In: Anisimov A. & Magnan A. K. (Eds.), The global transboundary climate risk report 2023, pp. 40-45. Adaptation Without Borders. [<a href="https://adaptationwithoutborders.org/" target="_blank">Associated web site</a>]
 
 Schlegel R., Bartsch I., Bischof K., Bjørst L., Dannevig H., Diehl N., Duarte P., Hovelsrud G., Juul-Pedersen T., Lebrun A., Merillet L., Miller C., Ren C., Sjer M., Søreide J. & Gattuso J.-P., 2023. Drivers of change in Arctic fjord socio-ecological systems: examples from the European Arctic. <i>Cambridge Prisms: Coastal Futures</i> 1:E13. [<a href="https://doi.org/10.1017/cft.2023.1" target="_blank">Abstract</a>].
+
+Schlegel, R., & Gattuso, J.-P., 2023. A dataset for investigating socio-ecological changes in Arctic fjords. <i>Earth System Science Data.</i> [<a href="https://doi.org/10.5194/essd-15-3733-2023">Abstract</a>].
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 ### <a name="2022">2022</a>
