@@ -16,8 +16,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### <a name="Submitted">Submitted</a>
 
-Attard K., Singh R. K., Gattuso J.-P., Filbee-Dexter K., Krause-Jensen D., Kühl M., Sejr M. K., Archambault P., Babin M., Bélanger S., Berg P., Glud R. N., Hancke K., Jänicke S., Qin J., Rysgaard S., Sørensen E. B., Tachon F., Wenzhöfer F. & Ardyna M., June 2023. Seafloor primary production in a changing Arctic Ocean. <i>Proceedings of the National Academy of Science U.S.A.</i>
-
 Carbonne C., Comeau S., Plichon K., Schaub S., Gattuso J.-P. & Teixidó N., June 2023. Response of two temperate scleractinian corals to projected ocean warming and marine heatwaves. <i>Proceedings of the Royal Society B</i>. 
 
 Deprez L., Leadley P., Dooley K., Williamson P., Cramer C., Gattuso J.-P., Rankovic A., Carlson E. & Creutzig F., July 2023. Sustainability thresholds for carbon dioxide removal reveal true climate mitigation challenge. <i>Science</i>.
@@ -41,6 +39,8 @@ Teixidó N., Carlot J., Alliouane S., Ballesteros E., De Vittor C., Gambi M. C.,
 
 ### <a name="In revision">In revision</a>
 
+Attard K., Singh R. K., Gattuso J.-P., Filbee-Dexter K., Krause-Jensen D., Kühl M., Sejr M. K., Archambault P., Babin M., Bélanger S., Berg P., Glud R. N., Hancke K., Jänicke S., Qin J., Rysgaard S., Sørensen E. B., Tachon F., Wenzhöfer F. & Ardyna M., June 2023. Seafloor primary production in a changing Arctic Ocean. <i>Proceedings of the National Academy of Science U.S.A.</i>
+
 Filbee-Dexter K., Pessarrodona A., Pedersen M. F., Wernberg T., Duarte C. M., Assis J., Bekkby T., Burrows M. T., Carlson D. F., Gattuso J.-P., Gundersen H., Hancke K., Krumhansl K. A., Kuwae T., Middelburg J. J., Moore P., Bachmann Ørberg S., Queirós A. M., Serrão E. A., Smale D. A., Pinto I. S., Suzuki N. & Krause-Jensen D., June 2023. Carbon export from seaweed forests to deep ocean sinks. <i>Nature Geoscience</i>.
 
 Jiang L., Subhas A., Basso D., Fennel K. & Gattuso J.-P., June 2023. Data reporting and sharing. In: Oschlies A., Stevenson A., Bach L., Fennel K., Rickaby R., Satterfield T., Webb R. M. & Gattuso J.-P. (Eds.), Guide to Best Practices in Ocean Alkalinity Enhancement Research. <i>State of the Planet Discussions</i>. [<a href="https://sp.copernicus.org/preprints/sp-2023-6/">Discussion paper</a>].
@@ -52,6 +52,8 @@ Oschlies A., Bach L., Rickaby R., Satterfield T., Webb R. M. & Gattuso J.-P., Ju
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
 ### <a name="In press">In press</a>
+
+Heymans S. J. J., Gattuso J.-P., Hicks N., Neukermans G., Landschützer P. & Pörtner H. O., 2023. Blue Carbon: Challenges and opportunities to mitigate the climate and biodiversity crises. European Marine Board Policy Brief 11:1-13.
 
 Hurd C. L., Gattuso J.-P. & Boyd P. W., in press. Air-sea carbon dioxide equilibrium: will it be possible to use seaweeds for carbon removal offsets? <i>Journal of Phycology</i>.
 
