@@ -76,6 +76,10 @@ Schlegel R., Bartsch I., Bischof K., Bjørst L., Dannevig H., Diehl N., Duarte P
 
 Schlegel, R., & Gattuso, J.-P., 2023. A dataset for investigating socio-ecological changes in Arctic fjords. <i>Earth System Science Data</i> 15:3733–3746. [<a href="https://doi.org/10.5194/essd-15-3733-2023">Abstract</a>].
 
+Williamson P. & Gattuso J.-P., 2022. Mengapa restorasi kawasan pesisir tak bisa diandalkan untuk menebus emisi karbon kita. The Conversation. 
+[<a href="https://theconversation.com/mengapa-restorasi-kawasan-pesisir-tak-bisa-diandalkan-untuk-menebus-emisi-karbon-kita-214743" target="_blank">Web article</a>]. 
+
+
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 ### <a name="2022">2022</a>
 
@@ -114,6 +118,7 @@ Williamson P. & Gattuso J.-P., 2022. Pourquoi on ne peut pas se fier à la resta
 
 Williamson P. & Gattuso J.-P., 2022. Climate change: why we can’t rely on regrowing coastal habitats to offset carbon emissions. The Conversation. 
 [<a href="https://theconversation.com/climate-change-why-we-cant-rely-on-regrowing-coastal-habitats-to-offset-carbon-emissions-185726" target="_blank">Web article</a>]. 
+
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 ### <a name="2021">2021</a>
