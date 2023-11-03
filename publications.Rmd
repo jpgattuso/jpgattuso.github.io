@@ -18,8 +18,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Carbonne C., Comeau S., Plichon K., Schaub S., Gattuso J.-P. & Teixidó N., June 2023. Response of two temperate scleractinian corals to projected ocean warming and marine heatwaves. <i>Proceedings of the Royal Society B</i>. 
 
-Deprez L., Leadley P., Dooley K., Williamson P., Cramer C., Gattuso J.-P., Rankovic A., Carlson E. & Creutzig F., July 2023. Sustainability thresholds for carbon dioxide removal reveal true climate mitigation challenge. <i>Science</i>.
-
 Hulver A. M., Carbonne C., Teixidó N., Comeau S., Kemp D. B., Keister, E, Gattuso J.-P. & Grottoli A., Sep. 2023. Elevated heterotrophic capacity as a strategy for Mediterranean corals to cope with low pH at CO<sub>2</sub> vents. <i>PLoS ONE</i> 
 
 Lebrun A., Miller C. A., Gazeau F., Urrutii P., Alliouane S., Gattuso J.-P. & Comeau S., Sep. 2023. Tolerance of Arctic kelps to ocean warming and marine heatwaves. <i>Journal of Ecology</i>. 
@@ -27,8 +25,6 @@ Lebrun A., Miller C. A., Gazeau F., Urrutii P., Alliouane S., Gattuso J.-P. & Co
 Lebrun A., Miller C. A., Meynadier M., Comeau S., Urrutii P., Alliouane S., Schlegel R., Gattuso J.-P. & Gazeau F., Aug. 2023. Multifactorial effects of warming, low irradiance, and low salinity on Arctic kelps. <i>Biogeosciences</i>. [<a href="https://doi.org/10.5194/egusphere-2023-1875">Discussion paper</a>].
 
 Miller C., Gazeau F., Lebrun A., Gattuso J.-P., Alliouane S., Urritti P., Schlegel R. & Comeau S., Sep. 2023. Productivity of mixed kelp communities in an Arctic fjord exhibit tolerance to a future climate. <i>Science of the Total Environment</i>. [<a href="http://dx.doi.org/10.2139/ssrn.4563719">Discussion paper</a>].
-
-Pfister C. A., Cardini U., Mirasole A., Montilla L., Veseli I., Gattuso J.-P. & Teixido N., April 2023. Microbial associates of an endemic Mediterranean seagrass enhance the access of the host and the surrounding seawater to inorganic nitrogen under ocean acidification. <i>Scientific Reports</i>.
 
 Teixidó N., Carlot J., Alliouane S., Ballesteros E., De Vittor C., Gambi M. C., Gattuso J.-P., Kroeker K., Micheli F., Mirasole A., Parravacini V. & Villéger S., Sep. 2023. Functional changes across benthic habitats due to ocean acidification. <i>Global Change Biology</i>.
 
@@ -39,23 +35,26 @@ Teixidó N., Carlot J., Alliouane S., Ballesteros E., De Vittor C., Gambi M. C.,
 
 Attard K., Singh R. K., Gattuso J.-P., Filbee-Dexter K., Krause-Jensen D., Kühl M., Sejr M. K., Archambault P., Babin M., Bélanger S., Berg P., Glud R. N., Hancke K., Jänicke S., Qin J., Rysgaard S., Sørensen E. B., Tachon F., Wenzhöfer F. & Ardyna M., June 2023. Seafloor primary production in a changing Arctic Ocean. <i>Proceedings of the National Academy of Science U.S.A.</i>
 
-Filbee-Dexter K., Pessarrodona A., Pedersen M. F., Wernberg T., Duarte C. M., Assis J., Bekkby T., Burrows M. T., Carlson D. F., Gattuso J.-P., Gundersen H., Hancke K., Krumhansl K. A., Kuwae T., Middelburg J. J., Moore P., Bachmann Ørberg S., Queirós A. M., Serrão E. A., Smale D. A., Pinto I. S., Suzuki N. & Krause-Jensen D., June 2023. Carbon export from seaweed forests to deep ocean sinks. <i>Nature Geoscience</i>.
+Deprez L., Leadley P., Dooley K., Williamson P., Cramer C., Gattuso J.-P., Rankovic A., Carlson E. & Creutzig F., July 2023. Sustainability thresholds for carbon dioxide removal reveal true climate mitigation challenge. <i>Science</i>.
 
-Jiang L., Subhas A., Basso D., Fennel K. & Gattuso J.-P., June 2023. Data reporting and sharing. In: Oschlies A., Stevenson A., Bach L., Fennel K., Rickaby R., Satterfield T., Webb R. M. & Gattuso J.-P. (Eds.), Guide to Best Practices in Ocean Alkalinity Enhancement Research. <i>State of the Planet Discussions</i>. [<a href="https://sp.copernicus.org/preprints/sp-2023-6/">Discussion paper</a>].
+Filbee-Dexter K., Pessarrodona A., Pedersen M. F., Wernberg T., Duarte C. M., Assis J., Bekkby T., Burrows M. T., Carlson D. F., Gattuso J.-P., Gundersen H., Hancke K., Krumhansl K. A., Kuwae T., Middelburg J. J., Moore P., Bachmann Ørberg S., Queirós A. M., Serrão E. A., Smale D. A., Pinto I. S., Suzuki N. & Krause-Jensen D., June 2023. Carbon export from seaweed forests to deep ocean sinks. <i>Nature Geoscience</i>.
 
 Metzl N., Fin J., Lo Monaco C., Mignon C., Alliouane S., Antoine D., Bourdin G., Boutin J., Bozec Y., Conan P., Coppola L., Douville E., Durrieu de Madron X., Gattuso J.-P., Gazeau F., Golbol M., Lansard B., Lefèvre D., Lefèvre N., Lombard F., Louanchi F., Merlivat L., Olivier L., Petrenko A., Petton S., Pujo-Pay M., Rabouille C., Reverdin G., Ridame C., Tribollet A., Vellucci V., Wagener T. & Wimart-Rousseau C., Oct. 2023. A synthesis of SNAPO-CO2 ocean total alkalinity and total dissolved inorganic carbon measurements from 1993 to 2022. <i>Earth System Science Data Discussions</i>. [<a href="https://doi.org/10.5194/essd-2023-308">Discussion paper</a>].
 
 Miller C., Urrutti P., Gattuso J.-P., Comeau S., Lebrun A., Alliouane S., Schlegel R. & Gazeau F., July 2023 Technical note: An autonomous flow-through salinity and temperature perturbation mesocosm system for multi-stressor experiments. <i>Biogeosciences</i> [<a href="https://doi.org/10.5194/egusphere-2023-768">Discussion paper</a>].
 
-Oschlies A., Bach L., Rickaby R., Satterfield T., Webb R. M. & Gattuso J.-P., June 2023. Climate targets, carbon dioxide removal and the potential role of ocean alkalinity enhancement. In: Oschlies A., Stevenson A., Bach L., Fennel K., Rickaby R., Satterfield T., Webb R. M. & Gattuso J.-P. (Eds.), Guide to Best Practices in Ocean Alkalinity Enhancement Research. <i>State of the Planet</i> [<a href="https://doi.org/10.5194/sp-2023-13">Discussion paper</a>].
+Pfister C. A., Cardini U., Mirasole A., Montilla L., Veseli I., Gattuso J.-P. & Teixido N., April 2023. Microbial associates of an endemic Mediterranean seagrass enhance the access of the host and the surrounding seawater to inorganic nitrogen under ocean acidification. <i>Scientific Reports</i>.
+
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
 ### <a name="In press">In press</a>
 
-Heymans S. J. J., Gattuso J.-P., Hicks N., Neukermans G., Landschützer P. & Pörtner H. O., 2023. Blue Carbon: Challenges and opportunities to mitigate the climate and biodiversity crises. European Marine Board Policy Brief 11:1-13.
-
 Hurd C. L., Gattuso J.-P. & Boyd P. W., in press. Air-sea carbon dioxide equilibrium: will it be possible to use seaweeds for carbon removal offsets? <i>Journal of Phycology</i>.
+
+Jiang L., Subhas A., Basso D., Fennel K. & Gattuso J.-P., in press. Data reporting and sharing. In: Oschlies A., Stevenson A., Bach L., Fennel K., Rickaby R., Satterfield T., Webb R. M. & Gattuso J.-P. (Eds.), Guide to Best Practices in Ocean Alkalinity Enhancement Research. <i>State of the Planet</i>. [<a href="https://sp.copernicus.org/preprints/sp-2023-6/">Discussion paper</a>].
+
+Oschlies A., Bach L., Rickaby R., Satterfield T., Webb R. M. & Gattuso J.-P., in press. Climate targets, carbon dioxide removal and the potential role of ocean alkalinity enhancement. In: Oschlies A., Stevenson A., Bach L., Fennel K., Rickaby R., Satterfield T., Webb R. M. & Gattuso J.-P. (Eds.), Guide to Best Practices in Ocean Alkalinity Enhancement Research. <i>State of the Planet</i> [<a href="https://doi.org/10.5194/sp-2023-13">Discussion</a>].
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
@@ -65,6 +64,8 @@ Albright R., Hansson L., Cooley S., Gattuso J.-P., Marshall P., Marshal N., Flet
 Boyd P. W., Claustre H., Legendre L., Gattuso J.-P. & Le Traon P.-Y., 2023 Operational monitoring of open-ocean carbon dioxide removal deployments: detection, attribution, and determination of side-effects. <i>Oceanography</i>. [<a href="https://doi.org/10.5670/oceanog.2023.s1.2" target="_blank">Abstract</a>].
 
 Gattuso J.-P., Alliouane S. & Fischer P., 2023. High-frequency, year-round time series of the carbonate chemistry in a high-Arctic fjord (Svalbard). <i>Earth System Science Data</i>. [<a href="https://doi.org/10.5194/essd-15-2809-2023" target="_blank">Abstract</a>].
+
+Heymans S. J. J., Gattuso J.-P., Hicks N., Neukermans G., Landschützer P. & Pörtner H.-O., 2023. Blue Carbon: Challenges and opportunities to mitigate the climate and biodiversity crises. European Marine Board Policy Brief 11:1-13. [<a href="https://doi.org/10.5281/zenodo.8314214." target="_blank">pdf</a>].
 
 Jiang L.-Q., Dunne J., Carter B. R., Tjiputra J. F., Terhaar J., Sharp J. D., Olsen A., Alin S., Bakker D. C. E., Feely R. A., Gattuso J.-P., Hogan P., Ilyina T., Lange N., Lauvset S. K., Lewis E. R., Lovato T., Palmieri J., Santana-Falcón Y., Schwinger J., Séférian R., Strand G., Swart N., Tanhua T., Tsujino H., Wanninkhof R., Watanabe M., Yamamoto A. & Ziehn T., 2023. Global surface ocean acidification indicators from 1750 to 2100. <i>Journal of Advances in Modeling Earth Systems</i> 15:e2022MS003563. [<a href="https://doi.org/10.1029/2022MS003563" target="_blank">Abstract</a>].
 
