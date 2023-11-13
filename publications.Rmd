@@ -71,7 +71,6 @@ Boyd P. W., Claustre H., Legendre L., Gattuso J.-P. & Le Traon P.-Y., 2023 Opera
 
 Gattuso J.-P., Alliouane S. & Fischer P., 2023. High-frequency, year-round time series of the carbonate chemistry in a high-Arctic fjord (Svalbard). <i>Earth System Science Data</i>. [<a href="https://doi.org/10.5194/essd-15-2809-2023" target="_blank">Abstract</a>].
 
-<<<<<<< HEAD
 Heymans S. J. J., Gattuso J.-P., Hicks N., Neukermans G., Landschützer P. & Pörtner H. O., 2023. Blue Carbon: Challenges and opportunities to mitigate the climate and biodiversity crises. European Marine Board Policy Brief 11:1-13. [<a href="https://doi.org/10.5194/essd-15-2809-2023" target="_blank">Abstract</a>].
 
 Hurd C. L., Gattuso J.-P. & Boyd P. W., 2023. Air-sea carbon dioxide equilibrium: will it be possible to use seaweeds for carbon removal offsets? <i>Journal of Phycology</i>.  <i>Journal of Phycology</i>. [<a href="https://doi.org/10.1111/jpy.13405" target="_blank">Abstract</a>].
