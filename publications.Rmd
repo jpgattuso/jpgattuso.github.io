@@ -28,7 +28,7 @@ Miller C., Gazeau F., Lebrun A., Gattuso J.-P., Alliouane S., Urrutti P., Schleg
 
 Petton S., Pernet F., Le Roy V., Huber M., Martin S., Macé E., Bozec Y., Loisel S., Rimmelin-Maury P., Grossteffan E., Repecaud M., Quemener L., Retho M., Manac’h S., Papin M., Pineau P., Lacoue-Labarthe T., Deborde J., Costes L., Polsenaere P., Rigouin L., Benhamou J., Gouriou L., Lequeux J., Labourdette N., Savoye N., Messiaen G., Foucault E., Ouisse V., Richard M., Lagarde F., Voron F., Kempf V., Mas S., Giannecchini L., Vidussi F., Mostajir B., Leredde Y., Alliouane S., Gattuso J.-P. & Gazeau F., Nov. 2023. French coastal network for carbonate system monitoring: The CocoriCO2 dataset. Earth System Science Data Discussions 2023:1-34. [<a href="https://doi.org/10.5194/essd-2023-445">Discussion paper</a>].
 
-Schlegel R. W., Singh R. K., Gentili B., Bélanger S., Castro de la Guardia L., Krause-Jensen D., Miller C. A., Sejr M. & Gattuso J.-P., Oct. 2023. Underwater light environment in Arctic fjords. <i>Earth System Science Data Discussions</i>.
+Schlegel R. W., Singh R. K., Gentili B., Bélanger S., Castro de la Guardia L., Krause-Jensen D., Miller C. A., Sejr M. & Gattuso J.-P., Nov. 2023. Underwater light environment in Arctic fjords. <i>Earth System Science Data Discussions</i>.
 
 Teixidó N., Carlot J., Alliouane S., Ballesteros E., De Vittor C., Gambi M. C., Gattuso J.-P., Kroeker K., Micheli F., Mirasole A., Parravacini V. & Villéger S., Sep. 2023. Functional changes across benthic habitats due to ocean acidification. <i>Global Change Biology</i>.
 
@@ -47,8 +47,6 @@ Metzl N., Fin J., Lo Monaco C., Mignon C., Alliouane S., Antoine D., Bourdin G.,
 
 Miller C., Urrutti P., Gattuso J.-P., Comeau S., Lebrun A., Alliouane S., Schlegel R. & Gazeau F., July 2023 Technical note: An autonomous flow-through salinity and temperature perturbation mesocosm system for multi-stressor experiments. <i>Biogeosciences</i> [<a href="https://doi.org/10.5194/egusphere-2023-768">Discussion paper</a>].
 
-Pfister C. A., Cardini U., Mirasole A., Montilla L., Veseli I., Gattuso J.-P. & Teixido N., April 2023. Microbial associates of an endemic Mediterranean seagrass enhance the access of the host and the surrounding seawater to inorganic nitrogen under ocean acidification. <i>Scientific Reports</i>.
-
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
@@ -60,7 +58,6 @@ Oschlies A., Bach L., Rickaby R., Satterfield T., Webb R. M. & Gattuso J.-P., in
 
 Oschlies A., Stevenson A., Bach L. T., Fennel K., Rickaby R., Satterfield T., Webb R. & Gattuso J.-P., in press. Guide to Best Practices in Ocean Alkalinity Enhancement Research (OAE Guide 23). 2-oae2023p. Copernicus Publications. [<a href=" https://doi.org/10.5194/sp-2-oae2023">Special issue</a>].
 
-Pfister C. A., Cardini U., Mirasole A., Montilla L., Veseli I., Gattuso J.-P. & Teixido N., in press. Microbial associates of an endemic Mediterranean seagrass enhance the access of the host and the surrounding seawater to inorganic nitrogen under ocean acidification. <i>Scientific Reports</i>.
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
@@ -82,6 +79,8 @@ Jiang L.-Q., Dunne J., Carter B. R., Tjiputra J. F., Terhaar J., Sharp J. D., Ol
 Lebrun A., Comeau S., Gazeau F. & Gattuso J.-P., 2023. Benthic diversity along an Arctic fjord: which are the key factors? <i>bioRxiv</i> 2023.08.16.553514. [<a href="http://dx.doi.org/10.1101/2023.08.16.553514" target="_blank">Abstract</a>].
 
 Magnan A. K. & Gattuso J.-P., 2023. Managing transboundary ocean resources under a changing climate. In: Anisimov A. & Magnan A. K. (Eds.), The global transboundary climate risk report 2023, pp. 40-45. Adaptation Without Borders. [<a href="https://adaptationwithoutborders.org/" target="_blank">Associated web site</a>]
+
+Pfister C. A., Cardini U., Mirasole A., Montilla L., Veseli I., Gattuso J.-P. & Teixido N., 2023. Microbial associates of an endemic Mediterranean seagrass enhance the access of the host and the surrounding seawater to inorganic nitrogen under ocean acidification. <i>Scientific Reports</i>. [<a href="10.1038/s41598-023-47126-4" target="_blank">Abstract</a>]
 
 Schlegel R., Bartsch I., Bischof K., Bjørst L., Dannevig H., Diehl N., Duarte P., Hovelsrud G., Juul-Pedersen T., Lebrun A., Merillet L., Miller C., Ren C., Sjer M., Søreide J. & Gattuso J.-P., 2023. Drivers of change in Arctic fjord socio-ecological systems: examples from the European Arctic. <i>Cambridge Prisms: Coastal Futures</i> 1:E13. [<a href="https://doi.org/10.1017/cft.2023.1" target="_blank">Abstract</a>].
 
