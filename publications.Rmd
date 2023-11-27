@@ -50,13 +50,7 @@ Miller C., Urrutti P., Gattuso J.-P., Comeau S., Lebrun A., Alliouane S., Schleg
 
 ### <a name="In press">In press</a>
 
-Jiang L., Subhas A., Basso D., Fennel K. & Gattuso J.-P., in press. Data reporting and sharing for ocean alkalinity enhancement research. In: Oschlies A., Stevenson A., Bach L., Fennel K., Rickaby R., Satterfield T., Webb R. M. & Gattuso J.-P. (Eds.), Guide to Best Practices in Ocean Alkalinity Enhancement Research. <i>State of the Planet</i>. [<a href="https://doi.org/10.5194/sp-2023-6/">Discussion paper</a>].
-
 Metzl N., Fin J., Lo Monaco C., Mignon C., Alliouane S., Antoine D., Bourdin G., Boutin J., Bozec Y., Conan P., Coppola L., Douville E., Durrieu de Madron X., Gattuso J.-P., Gazeau F., Golbol M., Lansard B., Lefèvre D., Lefèvre N., Lombard F., Louanchi F., Merlivat L., Olivier L., Petrenko A., Petton S., Pujo-Pay M., Rabouille C., Reverdin G., Ridame C., Tribollet A., Vellucci V., Wagener T. & Wimart-Rousseau C., 2023. A synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2022: the SNAPO-CO2-v1 dataset. <i>Earth System Science Data</i>. [<a href="https://doi.org/10.5194/essd-2023-308">Discussion paper</a>].
-
-Oschlies A., Bach L., Rickaby R., Satterfield T., Webb R. M. & Gattuso J.-P., in press Climate targets, carbon dioxide removal and the potential role of ocean alkalinity enhancement. In: Oschlies A., Stevenson A., Bach L., Fennel K., Rickaby R., Satterfield T., Webb R. M. & Gattuso J.-P. (Eds.), Guide to Best Practices in Ocean Alkalinity Enhancement Research. <i>State of the Planet</i>. [<a href="https://doi.org/10.5194/sp-2023-13">Discussion paper</a>].
-
-Oschlies A., Stevenson A., Bach L. T., Fennel K., Rickaby R., Satterfield T., Webb R. & Gattuso J.-P., in press. Guide to Best Practices in Ocean Alkalinity Enhancement Research (OAE Guide 23). 2-oae2023p. Copernicus Publications. [<a href=" https://doi.org/10.5194/sp-2-oae2023">Special issue</a>].
 
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
@@ -76,9 +70,15 @@ Heymans S. J. J., Gattuso J.-P., Hicks N., Neukermans G., Landschützer P. & Pö
 
 Jiang L.-Q., Dunne J., Carter B. R., Tjiputra J. F., Terhaar J., Sharp J. D., Olsen A., Alin S., Bakker D. C. E., Feely R. A., Gattuso J.-P., Hogan P., Ilyina T., Lange N., Lauvset S. K., Lewis E. R., Lovato T., Palmieri J., Santana-Falcón Y., Schwinger J., Séférian R., Strand G., Swart N., Tanhua T., Tsujino H., Wanninkhof R., Watanabe M., Yamamoto A. & Ziehn T., 2023. Global surface ocean acidification indicators from 1750 to 2100. <i>Journal of Advances in Modeling Earth Systems</i> 15:e2022MS003563. [<a href="https://doi.org/10.1029/2022MS003563" target="_blank">Abstract</a>].
 
+Jiang L., Subhas A., Basso D., Fennel K. & Gattuso J.-P., in press. Data reporting and sharing for ocean alkalinity enhancement research. In: Oschlies A., Stevenson A., Bach L., Fennel K., Rickaby R., Satterfield T., Webb R. M. & Gattuso J.-P. (Eds.), Guide to Best Practices in Ocean Alkalinity Enhancement Research. <i>State of the Planet</i>. [<a href="https://doi.org/10.5194/sp-2-oae2023-13-2023">Abstract</a>].
+
 Lebrun A., Comeau S., Gazeau F. & Gattuso J.-P., 2023. Benthic diversity along an Arctic fjord: which are the key factors? <i>bioRxiv</i> 2023.08.16.553514. [<a href="http://dx.doi.org/10.1101/2023.08.16.553514" target="_blank">Abstract</a>].
 
 Magnan A. K. & Gattuso J.-P., 2023. Managing transboundary ocean resources under a changing climate. In: Anisimov A. & Magnan A. K. (Eds.), The global transboundary climate risk report 2023, pp. 40-45. Adaptation Without Borders. [<a href="https://adaptationwithoutborders.org/" target="_blank">Associated web site</a>]
+
+Oschlies A., Bach L., Rickaby R., Satterfield T., Webb R. M. & Gattuso J.-P., in press Climate targets, carbon dioxide removal and the potential role of ocean alkalinity enhancement. In: Oschlies A., Stevenson A., Bach L., Fennel K., Rickaby R., Satterfield T., Webb R. M. & Gattuso J.-P. (Eds.), Guide to Best Practices in Ocean Alkalinity Enhancement Research. <i>State of the Planet</i>. [<a href="https://doi.org/10.5194/sp-2-oae2023-1-2023">Abstract</a>].
+
+Oschlies A., Stevenson A., Bach L. T., Fennel K., Rickaby R., Satterfield T., Webb R. & Gattuso J.-P., in press. Guide to Best Practices in Ocean Alkalinity Enhancement Research (OAE Guide 23). 2-oae2023p. Copernicus Publications. [<a href="https://doi.org/10.5194/sp-2-oae2023">Guide</a>].
 
 Pfister C. A., Cardini U., Mirasole A., Montilla L., Veseli I., Gattuso J.-P. & Teixido N., 2023. Microbial associates of an endemic Mediterranean seagrass enhance the access of the host and the surrounding seawater to inorganic nitrogen under ocean acidification. <i>Scientific Reports</i>. [<a href="10.1038/s41598-023-47126-4" target="_blank">Abstract</a>]
 
