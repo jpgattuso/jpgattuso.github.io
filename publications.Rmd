@@ -28,18 +28,18 @@ Miller C., Gazeau F., Lebrun A., Gattuso J.-P., Alliouane S., Urrutti P., Schleg
 
 Petton S., Pernet F., Le Roy V., Huber M., Martin S., Macé E., Bozec Y., Loisel S., Rimmelin-Maury P., Grossteffan E., Repecaud M., Quemener L., Retho M., Manac’h S., Papin M., Pineau P., Lacoue-Labarthe T., Deborde J., Costes L., Polsenaere P., Rigouin L., Benhamou J., Gouriou L., Lequeux J., Labourdette N., Savoye N., Messiaen G., Foucault E., Ouisse V., Richard M., Lagarde F., Voron F., Kempf V., Mas S., Giannecchini L., Vidussi F., Mostajir B., Leredde Y., Alliouane S., Gattuso J.-P. & Gazeau F., Nov. 2023. French coastal network for carbonate system monitoring: The CocoriCO2 dataset. Earth System Science Data Discussions 2023:1-34. [<a href="https://doi.org/10.5194/essd-2023-445">Discussion paper</a>].
 
-Schlegel R. W., Singh R. K., Gentili B., Bélanger S., Castro de la Guardia L., Krause-Jensen D., Miller C. A., Sejr M. & Gattuso J.-P., Nov. 2023. Underwater light environment in Arctic fjords. <i>Earth System Science Data Discussions</i>.
+Schlegel R. W., Singh R. K., Gentili B., Bélanger S., Castro de la Guardia L., Krause-Jensen D., Miller C. A., Sejr M. & Gattuso J.-P., Nov. 2023. Underwater light environment in Arctic fjords. <i>Earth System Science Data Discussions</i>.  [<a href="https://doi.org/10.5194/essd-2023-462">Discussion paper</a>].
 
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
 ### <a name="In revision">In revision</a>
 
-Attard K., Singh R. K., Gattuso J.-P., Filbee-Dexter K., Krause-Jensen D., Kühl M., Sejr M. K., Archambault P., Babin M., Bélanger S., Berg P., Glud R. N., Hancke K., Jänicke S., Qin J., Rysgaard S., Sørensen E. B., Tachon F., Wenzhöfer F. & Ardyna M., June 2023. Seafloor primary production in a changing Arctic Ocean. <i>Proceedings of the National Academy of Science U.S.A.</i>
+Attard K., Singh R. K., Gattuso J.-P., Filbee-Dexter K., Krause-Jensen D., Kühl M., Sejr M. K., Archambault P., Babin M., Bélanger S., Berg P., Glud R. N., Hancke K., Jänicke S., Qin J., Rysgaard S., Sørensen E. B., Tachon F., Wenzhöfer F. & Ardyna M., Dec. 2023. Seafloor primary production in a changing Arctic Ocean. <i>Proceedings of the National Academy of Science U.S.A.</i>
 
-Deprez L., Leadley P., Dooley K., Williamson P., Cramer C., Gattuso J.-P., Rankovic A., Carlson E. & Creutzig F., July 2023. Sustainability thresholds for carbon dioxide removal reveal true climate mitigation challenge. <i>Science</i>.
+Deprez L., Leadley P., Dooley K., Williamson P., Cramer C., Gattuso J.-P., Rankovic A., Carlson E. & Creutzig F., Dec. 2023. Sustainability thresholds for carbon dioxide removal reveal true climate mitigation challenge. <i>Science</i>.
 
-Filbee-Dexter K., Pessarrodona A., Pedersen M. F., Wernberg T., Duarte C. M., Assis J., Bekkby T., Burrows M. T., Carlson D. F., Gattuso J.-P., Gundersen H., Hancke K., Krumhansl K. A., Kuwae T., Middelburg J. J., Moore P., Bachmann Ørberg S., Queirós A. M., Serrão E. A., Smale D. A., Pinto I. S., Suzuki N. & Krause-Jensen D., June 2023. Carbon export from seaweed forests to deep ocean sinks. <i>Nature Geoscience</i>.
+Filbee-Dexter K., Pessarrodona A., Pedersen M. F., Wernberg T., Duarte C. M., Assis J., Bekkby T., Burrows M. T., Carlson D. F., Gattuso J.-P., Gundersen H., Hancke K., Krumhansl K. A., Kuwae T., Middelburg J. J., Moore P., Bachmann Ørberg S., Queirós A. M., Serrão E. A., Smale D. A., Pinto I. S., Suzuki N. & Krause-Jensen D., Sep. 2023. Carbon export from seaweed forests to deep ocean sinks. <i>Nature Geoscience</i>.
 
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
