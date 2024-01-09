@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = FALSE)
 +  <a href="https://www.researchgate.net/profile/Jean-Pierre_Gattuso/?ev=hdr_xprf" target="_blank">ResearchGate</a>
 
 <a name="top"></a>
-| <a href="#In_revision">In revision</a> | <a href="#In_press">In press</a> |    <a href="#2023">2023</a> |    <a href="#2022">2022</a>  | <a href="#2021">2021</a>  |  <a href="#2020">2020</a> | <a href="#2019">2019</a> | <a href="#2018">2018</a> | <a href="#2017">2017</a> | <a href="#2016">2016</a> | <a href="#2015">2015</a> | <a href="#2014">2014</a> | <a href="#2013">2013</a> | <a href="#2012">2012</a> | <a href="#2011">2011</a> | <a href="#2010">2010</a> | <a href="#2009">2009</a> | <a href="#2008">2008</a> | <a href="#2007">2007</a> | <a href="#2006">2006</a> | <a href="#2005">2005</a> | <a href="#2004">2004</a> | <a href="#2003">2003</a> | <a href="#2002">2002</a> | <a href="#2001">2001</a> | <a href="#2000">2000</a> | <a href="#1999">1999</a> | <a href="#1998">1998</a> | <a href="#1997">1997</a> | <a href="#1996">1996</a> | <a href="#1995">1995</a> | <a href="#1994">1994</a> | <a href="#1993">1993</a> | <a href="#1991">1991</a> | <a href="#1990">1990</a> | <a href="#1989">1989</a> | <a href="#1988">1988</a> | <a href="#1987">1987</a> | <a href="#1985">1985</a> | <a href="#1984">1984</a> |
+| <a href="#In_revision">In revision</a> | <a href="#In_press">In press</a> |    <a href="#2024">2024</a> | <a href="#2023">2023</a> |    <a href="#2022">2022</a>  | <a href="#2021">2021</a>  |  <a href="#2020">2020</a> | <a href="#2019">2019</a> | <a href="#2018">2018</a> | <a href="#2017">2017</a> | <a href="#2016">2016</a> | <a href="#2015">2015</a> | <a href="#2014">2014</a> | <a href="#2013">2013</a> | <a href="#2012">2012</a> | <a href="#2011">2011</a> | <a href="#2010">2010</a> | <a href="#2009">2009</a> | <a href="#2008">2008</a> | <a href="#2007">2007</a> | <a href="#2006">2006</a> | <a href="#2005">2005</a> | <a href="#2004">2004</a> | <a href="#2003">2003</a> | <a href="#2002">2002</a> | <a href="#2001">2001</a> | <a href="#2000">2000</a> | <a href="#1999">1999</a> | <a href="#1998">1998</a> | <a href="#1997">1997</a> | <a href="#1996">1996</a> | <a href="#1995">1995</a> | <a href="#1994">1994</a> | <a href="#1993">1993</a> | <a href="#1991">1991</a> | <a href="#1990">1990</a> | <a href="#1989">1989</a> | <a href="#1988">1988</a> | <a href="#1987">1987</a> | <a href="#1985">1985</a> | <a href="#1984">1984</a> |
 
 ### <a name="Submitted">Submitted</a>
 
@@ -46,12 +46,15 @@ Filbee-Dexter K., Pessarrodona A., Pedersen M. F., Wernberg T., Duarte C. M., As
 
 ### <a name="In press">In press</a>
 
-Metzl N., Fin J., Lo Monaco C., Mignon C., Alliouane S., Antoine D., Bourdin G., Boutin J., Bozec Y., Conan P., Coppola L., Douville E., Durrieu de Madron X., Gattuso J.-P., Gazeau F., Golbol M., Lansard B., Lefèvre D., Lefèvre N., Lombard F., Louanchi F., Merlivat L., Olivier L., Petrenko A., Petton S., Pujo-Pay M., Rabouille C., Reverdin G., Ridame C., Tribollet A., Vellucci V., Wagener T. & Wimart-Rousseau C., 2023. A synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2022: the SNAPO-CO2-v1 dataset. <i>Earth System Science Data</i>. [<a href="https://doi.org/10.5194/essd-2023-308">Discussion paper</a>].
-
 Miller C., Urrutti P., Gattuso J.-P., Comeau S., Lebrun A., Alliouane S., Schlegel R. & Gazeau F., in press. Technical note: An autonomous flow-through salinity and temperature perturbation mesocosm system for multi-stressor experiments. <i>Biogeosciences</i> [<a href="https://doi.org/10.5194/egusphere-2023-768">Discussion paper</a>].
 
 Teixidó N., Carlot J., Alliouane S., Ballesteros E., De Vittor C., Gambi M. C., Gattuso J.-P., Kroeker K., Micheli F., Mirasole A., Parravacini V. & Villéger S., in press. Functional changes across benthic habitats due to ocean acidification. <i>Global Change Biology</i>.
 
+
+<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+
+### <a name="2024">2024</a>
+Metzl N., Fin J., Lo Monaco C., Mignon C., Alliouane S., Antoine D., Bourdin G., Boutin J., Bozec Y., Conan P., Coppola L., Douville E., Durrieu de Madron X., Gattuso J.-P., Gazeau F., Golbol M., Lansard B., Lefèvre D., Lefèvre N., Lombard F., Louanchi F., Merlivat L., Olivier L., Petrenko A., Petton S., Pujo-Pay M., Rabouille C., Reverdin G., Ridame C., Tribollet A., Vellucci V., Wagener T. & Wimart-Rousseau C., 2024. A synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2022: the SNAPO-CO2-v1 dataset. Earth System Science Data 16:89-120. [<a href="https://essd.copernicus.org/articles/16/89/2024/" target="_blank">Abstract</a>].
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
