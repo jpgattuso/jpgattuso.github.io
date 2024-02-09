@@ -16,6 +16,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### <a name="Submitted">Submitted</a>
 
+Carlot J., Galobart C., Gomez-Gras D., Santamaría, Golo R., Sini M., Cebrián E., Gerovasileiou V., Ponti M., Turicchia E., Comeau S., Rilov G., Tamburello L., Pulido Mantas T., Cerrano C., Ledoux J.-B., Gattuso J.-P., Ramirez-Calero S., Millán Agudo L., Montefalcone M., Katsanevakis S., Bensoussan N., Garrabou Q. & Teixido N., sbm. Erosion of trait diversity across the Mediterranean Sea following anthropogenically driven mortality events. <i>Nature Ecology & Evolution</i>. 
+
 Hulver A. M., Carbonne C., Teixidó N., Comeau S., Kemp D. B., Keister, E, Gattuso J.-P. & Grottoli A., Sep. 2023. Elevated heterotrophic capacity as a strategy for Mediterranean corals to cope with low pH at CO<sub>2</sub> vents. <i>PLoS ONE</i> 
 
 Lebrun A., Miller C. A., Gazeau F., Urruti P., Alliouane S., Gattuso J.-P. & Comeau S., Sep. 2023. Tolerance of Arctic kelps to ocean warming and marine heatwaves. <i>Journal of Ecology</i>. 
@@ -86,6 +88,8 @@ Pfister C. A., Cardini U., Mirasole A., Montilla L., Veseli I., Gattuso J.-P. & 
 Schlegel R., Bartsch I., Bischof K., Bjørst L., Dannevig H., Diehl N., Duarte P., Hovelsrud G., Juul-Pedersen T., Lebrun A., Merillet L., Miller C., Ren C., Sjer M., Søreide J. & Gattuso J.-P., 2023. Drivers of change in Arctic fjord socio-ecological systems: examples from the European Arctic. <i>Cambridge Prisms: Coastal Futures</i> 1:E13. [<a href="https://doi.org/10.1017/cft.2023.1" target="_blank">Abstract</a>].
 
 Schlegel, R., & Gattuso, J.-P., 2023. A dataset for investigating socio-ecological changes in Arctic fjords. <i>Earth System Science Data</i> 15:3733–3746. [<a href="https://doi.org/10.5194/essd-15-3733-2023">Abstract</a>].
+
+Veytia D., Airoldi L., Claudet J., Cooley S., Magnan A., Barclay V. M., Neill S., Sumaila U. R., Thébaud O., Voolstra C. R., Williamson P., Bonnin M., Langridge J., Comte A., Viard F., Shin Y., Bopp L. & Gattuso J.-P., 2024. Ocean-related options for climate change mitigation and adaptation: A machine learning-based evidence map protocol. <i>Research Square</i> [<a href="http://doi.org/10.21203/rs.3.pex-2324/v1">Abstract</a>]. 
 
 Williamson P. & Gattuso J.-P., 2023. Mengapa restorasi kawasan pesisir tak bisa diandalkan untuk menebus emisi karbon kita. The Conversation. 
 [<a href="https://theconversation.com/mengapa-restorasi-kawasan-pesisir-tak-bisa-diandalkan-untuk-menebus-emisi-karbon-kita-214743" target="_blank">Web article</a>]. 
