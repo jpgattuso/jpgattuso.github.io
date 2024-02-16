@@ -58,6 +58,8 @@ Petton S., Pernet F., Le Roy V., Huber M., Martin S., Macé E., Bozec Y., Loisel
 
 Teixidó N., Carlot J., Alliouane A., Ballesteros E., De Vittor C., Gambi M. C., Gattuso J.-P., Kroeker K., Micheli F., Mirasole A., Parravacini V. & Villéger S., 2024. Functional changes across benthic habitats due to ocean acidification. <i>Global Change Biology</i> 30:e17105. [<a href="https://doi.org/10.1111/gcb.17105" target="_blank">Abstract</a>].
 
+Veytia D., Airoldi L., Claudet J., Cooley S., Magnan A., Barclay V. M., Neill S., Sumaila U. R., Thébaud O., Voolstra C. R., Williamson P., Bonnin M., Langridge J., Comte A., Viard F., Shin Y., Bopp L. & Gattuso J.-P., 2024. Ocean-related options for climate change mitigation and adaptation: A machine learning-based evidence map protocol. <i>Research Square</i>. [<a href="http://dx.doi.org/10.21203/rs.3.pex-2324/v1" target="_blank">Abstract</a>]. 
+
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
 ### <a name="2023">2023</a>
