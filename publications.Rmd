@@ -24,8 +24,6 @@ Hulver A. M., Carbonne C., Teixidó N., Comeau S., Kemp D. B., Keister, E, Gattu
 
 Lebrun A., Miller C. A., Meynadier M., Comeau S., Urruti P., Alliouane S., Schlegel R., Gattuso J.-P. & Gazeau F., Aug. 2023. Multifactorial effects of warming, low irradiance, and low salinity on Arctic kelps. <i>Biogeosciences</i>. [<a href="https://doi.org/10.5194/egusphere-2023-1875">Discussion paper</a>].
 
-Miller C., Gazeau F., Lebrun A., Gattuso J.-P., Alliouane S., Urrutti P., Schlegel R. & Comeau S., Sep. 2023. Productivity of mixed kelp communities in an Arctic fjord exhibit tolerance to a future climate. <i>Science of the Total Environment</i>. [<a href="http://dx.doi.org/10.2139/ssrn.4563719">Discussion paper</a>].
-
 Pernet F., Dupond S., Gattuso J.-P., Metian M. & Gazeau F., March 2024. Cracking the myth: Bivalve farming is not a CO<sub>2</sub> sink. <i>Reviews in Aquaculture.</i>
 
 Schlegel R. W., Singh R. K., Gentili B., Bélanger S., Castro de la Guardia L., Krause-Jensen D., Miller C. A., Sejr M. & Gattuso J.-P., Nov. 2023. Underwater light environment in Arctic fjords. <i>Earth System Science Data Discussions</i>.  [<a href="https://doi.org/10.5194/essd-2023-462">Discussion paper</a>].
@@ -38,6 +36,8 @@ Schlegel R. W., Singh R. K., Gentili B., Bélanger S., Castro de la Guardia L., 
 Filbee-Dexter K., Pessarrodona A., Pedersen M. F., Wernberg T., Duarte C. M., Assis J., Bekkby T., Burrows M. T., Carlson D. F., Gattuso J.-P., Gundersen H., Hancke K., Krumhansl K. A., Kuwae T., Middelburg J. J., Moore P., Bachmann Ørberg S., Queirós A. M., Serrão E. A., Smale D. A., Pinto I. S., Suzuki N. & Krause-Jensen D., Sep. 2023. Carbon export from seaweed forests to deep ocean sinks. <i>Nature Geoscience</i>.
 
 Lebrun A., Miller C. A., Gazeau F., Urruti P., Alliouane S., Gattuso J.-P. & Comeau S., Sep. 2023. Tolerance of Arctic kelps to ocean warming and marine heatwaves. <i>Journal of Ecology</i>. 
+
+Miller C., Gazeau F., Lebrun A., Gattuso J.-P., Alliouane S., Urrutti P., Schlegel R. & Comeau S., March 2024. Productivity of mixed kelp communities in an Arctic fjord exhibit tolerance to a future climate. <i>Science of the Total Environment</i>. [<a href="http://dx.doi.org/10.2139/ssrn.4563719">Discussion paper</a>].
 
 
 
