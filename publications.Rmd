@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Boyd P., Gattuso J.-P., Hurd C. L. & Williamson P., Feb. 2024. Limited understanding of basic ocean processes is hindering progress in marine carbon dioxide removal. <i>Environmental Research Letters</i>. 
 
-Carlot J., Galobart C., Gomez-Gras D., Santamaría, Golo R., Sini M., Cebrián E., Gerovasileiou V., Ponti M., Turicchia E., Comeau S., Rilov G., Tamburello L., Pulido Mantas T., Cerrano C., Ledoux J.-B., Gattuso J.-P., Ramirez-Calero S., Millán Agudo L., Montefalcone M., Katsanevakis S., Bensoussan N., Garrabou Q. & Teixido N., sbm. Erosion of trait diversity across the Mediterranean Sea following anthropogenically driven mortality events. <i>Nature Ecology & Evolution</i>. 
+Carlot J., Galobart C., Gomez-Gras D., Santamaría, Golo R., Sini M., Cebrián E., Gerovasileiou V., Ponti M., Turicchia E., Comeau S., Rilov G., Tamburello L., Pulido Mantas T., Cerrano C., Ledoux J.-B., Gattuso J.-P., Ramirez-Calero S., Millán Agudo L., Montefalcone M., Katsanevakis S., Bensoussan N., Garrabou Q. & Teixido N., Feb. 2024. Erosion of trait diversity across the Mediterranean Sea following anthropogenically driven mortality events. <i>Nature Ecology & Evolution</i>. 
 
 Hulver A. M., Carbonne C., Teixidó N., Comeau S., Kemp D. B., Keister, E, Gattuso J.-P. & Grottoli A., Sep. 2023. Elevated heterotrophic capacity as a strategy for Mediterranean corals to cope with low pH at CO<sub>2</sub> vents. <i>PLoS ONE</i> 
 
@@ -33,17 +33,17 @@ Schlegel R. W., Singh R. K., Gentili B., Bélanger S., Castro de la Guardia L., 
 
 ### <a name="In revision">In revision</a>
 
-Filbee-Dexter K., Pessarrodona A., Pedersen M. F., Wernberg T., Duarte C. M., Assis J., Bekkby T., Burrows M. T., Carlson D. F., Gattuso J.-P., Gundersen H., Hancke K., Krumhansl K. A., Kuwae T., Middelburg J. J., Moore P., Bachmann Ørberg S., Queirós A. M., Serrão E. A., Smale D. A., Pinto I. S., Suzuki N. & Krause-Jensen D., Sep. 2023. Carbon export from seaweed forests to deep ocean sinks. <i>Nature Geoscience</i>.
-
 Lebrun A., Miller C. A., Gazeau F., Urruti P., Alliouane S., Gattuso J.-P. & Comeau S., Sep. 2023. Tolerance of Arctic kelps to ocean warming and marine heatwaves. <i>Journal of Ecology</i>. 
 
 Miller C., Gazeau F., Lebrun A., Gattuso J.-P., Alliouane S., Urrutti P., Schlegel R. & Comeau S., March 2024. Productivity of mixed kelp communities in an Arctic fjord exhibit tolerance to a future climate. <i>Science of the Total Environment</i>. [<a href="http://dx.doi.org/10.2139/ssrn.4563719">Discussion paper</a>].
 
 
-
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
 ### <a name="In press">In press</a>
+
+Filbee-Dexter K., Pessarrodona A., Pedersen M. F., Wernberg T., Duarte C. M., Assis J., Bekkby T., Burrows M. T., Carlson D. F., Gattuso J.-P., Gundersen H., Hancke K., Krumhansl K. A., Kuwae T., Middelburg J. J., Moore P., Bachmann Ørberg S., Queirós A. M., Serrão E. A., Smale D. A., Pinto I. S., Suzuki N. & Krause-Jensen D., in press. Carbon export from seaweed forests to deep ocean sinks. <i>Nature Geoscience</i>.
+
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
