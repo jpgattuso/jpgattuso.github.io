@@ -613,7 +613,7 @@ Nisumaa A.-M., Pesant S., Bellerby R. G. J., Middelburg J. J., Orr J. C., Riebes
 
 P&ouml;rtner H.-O., Dickson A. &amp; Gattuso J.-P., 2010. Terminology and units for parameters relevant to the carbonate system. In: Riebesell U., Fabry V. J., Hansson L. &amp; Gattuso J.-P. (Eds.), Guide to best practices for ocean acidification research and data reporting, pp. 18-19. Luxembourg: Office for Official Publications of the European Union. [<a href="http://www.epoca-project.eu/index.php/Home/Guide-to-OA-Research/">Guide web page</a>]
 
-Riebesell U., Fabry V. J., Hansson L. &amp; Gattuso J.-P. (Eds.), 2010. Guide to best practices for ocean acidification research and data reporting, 258 p. Luxembourg: Office for Official Publications of the European Union. [<a href="http://www.epoca-project.eu/index.php/Home/Guide-to-OA-Research/">Guide web page</a>]
+Riebesell U., Fabry V. J., Hansson L. &amp; Gattuso J.-P. (Eds.), 2010. Guide to best practices for ocean acidification research and data reporting, 258 p. Luxembourg: Office for Official Publications of the European Union. [<a href="https://op.europa.eu/en/publication-detail/-/publication/51887496-10b6-4b42-9876-1c2a1346fac5/">Guide web page</a>]
 
 Riebesell U., Fabry V. J., Hansson L. &amp; Gattuso J.-P., 2010. Preface. In: Riebesell U., Fabry V. J., Hansson L. &amp; Gattuso J.-P. (Eds.), Guide to best practices for ocean acidification research and data reporting, pp. 5-6. Luxembourg: Office for Official Publications of the European Union. [<a href="http://www.epoca-project.eu/index.php/Home/Guide-to-OA-Research/">Guide web page</a>] [<a href="http://dx.doi.org/10.2777/58454">EU Bookshop</a>]
 
