@@ -16,8 +16,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### <a name="Submitted">Submitted</a>
 
-Boyd P., Gattuso J.-P., Hurd C. L. & Williamson P., Feb. 2024. Limited understanding of basic ocean processes is hindering progress in marine carbon dioxide removal. <i>Environmental Research Letters</i>. 
-
 Carlot J., Galobart C., Gomez-Gras D., Santamaría, Golo R., Sini M., Cebrián E., Gerovasileiou V., Ponti M., Turicchia E., Comeau S., Rilov G., Tamburello L., Pulido Mantas T., Cerrano C., Ledoux J.-B., Gattuso J.-P., Ramirez-Calero S., Millán Agudo L., Montefalcone M., Katsanevakis S., Bensoussan N., Garrabou Q. & Teixido N., Feb. 2024. Erosion of trait diversity across the Mediterranean Sea following anthropogenically driven mortality events. <i>Nature Ecology & Evolution</i>. 
 
 Hulver A. M., Carbonne C., Teixidó N., Comeau S., Kemp D. B., Keister, E, Gattuso J.-P. & Grottoli A., Sep. 2023. Elevated heterotrophic capacity as a strategy for Mediterranean corals to cope with low pH at CO<sub>2</sub> vents. <i>PLoS ONE</i> 
@@ -32,6 +30,8 @@ Schlegel R. W., Singh R. K., Gentili B., Bélanger S., Castro de la Guardia L., 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
 ### <a name="In revision">In revision</a>
+
+Boyd P., Gattuso J.-P., Hurd C. L. & Williamson P., Feb. 2024. Limited understanding of basic ocean processes is hindering progress in marine carbon dioxide removal. <i>Environmental Research Letters</i>. 
 
 Lebrun A., Miller C. A., Gazeau F., Urruti P., Alliouane S., Gattuso J.-P. & Comeau S., Sep. 2023. Tolerance of Arctic kelps to ocean warming and marine heatwaves. <i>Journal of Ecology</i>. 
 
