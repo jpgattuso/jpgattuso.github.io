@@ -42,8 +42,6 @@ Schlegel R. W., Singh R. K., Gentili B., Bélanger S., Castro de la Guardia L., 
 
 Filbee-Dexter K., Pessarrodona A., Pedersen M. F., Wernberg T., Duarte C. M., Assis J., Bekkby T., Burrows M. T., Carlson D. F., Gattuso J.-P., Gundersen H., Hancke K., Krumhansl K. A., Kuwae T., Middelburg J. J., Moore P., Bachmann Ørberg S., Queirós A. M., Serrão E. A., Smale D. A., Pinto I. S., Suzuki N. & Krause-Jensen D., in press. Carbon export from seaweed forests to deep ocean sinks. <i>Nature Geoscience</i>.
 
-Miller C., Gazeau F., Lebrun A., Gattuso J.-P., Alliouane S., Urrutti P., Schlegel R. & Comeau S., in press. Productivity of mixed kelp communities in an Arctic fjord exhibit tolerance to a future climate. <i>Science of the Total Environment</i>. [<a href="http://dx.doi.org/10.2139/ssrn.4563719">Discussion paper</a>].
-
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
@@ -58,6 +56,8 @@ Deprez L., Leadley P., Dooley K., Williamson P., Cramer C., Gattuso J.-P., Ranko
 Hurd C. L., Gattuso J.-P. & Boyd P. W., 2024. Air-sea carbon dioxide equilibrium: will it be possible to use seaweeds for carbon removal offsets? <i>Journal of Phycology</i> 61:4-14. [<a href="https://doi.org/10.1111/jpy.13405" target="_blank">Abstract</a>].
 
 Metzl N., Fin J., Lo Monaco C., Mignon C., Alliouane S., Antoine D., Bourdin G., Boutin J., Bozec Y., Conan P., Coppola L., Douville E., Durrieu de Madron X., Gattuso J.-P., Gazeau F., Golbol M., Lansard B., Lefèvre D., Lefèvre N., Lombard F., Louanchi F., Merlivat L., Olivier L., Petrenko A., Petton S., Pujo-Pay M., Rabouille C., Reverdin G., Ridame C., Tribollet A., Vellucci V., Wagener T. & Wimart-Rousseau C., 2024. A synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2022: the SNAPO-CO2-v1 dataset. <i>Earth System Science Data</i> 16:89-120. [<a href="https://essd.copernicus.org/articles/16/89/2024/" target="_blank">Abstract</a>].
+
+Miller C. A., Gazeau F., Lebrun A., Gattuso J.-P., Alliouane S., Urrutti P., Schlegel R. W. & Comeau S., 2024. Productivity of mixed kelp communities in an Arctic fjord exhibit tolerance to a future climate. <i>Science of the Total Environment</i> 930:172571. [<a href=" https://doi.org/10.1016/j.scitotenv.2024.172571">Abstract</a>].
 
 Miller C., Urrutti P., Gattuso J.-P., Comeau S., Lebrun A., Alliouane S., Schlegel R. & Gazeau F., 2024. Technical note: An autonomous flow-through salinity and temperature perturbation mesocosm system for multi-stressor experiments. <i>Biogeosciences</i> 21:315–333. [<a href="https://doi.org/10.5194/bg-21-315-2024">Abstract</a>].
 
