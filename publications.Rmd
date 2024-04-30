@@ -33,14 +33,14 @@ Hulver A. M., Carbonne C., Teixidó N., Comeau S., Kemp D. B., Keister, E, Gattu
 
 Lebrun A., Miller C. A., Gazeau F., Urruti P., Alliouane S., Gattuso J.-P. & Comeau S., April 2024. Tolerance of Arctic kelps to ocean warming and marine heatwaves. <i>Journal of Ecology</i>.
 
-Schlegel R. W., Singh R. K., Gentili B., Bélanger S., Castro de la Guardia L., Krause-Jensen D., Miller C. A., Sejr M. & Gattuso J.-P., April 2024. Underwater light environment in Arctic fjords. <i>Earth System Science Data</i>.  [<a href="https://doi.org/10.5194/essd-2023-462">Discussion paper</a>].
-
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
 
 ### <a name="In press">In press</a>
 
 Filbee-Dexter K., Pessarrodona A., Pedersen M. F., Wernberg T., Duarte C. M., Assis J., Bekkby T., Burrows M. T., Carlson D. F., Gattuso J.-P., Gundersen H., Hancke K., Krumhansl K. A., Kuwae T., Middelburg J. J., Moore P., Bachmann Ørberg S., Queirós A. M., Serrão E. A., Smale D. A., Pinto I. S., Suzuki N. & Krause-Jensen D., in press. Carbon export from seaweed forests to deep ocean sinks. <i>Nature Geoscience</i>.
+
+Schlegel R. W., Singh R. K., Gentili B., Bélanger S., Castro de la Guardia L., Krause-Jensen D., Miller C. A., Sejr M. & Gattuso J.-P., in press. Underwater light environment in Arctic fjords. <i>Earth System Science Data</i>.  [<a href="https://doi.org/10.5194/essd-2023-462">Discussion paper</a>].
 
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
