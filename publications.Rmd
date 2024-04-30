@@ -63,6 +63,8 @@ Miller C., Urrutti P., Gattuso J.-P., Comeau S., Lebrun A., Alliouane S., Schleg
 
 Petton S., Pernet F., Le Roy V., Huber M., Martin S., Macé E., Bozec Y., Loisel S., Rimmelin-Maury P., Grossteffan E., Repecaud M., Quemener L., Retho M., Manac’h S., Papin M., Pineau P., Lacoue-Labarthe T., Deborde J., Costes L., Polsenaere P., Rigouin L., Benhamou J., Gouriou L., Lequeux J., Labourdette N., Savoye N., Messiaen G., Foucault E., Ouisse V., Richard M., Lagarde F., Voron F., Kempf V., Mas S., Giannecchini L., Vidussi F., Mostajir B., Leredde Y., Alliouane S., Gattuso J.-P. & Gazeau F., 2024. French coastal network for carbonate system monitoring: The CocoriCO2 dataset. <i>Earth System Science Data</i> 16:89-120. [<a href="https://doi.org/10.5194/essd-16-89-2024">Abstract</a>].
 
+Gentili B., Gattuso J.-P. & Schlegel R. W., 2024. Fjordlight: Available light within the water column and seafloor of arctic fjords. [Accessed 2024-04-30; doi:10.5281/zenodo.10259129], [<a href="https://CRAN.R-project.org/package=FjordLight" target="_blank">R package</a>].
+
 Teixidó N., Carlot J., Alliouane A., Ballesteros E., De Vittor C., Gambi M. C., Gattuso J.-P., Kroeker K., Micheli F., Mirasole A., Parravacini V. & Villéger S., 2024. Functional changes across benthic habitats due to ocean acidification. <i>Global Change Biology</i> 30:e17105. [<a href="https://doi.org/10.1111/gcb.17105" target="_blank">Abstract</a>].
 
 Veytia D., Airoldi L., Claudet J., Cooley S., Magnan A., Barclay V. M., Neill S., Sumaila U. R., Thébaud O., Voolstra C. R., Williamson P., Bonnin M., Langridge J., Comte A., Viard F., Shin Y., Bopp L. & Gattuso J.-P., 2024. Ocean-related options for climate change mitigation and adaptation: A machine learning-based evidence map protocol. <i>Research Square</i>. [<a href="http://dx.doi.org/10.21203/rs.3.pex-2324/v1" target="_blank">Abstract</a>]. 
@@ -196,7 +198,7 @@ Gattuso J.-P., Gentili B., Antoine D. &amp; Doxaran D., 2020. Global distributio
 
 Gentili B. &amp; Gattuso J.-P., 2020. Photosynthetically available radiation (PAR) on the seafloor calculated from 21 years of ocean colour satellite data. <i>PANGAEA</i>. [<a href="https://doi.pangaea.de/10.1594/PANGAEA.910898" target="_blank">Data set</a>].
 
-Gentili B. &amp; Gattuso J.-P., 2020. CoastalLight: R package to calculate the light reaching the ocean sea floor. [Accessed 2020-02-24; doi: 10.5281/zenodo.3685556]. [<a href="https://doi.org/10.5281/zenodo.3685555" target="_blank">R package</a>].
+Gentili B. & Gattuso J.-P., 2020. CoastalLight: R package to calculate the light reaching the ocean sea floor. [Accessed 2020-02-24; doi: 10.5281/zenodo.3685556]. [<a href="https://doi.org/10.5281/zenodo.3685555" target="_blank">R package</a>].
 
 G&oacute;mez Batista M., Metian M., Oberh&auml;nsli F., Pouil S., Swarzenski P. W., Tambutt&eacute; E., Gattuso J.-P., Alonso Hern&aacute;ndez C. M. &amp; Gazeau F., 2020. Intercomparison of four methods to estimate coral calcification under various environmental conditions. <i>Biogeosciences</i> 17:887–899. [<a href="https://doi.org/10.5194/bg-17-887-2020" target="_blank">Abstract</a>] [<a href="https://www.biogeosciences.net/index.html" target="_blank">Journal home page</a>].
 
