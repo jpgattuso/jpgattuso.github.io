@@ -18,8 +18,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Carlot J., Galobart C., Gomez-Gras D., Santamaría, Golo R., Sini M., Cebrián E., Gerovasileiou V., Ponti M., Turicchia E., Comeau S., Rilov G., Tamburello L., Pulido Mantas T., Cerrano C., Ledoux J.-B., Gattuso J.-P., Ramirez-Calero S., Millán Agudo L., Montefalcone M., Katsanevakis S., Bensoussan N., Garrabou Q. & Teixido N., Feb. 2024. Erosion of trait diversity across the Mediterranean Sea following anthropogenically driven mortality events. <i>Nature Ecology & Evolution</i>. 
 
-Lebrun A., Miller C. A., Meynadier M., Comeau S., Urruti P., Alliouane S., Schlegel R., Gattuso J.-P. & Gazeau F., Aug. 2023. Multifactorial effects of warming, low irradiance, and low salinity on Arctic kelps. <i>Biogeosciences</i>. [<a href="https://doi.org/10.5194/egusphere-2023-1875">Discussion paper</a>].
-
 Pernet F., Dupond S., Gattuso J.-P., Metian M. & Gazeau F., March 2024. Cracking the myth: Bivalve farming is not a CO<sub>2</sub> sink. <i>Reviews in Aquaculture.</i>
 
 
@@ -27,16 +25,18 @@ Pernet F., Dupond S., Gattuso J.-P., Metian M. & Gazeau F., March 2024. Cracking
 
 ### <a name="In revision">In revision</a>
 
-Boyd P., Gattuso J.-P., Hurd C. L. & Williamson P., April 2024. Limited understanding of basic ocean processes is hindering progress in marine carbon dioxide removal. <i>Environmental Research Letters</i>.
-
 Hulver A. M., Carbonne C., Teixidó N., Comeau S., Kemp D. B., Keister, E, Gattuso J.-P. & Grottoli A., April 2024. Elevated heterotrophic capacity as a strategy for Mediterranean corals to cope with low pH at CO<sub>2</sub> vents. <i>PLoS ONE</i> 
 
 Lebrun A., Miller C. A., Gazeau F., Urruti P., Alliouane S., Gattuso J.-P. & Comeau S., April 2024. Tolerance of Arctic kelps to ocean warming and marine heatwaves. <i>Journal of Ecology</i>.
+
+Lebrun A., Miller C. A., Meynadier M., Comeau S., Urruti P., Alliouane S., Schlegel R., Gattuso J.-P. & Gazeau F., May 2023. Multifactorial effects of warming, low irradiance, and low salinity on Arctic kelps. <i>Biogeosciences</i>. [<a href="https://doi.org/10.5194/egusphere-2023-1875">Discussion paper</a>].
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
 
 ### <a name="In press">In press</a>
+
+Boyd P., Gattuso J.-P., Hurd C. L. & Williamson P., in press. Limited understanding of basic ocean processes is hindering progress in marine carbon dioxide removal. <i>Environmental Research Letters</i>.
 
 Filbee-Dexter K., Pessarrodona A., Pedersen M. F., Wernberg T., Duarte C. M., Assis J., Bekkby T., Burrows M. T., Carlson D. F., Gattuso J.-P., Gundersen H., Hancke K., Krumhansl K. A., Kuwae T., Middelburg J. J., Moore P., Bachmann Ørberg S., Queirós A. M., Serrão E. A., Smale D. A., Pinto I. S., Suzuki N. & Krause-Jensen D., in press. Carbon export from seaweed forests to deep ocean sinks. <i>Nature Geoscience</i>.
 
