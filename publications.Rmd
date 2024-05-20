@@ -18,6 +18,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Carlot J., Galobart C., Gomez-Gras D., Santamaría, Golo R., Sini M., Cebrián E., Gerovasileiou V., Ponti M., Turicchia E., Comeau S., Rilov G., Tamburello L., Pulido Mantas T., Cerrano C., Ledoux J.-B., Gattuso J.-P., Ramirez-Calero S., Millán Agudo L., Montefalcone M., Katsanevakis S., Bensoussan N., Garrabou Q. & Teixido N., Feb. 2024. Erosion of trait diversity across the Mediterranean Sea following anthropogenically driven mortality events. <i>Nature Ecology & Evolution</i>. 
 
+Hassoun A. E. R., Mojtahid M., Merheb M., Lionello P., Gattuso J.-P. & Cramer W., May 2024. Climate change risks on key open marine and coastal Mediterranean ecosystems. <i>Earth Science Reviews.</i>
+
 Pernet F., Dupond S., Gattuso J.-P., Metian M. & Gazeau F., March 2024. Cracking the myth: Bivalve farming is not a CO<sub>2</sub> sink. <i>Reviews in Aquaculture.</i>
 
 
