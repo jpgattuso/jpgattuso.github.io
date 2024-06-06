@@ -39,8 +39,6 @@ Pernet F., Dupond S., Gattuso J.-P., Metian M. & Gazeau F., March 2024. Cracking
 
 ### <a name="In press">In press</a>
 
-Boyd P., Gattuso J.-P., Hurd C. L. & Williamson P., in press. Limited understanding of basic ocean processes is hindering progress in marine carbon dioxide removal. <i>Environmental Research Letters</i>.
-
 Schlegel R. W., Singh R. K., Gentili B., Bélanger S., Castro de la Guardia L., Krause-Jensen D., Miller C. A., Sejr M. & Gattuso J.-P., in press. Underwater light environment in Arctic fjords. <i>Earth System Science Data</i>.  [<a href="https://doi.org/10.5194/essd-2023-462">Discussion paper</a>].
 
 
@@ -49,6 +47,8 @@ Schlegel R. W., Singh R. K., Gentili B., Bélanger S., Castro de la Guardia L., 
 ### <a name="2024">2024</a>
 
 Attard K., Singh R. K., Gattuso J.-P., Filbee-Dexter K., Krause-Jensen D., Kühl M., Sejr M. K., Archambault P., Babin M., Bélanger S., Berg P., Glud R. N., Hancke K., Jänicke S., Qin J., Rysgaard S., Sørensen E. B., Tachon F., Wenzhöfer F. & Ardyna M., 2024. Seafloor primary production in a changing Arctic Ocean. <i>Proceedings of the National Academy of Science U.S.A.</i> 121:e2303366121. [<a href="https://doi.org/10.1073/pnas.2303366121" target="_blank">Abstract</a>].
+
+Boyd P., Gattuso J.-P., Hurd C. L. & Williamson P., 2024 Limited understanding of basic ocean processes is hindering progress in marine carbon dioxide removal. <i>Environmental Research Letters</i> 19:061002. [<a href="https://doi.org/10.1088/1748-9326/ad502f" target="_blank">Abstract</a>].
 
 Carbonne C., Comeau S., Plichon K., Schaub S., Gattuso J.-P. & Teixidó N., 2024. Response of two temperate scleractinian corals to projected ocean warming and marine heatwaves. <i>Royal Society Open Science</i> 11:231683. [<a href="https://doi.org/10.1098/rsos.231683" target="_blank">Abstract</a>].
 
