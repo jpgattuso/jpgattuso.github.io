@@ -26,8 +26,6 @@ Miller C., Gazeau F., Lebrun A., Alliouane S., Urrutti P., Schlegel R., Gattuso 
 
 ### <a name="In revision">In revision</a>
 
-Hulver A. M., Carbonne C., Teixidó N., Comeau S., Kemp D. B., Keister, E, Gattuso J.-P. & Grottoli A., April 2024. Elevated heterotrophic capacity as a strategy for Mediterranean corals to cope with low pH at CO<sub>2</sub> vents. <i>PLoS ONE</i> 
-
 Lebrun A., Miller C. A., Gazeau F., Urruti P., Alliouane S., Gattuso J.-P. & Comeau S., April 2024. Tolerance of Arctic kelps to ocean warming and marine heatwaves. <i>Journal of Ecology</i>.
 
 Lebrun A., Miller C. A., Meynadier M., Comeau S., Urruti P., Alliouane S., Schlegel R., Gattuso J.-P. & Gazeau F., May 2023. Multifactorial effects of warming, low irradiance, and low salinity on Arctic kelps. <i>Biogeosciences</i>. [<a href="https://doi.org/10.5194/egusphere-2023-1875">Discussion paper</a>].
@@ -40,7 +38,7 @@ Pernet F., Dupond S., Gattuso J.-P., Metian M. & Gazeau F., March 2024. Cracking
 
 ### <a name="In press">In press</a>
 
-Schlegel R. W., Singh R. K., Gentili B., Bélanger S., Castro de la Guardia L., Krause-Jensen D., Miller C. A., Sejr M. & Gattuso J.-P., in press. Underwater light environment in Arctic fjords. <i>Earth System Science Data</i>.  [<a href="https://doi.org/10.5194/essd-2023-462">Discussion paper</a>].
+Hulver A. M., Carbonne C., Teixidó N., Comeau S., Kemp D. B., Keister, E, Gattuso J.-P. & Grottoli A., in press. Elevated heterotrophic capacity as a strategy for Mediterranean corals to cope with low pH at CO<sub>2</sub> vents. <i>PLoS ONE</i> 
 
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
@@ -68,6 +66,8 @@ Miller C. A., Gazeau F., Lebrun A., Gattuso J.-P., Alliouane S., Urrutti P., Sch
 Miller C., Urrutti P., Gattuso J.-P., Comeau S., Lebrun A., Alliouane S., Schlegel R. & Gazeau F., 2024. Technical note: An autonomous flow-through salinity and temperature perturbation mesocosm system for multi-stressor experiments. <i>Biogeosciences</i> 21:315–333. [<a href="https://doi.org/10.5194/bg-21-315-2024">Abstract</a>].
 
 Petton S., Pernet F., Le Roy V., Huber M., Martin S., Macé E., Bozec Y., Loisel S., Rimmelin-Maury P., Grossteffan E., Repecaud M., Quemener L., Retho M., Manac’h S., Papin M., Pineau P., Lacoue-Labarthe T., Deborde J., Costes L., Polsenaere P., Rigouin L., Benhamou J., Gouriou L., Lequeux J., Labourdette N., Savoye N., Messiaen G., Foucault E., Ouisse V., Richard M., Lagarde F., Voron F., Kempf V., Mas S., Giannecchini L., Vidussi F., Mostajir B., Leredde Y., Alliouane S., Gattuso J.-P. & Gazeau F., 2024. French coastal network for carbonate system monitoring: The CocoriCO2 dataset. <i>Earth System Science Data</i> 16:89-120. [<a href="https://doi.org/10.5194/essd-16-89-2024">Abstract</a>].
+
+Schlegel R. W., Singh R. K., Gentili B., Bélanger S., Castro de la Guardia L., Krause-Jensen D., Miller C. A., Sejr M. & Gattuso J.-P., 2024 Underwater light environment in Arctic fjords. <i>Earth System Science Data</i> 16:2773-2788.  [<a href="http://dx.doi.org/10.5194/essd-16-2773-2024">Abstract</a>].
 
 Teixidó N., Carlot J., Alliouane A., Ballesteros E., De Vittor C., Gambi M. C., Gattuso J.-P., Kroeker K., Micheli F., Mirasole A., Parravacini V. & Villéger S., 2024. Functional changes across benthic habitats due to ocean acidification. <i>Global Change Biology</i> 30:e17105. [<a href="https://doi.org/10.1111/gcb.17105" target="_blank">Abstract</a>].
 
