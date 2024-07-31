@@ -37,7 +37,6 @@ Miller C., Gazeau F., Lebrun A., Alliouane S., Urrutti P., Schlegel R., Gattuso 
 
 ### <a name="In press">In press</a>
 
-Hulver A. M., Carbonne C., Teixidó N., Comeau S., Kemp D. B., Keister, E, Gattuso J.-P. & Grottoli A., in press. Elevated heterotrophic capacity as a strategy for Mediterranean corals to cope with low pH at CO<sub>2</sub> vents. <i>PLoS ONE</i>
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
@@ -55,6 +54,8 @@ Deprez L., Leadley P., Dooley K., Williamson P., Cramer C., Gattuso J.-P., Ranko
 Filbee-Dexter K., Pessarrodona A., Pedersen M. F., Wernberg T., Duarte C. M., Assis J., Bekkby T., Burrows M. T., Carlson D. F., Gattuso J.-P., Gundersen H., Hancke K., Krumhansl K. A., Kuwae T., Middelburg J. J., Moore P., Bachmann Ørberg S., Queirós A. M., Serrão E. A., Smale D. A., Pinto I. S., Suzuki N. & Krause-Jensen D., 2024. Carbon export from seaweed forests to deep ocean sinks. <i>Nature Geoscience</i>. [<a href="https://doi.org/10.1038/s41561-024-01449-7" target="_blank">Abstract</a>].
 
 Gentili B., Gattuso J.-P. & Schlegel R. W., 2024. Fjordlight: Available light within the water column and seafloor of arctic fjords. [Accessed 2024-04-30; doi:10.5281/zenodo.10259129], [<a href="https://CRAN.R-project.org/package=FjordLight" target="_blank">R package</a>].
+
+Hulver A. M., Carbonne C., Teixidó N., Comeau S., Kemp D. W., Keister E. F., Gattuso J.-P. & Grottoli A. G., 2024. Elevated heterotrophic capacity as a strategy for Mediterranean corals to cope with low pH at CO<sub>2</sub> vents. <i>PLoS ONE</i> 19:e0306725. [<a href="http://doi.org/10.1371/journal.pone.0306725" target="_blank">Abstract</a>].
 
 Hurd C. L., Gattuso J.-P. & Boyd P. W., 2024. Air-sea carbon dioxide equilibrium: will it be possible to use seaweeds for carbon removal offsets? <i>Journal of Phycology</i> 61:4-14. [<a href="https://doi.org/10.1111/jpy.13405" target="_blank">Abstract</a>].
 
