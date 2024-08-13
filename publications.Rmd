@@ -16,8 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### <a name="Submitted">Submitted</a>
 
-Carlot J., Galobart C., Gomez-Gras D., Santamaría, Golo R., Sini M., Cebrián E., Gerovasileiou V., Ponti M., Turicchia E., Comeau S., Rilov G., Tamburello L., Pulido Mantas T., Cerrano C., Ledoux J.-B., Gattuso J.-P., Ramirez-Calero S., Millán Agudo L., Montefalcone M., Katsanevakis S., Bensoussan N., Garrabou Q. & Teixido N., Feb. 2024. Erosion of trait diversity across the Mediterranean Sea following anthropogenically driven mortality events. <i>Nature Ecology & Evolution</i>. 
-
+Carlot J., Galobart C., Gomez-Gras D., Santamaría, Golo R., Sini M., Cebrián E., Gerovasileiou V., Ponti M., Turicchia E., Comeau S., Rilov G., Tamburello L., Pulido Mantas T., Cerrano C., Ledoux J.-B., Gattuso J.-P., Ramirez-Calero S., Millán Agudo L., Montefalcone M., Katsanevakis S., Bensoussan N., Garrabou Q. & Teixido N., Feb. 2024. Erosion of trait diversity across the Mediterranean Sea following anthropogenically driven mortality events. <i>Nature Communications</i>. 
 Hassoun A. E. R., Mojtahid M., Merheb M., Lionello P., Gattuso J.-P. & Cramer W., June 2024. Climate change risks on key open marine and coastal Mediterranean ecosystems. <i>Marine Environmental Research</i>
 
 Williamson P., Schlegel R. W., Gattuso J.-P., Andrews J. E. & Jickells T. D., June 2024. Climate benefits of saltmarsh restoration greatly overstated by Mason et al. (2023). <i>Global Change Biology</i>.
@@ -31,12 +30,10 @@ Lebrun A., Miller C. A., Gazeau F., Urruti P., Alliouane S., Gattuso J.-P. & Com
 Lebrun A., Miller C. A., Meynadier M., Comeau S., Urruti P., Alliouane S., Schlegel R., Gattuso J.-P. & Gazeau F., May 2023. Multifactorial effects of warming, low irradiance, and low salinity on Arctic kelps. <i>Biogeosciences</i>. [<a href="https://doi.org/10.5194/egusphere-2023-1875">Discussion paper</a>].
 
 
-<p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
-
-
 ### <a name="In press">In press</a>
 
 Miller C., Gazeau F., Lebrun A., Alliouane S., Urrutti P., Schlegel R., Gattuso J.-P. & Comeau S., 2024. Summer primary production of Arctic kelp communities is more affected by duration than magnitude of simulated marine heatwaves. <i>Ecology and Evolution</i>. 
+
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
