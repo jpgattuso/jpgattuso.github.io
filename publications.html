@@ -32,7 +32,7 @@ div.sourceCode { overflow: auto; }
 }
 @media print {
 pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
 }
 pre.numberSource code
   { counter-reset: source-line 0; }
@@ -2408,7 +2408,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: var(--hover-color, white);
   }</style>
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.27/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2482,13 +2482,13 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <p><a name="top"></a>
 | <a href="#In_revision">In revision</a> | <a href="#In_press">In press</a> | <a href="#2024">2024</a> | <a href="#2023">2023</a> | <a href="#2022">2022</a> | <a href="#2021">2021</a> | <a href="#2020">2020</a> | <a href="#2019">2019</a> | <a href="#2018">2018</a> | <a href="#2017">2017</a> | <a href="#2016">2016</a> | <a href="#2015">2015</a> | <a href="#2014">2014</a> | <a href="#2013">2013</a> | <a href="#2012">2012</a> | <a href="#2011">2011</a> | <a href="#2010">2010</a> | <a href="#2009">2009</a> | <a href="#2008">2008</a> | <a href="#2007">2007</a> | <a href="#2006">2006</a> | <a href="#2005">2005</a> | <a href="#2004">2004</a> | <a href="#2003">2003</a> | <a href="#2002">2002</a> | <a href="#2001">2001</a> | <a href="#2000">2000</a> | <a href="#1999">1999</a> | <a href="#1998">1998</a> | <a href="#1997">1997</a> | <a href="#1996">1996</a> | <a href="#1995">1995</a> | <a href="#1994">1994</a> | <a href="#1993">1993</a> | <a href="#1991">1991</a> | <a href="#1990">1990</a> | <a href="#1989">1989</a> | <a href="#1988">1988</a> | <a href="#1987">1987</a> | <a href="#1985">1985</a> | <a href="#1984">1984</a> |</p>
 <h3 id="submitted"><a name="Submitted">Submitted</a></h3>
-<p>Carlot J., Galobart C., Gomez-Gras D., Santamaría, Golo R., Sini M., Cebrián E., Gerovasileiou V., Ponti M., Turicchia E., Comeau S., Rilov G., Tamburello L., Pulido Mantas T., Cerrano C., Ledoux J.-B., Gattuso J.-P., Ramirez-Calero S., Millán Agudo L., Montefalcone M., Katsanevakis S., Bensoussan N., Garrabou Q. &amp; Teixido N., Feb. 2024. Erosion of trait diversity across the Mediterranean Sea following anthropogenically driven mortality events. <i>Nature Communications</i>.</p>
-<p>Hassoun A. E. R., Mojtahid M., Merheb M., Lionello P., Gattuso J.-P. &amp; Cramer W., June 2024. Climate change risks on key open marine and coastal Mediterranean ecosystems. <i>Marine Environmental Research</i></p>
+<p>Hassoun A. E. R., Mojtahid M., Merheb M., Lionello P., Gattuso J.-P. &amp; Cramer W., June 2024. Climate change risks on key open marine and coastal Mediterranean ecosystems. <i>Marine Environmental Research</i>.</p>
+<p>Oschlies A., Bach L., Fennel K., Gattuso J.-P. &amp; Mengis N., Oct. 2024. Perspectives and challenges of marine carbon dioxide removal. <i>Frontiers in Climate</i>.</p>
 <p>
 <a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a>
 </p>
 <h3 id="in-revision"><a name="In revision">In revision</a></h3>
-<p>Lebrun A., Miller C. A., Gazeau F., Urruti P., Alliouane S., Gattuso J.-P. &amp; Comeau S., April 2024. Tolerance of Arctic kelps to ocean warming and marine heatwaves. <i>Journal of Ecology</i>.</p>
+<p>Carlot J., Galobart C., Gomez-Gras D., Santamaría, Golo R., Sini M., Cebrián E., Gerovasileiou V., Ponti M., Turicchia E., Comeau S., Rilov G., Tamburello L., Pulido Mantas T., Cerrano C., Ledoux J.-B., Gattuso J.-P., Ramirez-Calero S., Millán Agudo L., Montefalcone M., Katsanevakis S., Bensoussan N., Garrabou Q. &amp; Teixido N., Feb. 2024. Erosion of trait diversity across the Mediterranean Sea following anthropogenically driven mortality events. <i>Nature Communications</i>.</p>
 <p>Lebrun A., Miller C. A., Meynadier M., Comeau S., Urruti P., Alliouane S., Schlegel R., Gattuso J.-P. &amp; Gazeau F., May 2023. Multifactorial effects of warming, low irradiance, and low salinity on Arctic kelps. <i>Biogeosciences</i>. [<a href="https://doi.org/10.5194/egusphere-2023-1875">Discussion paper</a>].</p>
 <h3 id="in-press"><a name="In press">In press</a></h3>
 <p>Miller C., Gazeau F., Lebrun A., Alliouane S., Urrutti P., Schlegel R., Gattuso J.-P. &amp; Comeau S., 2024. Summer primary production of Arctic kelp communities is more affected by duration than magnitude of simulated marine heatwaves. <i>Ecology and Evolution</i>.</p>
@@ -2507,6 +2507,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <p>Hurd C. L., Gattuso J.-P. &amp; Boyd P. W., 2024. Air-sea carbon dioxide equilibrium: will it be possible to use seaweeds for carbon removal offsets? <i>Journal of Phycology</i> 61:4-14. [<a href="https://doi.org/10.1111/jpy.13405" target="_blank">Abstract</a>].</p>
 <p>Metzl N., Fin J., Lo Monaco C., Mignon C., Alliouane S., Antoine D., Bourdin G., Boutin J., Bozec Y., Conan P., Coppola L., Douville E., Durrieu de Madron X., Gattuso J.-P., Gazeau F., Golbol M., Lansard B., Lefèvre D., Lefèvre N., Lombard F., Louanchi F., Merlivat L., Olivier L., Petrenko A., Petton S., Pujo-Pay M., Rabouille C., Reverdin G., Ridame C., Tribollet A., Vellucci V., Wagener T. &amp; Wimart-Rousseau C., 2024. A synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2022: the SNAPO-CO2-v1 dataset. <i>Earth System Science Data</i> 16:89-120. [<a href="https://essd.copernicus.org/articles/16/89/2024/" target="_blank">Abstract</a>].</p>
 <p>Miller C. A., Gazeau F., Lebrun A., Gattuso J.-P., Alliouane S., Urrutti P., Schlegel R. W. &amp; Comeau S., 2024. Productivity of mixed kelp communities in an Arctic fjord exhibit tolerance to a future climate. <i>Science of the Total Environment</i> 930:172571. [<a href=" https://doi.org/10.1016/j.scitotenv.2024.172571">Abstract</a>].</p>
+<p>Miller C., Gazeau F., Lebrun A., Alliouane S., Urrutti P., Schlegel R., Gattuso J.-P. &amp; Comeau S., 2024. Summer primary production of Arctic kelp communities is more affected by duration than magnitude of simulated marine heatwaves. <i>Ecology and Evolution 14:e70183</i>. [<a href="https://doi.org/10.1002/ece3.70183">Abstract</a>].</p>
 <p>Miller C., Urrutti P., Gattuso J.-P., Comeau S., Lebrun A., Alliouane S., Schlegel R. &amp; Gazeau F., 2024. Technical note: An autonomous flow-through salinity and temperature perturbation mesocosm system for multi-stressor experiments. <i>Biogeosciences</i> 21:315–333. [<a href="https://doi.org/10.5194/bg-21-315-2024">Abstract</a>].</p>
 <p>Pernet F., Dupond S., Gattuso J.-P., Metian M. &amp; Gazeau F., 2024. Cracking the myth: Bivalve farming is not a CO<sub>2</sub> sink. <i>Reviews in Aquaculture</i>. [<a href="https://doi.org/10.1111/raq.12954">Abstract</a>].</p>
 <p>Petton S., Pernet F., Le Roy V., Huber M., Martin S., Macé E., Bozec Y., Loisel S., Rimmelin-Maury P., Grossteffan E., Repecaud M., Quemener L., Retho M., Manac’h S., Papin M., Pineau P., Lacoue-Labarthe T., Deborde J., Costes L., Polsenaere P., Rigouin L., Benhamou J., Gouriou L., Lequeux J., Labourdette N., Savoye N., Messiaen G., Foucault E., Ouisse V., Richard M., Lagarde F., Voron F., Kempf V., Mas S., Giannecchini L., Vidussi F., Mostajir B., Leredde Y., Alliouane S., Gattuso J.-P. &amp; Gazeau F., 2024. French coastal network for carbonate system monitoring: The CocoriCO2 dataset. <i>Earth System Science Data</i> 16:89-120. [<a href="https://doi.org/10.5194/essd-16-89-2024">Abstract</a>].</p>

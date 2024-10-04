@@ -16,15 +16,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### <a name="Submitted">Submitted</a>
 
-Carlot J., Galobart C., Gomez-Gras D., Santamaría, Golo R., Sini M., Cebrián E., Gerovasileiou V., Ponti M., Turicchia E., Comeau S., Rilov G., Tamburello L., Pulido Mantas T., Cerrano C., Ledoux J.-B., Gattuso J.-P., Ramirez-Calero S., Millán Agudo L., Montefalcone M., Katsanevakis S., Bensoussan N., Garrabou Q. & Teixido N., Feb. 2024. Erosion of trait diversity across the Mediterranean Sea following anthropogenically driven mortality events. <i>Nature Communications</i>.
+Hassoun A. E. R., Mojtahid M., Merheb M., Lionello P., Gattuso J.-P. & Cramer W., June 2024. Climate change risks on key open marine and coastal Mediterranean ecosystems. <i>Marine Environmental Research</i>.
 
-Hassoun A. E. R., Mojtahid M., Merheb M., Lionello P., Gattuso J.-P. & Cramer W., June 2024. Climate change risks on key open marine and coastal Mediterranean ecosystems. <i>Marine Environmental Research</i>
+Oschlies A., Bach L., Fennel K., Gattuso J.-P. & Mengis N., Oct. 2024. Perspectives and challenges of marine carbon dioxide removal. <i>Frontiers in Climate</i>.
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
 ### <a name="In revision">In revision</a>
 
-Lebrun A., Miller C. A., Gazeau F., Urruti P., Alliouane S., Gattuso J.-P. & Comeau S., April 2024. Tolerance of Arctic kelps to ocean warming and marine heatwaves. <i>Journal of Ecology</i>.
+Carlot J., Galobart C., Gomez-Gras D., Santamaría, Golo R., Sini M., Cebrián E., Gerovasileiou V., Ponti M., Turicchia E., Comeau S., Rilov G., Tamburello L., Pulido Mantas T., Cerrano C., Ledoux J.-B., Gattuso J.-P., Ramirez-Calero S., Millán Agudo L., Montefalcone M., Katsanevakis S., Bensoussan N., Garrabou Q. & Teixido N., Feb. 2024. Erosion of trait diversity across the Mediterranean Sea following anthropogenically driven mortality events. <i>Nature Communications</i>.
 
 Lebrun A., Miller C. A., Meynadier M., Comeau S., Urruti P., Alliouane S., Schlegel R., Gattuso J.-P. & Gazeau F., May 2023. Multifactorial effects of warming, low irradiance, and low salinity on Arctic kelps. <i>Biogeosciences</i>. [<a href="https://doi.org/10.5194/egusphere-2023-1875">Discussion paper</a>].
 
@@ -60,6 +60,8 @@ Hurd C. L., Gattuso J.-P. & Boyd P. W., 2024. Air-sea carbon dioxide equilibrium
 Metzl N., Fin J., Lo Monaco C., Mignon C., Alliouane S., Antoine D., Bourdin G., Boutin J., Bozec Y., Conan P., Coppola L., Douville E., Durrieu de Madron X., Gattuso J.-P., Gazeau F., Golbol M., Lansard B., Lefèvre D., Lefèvre N., Lombard F., Louanchi F., Merlivat L., Olivier L., Petrenko A., Petton S., Pujo-Pay M., Rabouille C., Reverdin G., Ridame C., Tribollet A., Vellucci V., Wagener T. & Wimart-Rousseau C., 2024. A synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2022: the SNAPO-CO2-v1 dataset. <i>Earth System Science Data</i> 16:89-120. [<a href="https://essd.copernicus.org/articles/16/89/2024/" target="_blank">Abstract</a>].
 
 Miller C. A., Gazeau F., Lebrun A., Gattuso J.-P., Alliouane S., Urrutti P., Schlegel R. W. & Comeau S., 2024. Productivity of mixed kelp communities in an Arctic fjord exhibit tolerance to a future climate. <i>Science of the Total Environment</i> 930:172571. [<a href=" https://doi.org/10.1016/j.scitotenv.2024.172571">Abstract</a>].
+
+Miller C., Gazeau F., Lebrun A., Alliouane S., Urrutti P., Schlegel R., Gattuso J.-P. & Comeau S., 2024. Summer primary production of Arctic kelp communities is more affected by duration than magnitude of simulated marine heatwaves. <i>Ecology and Evolution 14:e70183</i>. [<a href="https://doi.org/10.1002/ece3.70183">Abstract</a>].
 
 Miller C., Urrutti P., Gattuso J.-P., Comeau S., Lebrun A., Alliouane S., Schlegel R. & Gazeau F., 2024. Technical note: An autonomous flow-through salinity and temperature perturbation mesocosm system for multi-stressor experiments. <i>Biogeosciences</i> 21:315–333. [<a href="https://doi.org/10.5194/bg-21-315-2024">Abstract</a>].
 
