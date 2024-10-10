@@ -18,6 +18,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Hassoun A. E. R., Mojtahid M., Merheb M., Lionello P., Gattuso J.-P. & Cramer W., June 2024. Climate change risks on key open marine and coastal Mediterranean ecosystems. <i>Marine Environmental Research</i>.
 
+Hulver A. M., Teixidó N., Kemp D. W., Keister E. F., Gattuso J.-P. & Grottoli A. G., Oct. 2024. High heterotrophic capacity underlies success of Mediterranean corals under ocean acidification conditions at CO<sub>2</sub> vents. <i>Nature Communications</i>.
+
 Oschlies A., Bach L., Fennel K., Gattuso J.-P. & Mengis N., Oct. 2024. Perspectives and challenges of marine carbon dioxide removal. <i>Frontiers in Climate</i>.
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
