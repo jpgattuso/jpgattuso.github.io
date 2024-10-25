@@ -33,11 +33,6 @@ Carlot J., Galobart C., Gomez-Gras D., Santamaría, Golo R., Sini M., Cebrián E
 
 Miller C., Gazeau F., Lebrun A., Alliouane S., Urrutti P., Schlegel R., Gattuso J.-P. & Comeau S., 2024. Summer primary production of Arctic kelp communities is more affected by duration than magnitude of simulated marine heatwaves. <i>Ecology and Evolution</i>.
 
-Miller C. A., Lebrun A., Meynadier M., Comeau S., Urruti P., Alliouane S., Schlegel R., Gattuso J.-P. & Gazeau F., May 2023. Multifactorial effects of warming, low irradiance, and low salinity on Arctic kelps. <i>Biogeosciences</i>. [<a href="https://doi.org/10.5194/egusphere-2023-1875">Discussion paper</a>].
-
-Williamson P., Schlegel R. W., Gattuso J.-P., Andrews J. E. & Jickells T. D., 2024. Climate benefits of saltmarsh restoration greatly overstated by Mason et al. (2023). <i>Global Change Biology</i>.
-
-
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
 
@@ -59,6 +54,8 @@ Hulver A. M., Carbonne C., Teixidó N., Comeau S., Kemp D. W., Keister E. F., Ga
 
 Hurd C. L., Gattuso J.-P. & Boyd P. W., 2024. Air-sea carbon dioxide equilibrium: will it be possible to use seaweeds for carbon removal offsets? <i>Journal of Phycology</i> 61:4-14. [<a href="https://doi.org/10.1111/jpy.13405" target="_blank">Abstract</a>].
 
+Lebrun A., Miller C. A., Meynadier M., Comeau S., Urruti P., Alliouane S., Schlegel R., Gattuso J.-P. & Gazeau F., 2024. Multifactorial effects of warming, low irradiance, and low salinity on Arctic kelps. <i>Biogeosciences</i> 20:4605-4620. [<a href="https://doi.org/10.5194/bg-21-4605-2024" target="_blank">Abstract</a>].
+
 Metzl N., Fin J., Lo Monaco C., Mignon C., Alliouane S., Antoine D., Bourdin G., Boutin J., Bozec Y., Conan P., Coppola L., Douville E., Durrieu de Madron X., Gattuso J.-P., Gazeau F., Golbol M., Lansard B., Lefèvre D., Lefèvre N., Lombard F., Louanchi F., Merlivat L., Olivier L., Petrenko A., Petton S., Pujo-Pay M., Rabouille C., Reverdin G., Ridame C., Tribollet A., Vellucci V., Wagener T. & Wimart-Rousseau C., 2024. A synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2022: the SNAPO-CO2-v1 dataset. <i>Earth System Science Data</i> 16:89-120. [<a href="https://essd.copernicus.org/articles/16/89/2024/" target="_blank">Abstract</a>].
 
 Miller C. A., Gazeau F., Lebrun A., Gattuso J.-P., Alliouane S., Urrutti P., Schlegel R. W. & Comeau S., 2024. Productivity of mixed kelp communities in an Arctic fjord exhibit tolerance to a future climate. <i>Science of the Total Environment</i> 930:172571. [<a href=" https://doi.org/10.1016/j.scitotenv.2024.172571">Abstract</a>].
@@ -77,7 +74,10 @@ Teixidó N., Carlot J., Alliouane A., Ballesteros E., De Vittor C., Gambi M. C.,
 
 Veytia D., Airoldi L., Claudet J., Cooley S., Magnan A., Barclay V. M., Neill S., Sumaila U. R., Thébaud O., Voolstra C. R., Williamson P., Bonnin M., Langridge J., Comte A., Viard F., Shin Y., Bopp L. & Gattuso J.-P., 2024. Ocean-related options for climate change mitigation and adaptation: A machine learning-based evidence map protocol. <i>Research Square</i>. [<a href="http://dx.doi.org/10.21203/rs.3.pex-2324/v1" target="_blank">Abstract</a>]. 
 
+Williamson P., Schlegel R. W., Gattuso J.-P., Andrews J. E. & Jickells T. D., 2024. Climate benefits of saltmarsh restoration greatly overstated by Mason et al. (2023). <i>Global Change Biology</i> 30:e17525. [<a href="https://doi.org/10.1111/gcb.17525" target="_blank">Abstract</a>]. 
+
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
+
 
 ### <a name="2023">2023</a>
 Albright R., Hansson L., Cooley S., Gattuso J.-P., Marshall P., Marshal N., Fletcher S., Haraldsson G. & Hoegh-Guldberg O., 2023. Are we ready for ocean acidification? A framework for assessing and advancing policy readiness. <i>Environmental Research Letters</i> 18:041001. [<a href="http://dx.doi.org/10.1088/1748-9326/acc085" target="_blank">Abstract</a>].
