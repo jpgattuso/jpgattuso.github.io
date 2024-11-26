@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Boyd P. W., Gattuso J.-P., Dai M., Legendre L., Satterfield T. & Webb R., Nov. 2024. The need to explore the potential of marine CDR – A guide for policy makers. <i>IDDRI Policy Brief</i>. 
 
-Hassoun A. E. R., Mojtahid M., Merheb M., Lionello P., Gattuso J.-P. & Cramer W., June 2024. Climate change risks on key open marine and coastal Mediterranean ecosystems. <i>Marine Environmental Research</i>.
+Hassoun A. E. R., Mojtahid M., Merheb M., Lionello P., Gattuso J.-P. & Cramer W., Nov. 2024. Climate change risks on key open marine and coastal Mediterranean ecosystems. <i>Scientific Reports</i>.
 
 Hulver A. M., Teixidó N., Kemp D. W., Keister E. F., Gattuso J.-P. & Grottoli A. G., Nov. 2024. High heterotrophic capacity underlies success of Mediterranean corals under ocean acidification conditions at CO<sub>2</sub> vents. <i>Science Advances</i>.
 
