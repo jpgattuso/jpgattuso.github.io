@@ -26,13 +26,11 @@ Veytia D., Mariani G., Marti Barclay V., Airoldi L., Claudet J., Cooley S., Magn
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
-### <a name="In revision">In revision</a>
+<!-- ### <a name="In revision">In revision</a> -->
 
 
 
 ### <a name="In press">In press</a>
-
-Boyd P. W., Gattuso J.-P., Dai M., Legendre L., Satterfield T. & Webb R., in press. The need to explore the potential of marine CDR – A guide for policy makers. New-York: Sabin Center for Climate Change Law, Columbia Law School.
 
 Carlot J., Galobart C., Gomez-Gras D., Santamaría, Golo R., Sini M., Cebrián E., Gerovasileiou V., Ponti M., Turicchia E., Comeau S., Rilov G., Tamburello L., Pulido Mantas T., Cerrano C., Ledoux J.-B., Gattuso J.-P., Ramirez-Calero S., Millán Agudo L., Montefalcone M., Katsanevakis S., Bensoussan N., Garrabou Q. & Teixido N., in press. Erosion of trait diversity across the Mediterranean Sea following anthropogenically driven mortality events. <i>Nature Communications</i>.
 
@@ -40,6 +38,8 @@ Metzl N., Fin J., Lo Monaco C., Mignon C., Alliouane S., Antoine D., Bourdin G.,
 
 
 ### <a name="2025">2025</a>
+
+Boyd P. W., Gattuso J.-P., Dai M., Legendre L., Satterfield T. & Webb R., 2025 The need to explore the potential of marine CDR – A guide for policy makers. New-York: Sabin Center for Climate Change Law, Columbia University. [<a href="https://doi.org/10.5281/zenodo.14692650">pdf</a>].
 
 Oschlies A., Bach L., Fennel K., Gattuso J.-P. & Mengis N., 2024. Perspectives and challenges of marine carbon dioxide removal. <i>Frontiers in Climate</i> 6. [<a href="https://doi.org/10.3389/fclim.2024.1506181">Abstract</a>].
 
