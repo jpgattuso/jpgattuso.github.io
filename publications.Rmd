@@ -16,7 +16,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### <a name="Submitted">Submitted</a>
 
-Boyd P., Gattuso J.-P., Legendre L., Moustakis Y. & Pongratz J., Nov. 2024. Effective carbon dioxide removal requires a One-Earth approach. <i>Environmental Research Letters</i>. 
+Boyd P., Gattuso J.-P., Legendre L., Moustakis Y. & Pongratz J., Nov. 2024. Effective carbon dioxide removal requires a One-Earth approach. <i>Environmental Research Letters</i>.
+
+Gattuso J.-P., Houllier F., Adams J. B., Amon D., Bambridge T., Cheung W. W. L., Chiba S., Cortés J., Duarte C. M., Frölicher T. L., Gelcich S., Gjerde K., Greaves D., Haugan P., Li D., Takoko M. & Tuda A., Jan. 2025. Integrated science and knowledge for ocean action. <i>Nature</i>.
 
 Hassoun A. E. R., Mojtahid M., Merheb M., Lionello P., Gattuso J.-P. & Cramer W., Nov. 2024. Climate change risks on key open marine and coastal Mediterranean ecosystems. <i>Scientific Reports</i>.
 
@@ -40,6 +42,10 @@ Metzl N., Fin J., Lo Monaco C., Mignon C., Alliouane S., Antoine D., Bourdin G.,
 ### <a name="2025">2025</a>
 
 Boyd P. W., Gattuso J.-P., Dai M., Legendre L., Satterfield T. & Webb R., 2025 The need to explore the potential of marine CDR – A guide for policy makers. New-York: Sabin Center for Climate Change Law, Columbia University. [<a href="https://doi.org/10.5281/zenodo.14692650">pdf</a>].
+
+Gattuso J.-P., Houllier F., Adams J. B., Amon D., Bambridge T., Cheung W. W. L., Chiba S., Cortés J., Duarte C. M., Frölicher T. L., Gelcich S., Gjerde K., Greaves D., Haugan P., Li D., Takoko M. & Tuda A., 2025. <i>Recommendations to Heads of State and Government from the International Scientific Committee of the One Ocean Science Congress</i>. 14 p. One Ocean Science Congress.
+
+Gattuso J.-P., Houllier F., Adams J. B., Amon D., Bambridge T., Cheung W. W. L., Chiba S., Cortés J., Duarte C. M., Frölicher T. L., Gelcich S., Gjerde K., Greaves D., Haugan P., Li D., Takoko M. & Tuda A., 2025. Urgent call to action to conserve and restore shallow-water coral reefs. International Scientific Committee of the One Ocean Science Congress, Nice, 3-6 June 2025. p. Nice: One Ocean Science Congress.
 
 Oschlies A., Bach L., Fennel K., Gattuso J.-P. & Mengis N., 2024. Perspectives and challenges of marine carbon dioxide removal. <i>Frontiers in Climate</i> 6. [<a href="https://doi.org/10.3389/fclim.2024.1506181">Abstract</a>].
 
