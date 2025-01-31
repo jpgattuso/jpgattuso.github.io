@@ -22,7 +22,7 @@ Gattuso J.-P., Houllier F., Adams J. B., Amon D., Bambridge T., Cheung W. W. L.,
 
 Hassoun A. E. R., Mojtahid M., Merheb M., Lionello P., Gattuso J.-P. & Cramer W., Nov. 2024. Climate change risks on key open marine and coastal Mediterranean ecosystems. <i>Scientific Reports</i>.
 
-Hulver A. M., Teixidó N., Kemp D. W., Keister E. F., Gattuso J.-P. & Grottoli A. G., Nov. 2024. High heterotrophic capacity underlies success of Mediterranean corals under ocean acidification conditions at CO<sub>2</sub> vents. <i>PLoS Biology</i>.
+Hulver A. M., Teixidó N., Kemp D. W., Keister E. F., Gattuso J.-P. & Grottoli A. G., Jan. 2025. High heterotrophic capacity favors Mediterranean coral success and resilience in the face of ocean acidification <i>Ecology</i>.
 
 Veytia D., Mariani G., Marti Barclay V., Airoldi L., Claudet J., Cooley S., Magnan A., Neill S., Sumaila R., Thébaud O., Voolstra C. R., Williamson P., Bonnin M., Langridge J., Comte A., Viard F., Shin Y.-J., Bopp L. & Gattuso J.-P., Dec. 2024. Ocean-related options for climate change mitigation and adaptation: A machine learning-based evidence map. <i>npj Ocean Sustainability</i>.
 
@@ -45,7 +45,7 @@ Boyd P. W., Gattuso J.-P., Dai M., Legendre L., Satterfield T. & Webb R., 2025 T
 
 Gattuso J.-P., Houllier F., Adams J. B., Amon D., Bambridge T., Cheung W. W. L., Chiba S., Cortés J., Duarte C. M., Frölicher T. L., Gelcich S., Gjerde K., Greaves D., Haugan P., Li D., Takoko M. & Tuda A., 2025. <i>Recommendations to Heads of State and Government from the International Scientific Committee of the One Ocean Science Congress</i>. 14 p. One Ocean Science Congress.
 
-Gattuso J.-P., Houllier F., Adams J. B., Amon D., Bambridge T., Cheung W. W. L., Chiba S., Cortés J., Duarte C. M., Frölicher T. L., Gelcich S., Gjerde K., Greaves D., Haugan P., Li D., Takoko M. & Tuda A., 2025. Urgent call to action to conserve and restore shallow-water coral reefs. International Scientific Committee of the One Ocean Science Congress, Nice, 3-6 June 2025. p. Nice: One Ocean Science Congress.
+Gattuso J.-P., Houllier F., Adams J. B., Amon D., Bambridge T., Cheung W. W. L., Chiba S., Cortés J., Duarte C. M., Frölicher T. L., Gelcich S., Gjerde K., Greaves D., Haugan P., Li D., Takoko M. & Tuda A., 2025. Urgent call to action to conserve and restore shallow-water coral reefs. International Scientific Committee of the One Ocean Science Congress, Nice, 3-6 June 2025. 1 p. Nice: One Ocean Science Congress.
 
 Oschlies A., Bach L., Fennel K., Gattuso J.-P. & Mengis N., 2024. Perspectives and challenges of marine carbon dioxide removal. <i>Frontiers in Climate</i> 6. [<a href="https://doi.org/10.3389/fclim.2024.1506181">Abstract</a>].
 
