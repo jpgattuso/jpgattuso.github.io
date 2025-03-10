@@ -24,6 +24,8 @@ Hassoun A. E. R., Mojtahid M., Merheb M., Lionello P., Gattuso J.-P. & Cramer W.
 
 Hulver A. M., Teixidó N., Kemp D. W., Keister E. F., Gattuso J.-P. & Grottoli A. G., Jan. 2025. High heterotrophic capacity favors Mediterranean coral success and resilience in the face of ocean acidification <i>Ecology</i>.
 
+Jiang L.-Q., Fay A., Müller J. D., Keppler L., Carroll D., Lauvset S. K., DeVries T., Hauck J., Rödenbeck C., Gregor L., Metzl N., Fassbender A. J., Gattuso J.-P., Landschützer P., Wanninkhof R., Sabine C., Alin S. R., Hoppema M., Olsen A., Humphreys M. P., Azetsu-Scott K., Bakker D. C. E., Barbero L., Bates N. R., Besemer N., Bittig H. C., Boyd A. E., Broullón D., Cai W.-J., Carter B. R., Chau T. T. T., Chen C.-T. A., Cyr F., Dore J. E., Enochs I., Feely R. A., Garcia H. E., Gehlen M., Gloege L., González-Dávila M., Gruber N., Iida Y., Ishii M., Kennedy E., Kozyr A., Lange N., Monaco C., Manzello D. P., McKinley G. A., Monacci N. M., Padin X. A., Palacio-Castro A. M., Pérez F. F., Roobaert A., Santana-Casiano J. M., Sharp J., Adrenne Sutton A., Swift J., Tanhua T., Telszewski M., Terhaar J., van Hooidonk R., Velo A., Watson A. J., White A. E., Wu Z., Yoo H. & Zeng J., March 2025. Synthesis of data products for ocean carbonate chemistry. <i>Earth System Science Data Discussions</i>.
+
 Veytia D., Mariani G., Marti Barclay V., Airoldi L., Claudet J., Cooley S., Magnan A., Neill S., Sumaila R., Thébaud O., Voolstra C. R., Williamson P., Bonnin M., Langridge J., Comte A., Viard F., Shin Y.-J., Bopp L. & Gattuso J.-P., Dec. 2024. Ocean-related options for climate change mitigation and adaptation: A machine learning-based evidence map. <i>npj Ocean Sustainability</i>.
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
@@ -34,12 +36,12 @@ Veytia D., Mariani G., Marti Barclay V., Airoldi L., Claudet J., Cooley S., Magn
 
 ### <a name="In press">In press</a>
 
-Metzl N., Fin J., Lo Monaco C., Mignon C., Alliouane S., Antoine D., Bourdin G., Boutin J., Bozec Y., Conan P., Coppola L., Douville E., Durrieu de Madron X., Gattuso J.-P., Gazeau F., Golbol M., Lansard B., Lefèvre D., Lefèvre N., Lombard F., Louanchi F., Merlivat L., Olivier L., Petrenko A., Petton S., Pujo-Pay M., Rabouille C., Reverdin G., Ridame C., Tribollet A., Vellucci V., Wagener T. & Wimart-Rousseau C., in press A synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2023: the SNAPO-CO2-v2 dataset. <i>Earth System Science Data</i>. [<a href="https://essd.copernicus.org/preprints/essd-2024-464/" target="_blank">Discussion paper</a>].
+Metzl N., Fin J., Lo Monaco C., Mignon C., Alliouane S., Antoine D., Bourdin G., Boutin J., Bozec Y., Conan P., Coppola L., Douville E., Durrieu de Madron X., Gattuso J.-P., Gazeau F., Golbol M., Lansard B., Lefèvre D., Lefèvre N., Lombard F., Louanchi F., Merlivat L., Olivier L., Petrenko A., Petton S., Pujo-Pay M., Rabouille C., Reverdin G., Ridame C., Tribollet A., Vellucci V., Wagener T. & Wimart-Rousseau C., in press. A synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2023: the SNAPO-CO2-v2 dataset. <i>Earth System Science Data</i>. [<a href="https://essd.copernicus.org/preprints/essd-2024-464/" target="_blank">Discussion paper</a>].
 
 
 ### <a name="2025">2025</a>
 
-Boyd P. W., Gattuso J.-P., Dai M., Legendre L., Satterfield T. & Webb R., 2025 The need to explore the potential of marine CDR – A guide for policy makers. New-York: Sabin Center for Climate Change Law, Columbia University. [<a href="https://doi.org/10.5281/zenodo.14692650">pdf</a>].
+Boyd P. W., Gattuso J.-P., Dai M., Legendre L., Satterfield T. & Webb R., 2025. The need to explore the potential of marine CDR – A guide for policy makers. New-York: Sabin Center for Climate Change Law, Columbia University. [<a href="https://doi.org/10.5281/zenodo.14692650">pdf</a>].
 
 Carlot J., Galobart C., Gomez-Gras D., Santamaría, Golo R., Sini M., Cebrián E., Gerovasileiou V., Ponti M., Turicchia E., Comeau S., Rilov G., Tamburello L., Pulido Mantas T., Cerrano C., Ledoux J.-B., Gattuso J.-P., Ramirez-Calero S., Millán Agudo L., Montefalcone M., Katsanevakis S., Bensoussan N., Garrabou Q. & Teixido N., 2025. Vulnerability of benthic trait diversity across the Mediterranean Sea following mass mortality events. <i>Nature Communications</i> 16:1521.  [<a href="https://doi.org/10.1038/s41467-025-55949-0">Abstract</a>].
 
