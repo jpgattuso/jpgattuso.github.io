@@ -16,12 +16,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### <a name="Submitted">Submitted</a>
 
-Gattuso J.-P., Houllier F., Adams J. B., Amon D., Bambridge T., Cheung W. W. L., Chiba S., Cortés J., Duarte C. M., Frölicher T. L., Gelcich S., Gjerde K., Greaves D., Haugan P., Li D., Takoko M. & Tuda A., Jan. 2025. Integrated science and knowledge for ocean action. <i>Nature</i>.
+<!-- Gattuso J.-P., Houllier F., Adams J. B., Amon D., Bambridge T., Cheung W. W. L., Chiba S., Cortés J., Duarte C. M., Frölicher T. L., Gelcich S., Gjerde K., Greaves D., Haugan P., Li D., Takoko M. & Tuda A., Jan. 2025. Integrated science and knowledge for ocean action. <i>Nature</i>. -->
 
 
 <!-- Jiang L.-Q., Fay A., Müller J. D., Keppler L., Carroll D., Lauvset S. K., DeVries T., Hauck J., Rödenbeck C., Gregor L., Metzl N., Fassbender A. J., Gattuso J.-P., Landschützer P., Wanninkhof R., Sabine C., Alin S. R., Hoppema M., Olsen A., Humphreys M. P., Azetsu-Scott K., Bakker D. C. E., Barbero L., Bates N. R., Besemer N., Bittig H. C., Boyd A. E., Broullón D., Cai W.-J., Carter B. R., Chau T. T. T., Chen C.-T. A., Cyr F., Dore J. E., Enochs I., Feely R. A., Garcia H. E., Gehlen M., Gloege L., González-Dávila M., Gruber N., Iida Y., Ishii M., Kennedy E., Kozyr A., Lange N., Monaco C., Manzello D. P., McKinley G. A., Monacci N. M., Padin X. A., Palacio-Castro A. M., Pérez F. F., Roobaert A., Santana-Casiano J. M., Sharp J., Adrenne Sutton A., Swift J., Tanhua T., Telszewski M., Terhaar J., van Hooidonk R., Velo A., Watson A. J., White A. E., Wu Z., Yoo H. & Zeng J., March 2025. Synthesis of data products for ocean carbonate chemistry. <i>Earth System Science Data Discussions</i>. -->
 
-Veytia D., Mariani G., Marti Barclay V., Airoldi L., Claudet J., Cooley S., Magnan A., Neill S., Sumaila R., Thébaud O., Voolstra C. R., Williamson P., Bonnin M., Langridge J., Comte A., Viard F., Shin Y.-J., Bopp L. & Gattuso J.-P., Dec. 2024. Ocean-related options for climate change mitigation and adaptation: A machine learning-based evidence map. <i>npj Ocean Sustainability</i>.
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
@@ -30,6 +29,8 @@ Veytia D., Mariani G., Marti Barclay V., Airoldi L., Claudet J., Cooley S., Magn
 Boyd P., Gattuso J.-P., Legendre L., Moustakis Y. & Pongratz J., Nov. 2024. Effective carbon dioxide removal requires a One-Earth approach. <i>Environmental Research Letters</i>.
 
 Hassoun A. E. R., Mojtahid M., Merheb M., Lionello P., Gattuso J.-P. & Cramer W., Nov. 2024. Climate change risks on key open marine and coastal Mediterranean ecosystems. <i>Scientific Reports</i>.
+
+Veytia D., Mariani G., Marti Barclay V., Airoldi L., Claudet J., Cooley S., Magnan A., Neill S., Sumaila R., Thébaud O., Voolstra C. R., Williamson P., Bonnin M., Langridge J., Comte A., Viard F., Shin Y.-J., Bopp L. & Gattuso J.-P., April 2025. Ocean-related options for climate change mitigation and adaptation: A machine learning-based evidence map. <i>npj Ocean Sustainability</i>.
 
 
 ### <a name="In press">In press</a>
