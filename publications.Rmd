@@ -16,6 +16,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### <a name="Submitted">Submitted</a>
 
+Carlot J., Comeau S., Chiarore A., Mirasole A., Alliouane A., Micheli F., Hurd C. L., Gattuso J.-P. & Teixidó N., Apr. 2025. Unravelling marine benthic functioning trade-offs under ocean acidification. <i>Nature Climate Change</i>. 
+
 <!-- Gattuso J.-P., Houllier F., Adams J. B., Amon D., Bambridge T., Cheung W. W. L., Chiba S., Cortés J., Duarte C. M., Frölicher T. L., Gelcich S., Gjerde K., Greaves D., Haugan P., Li D., Takoko M. & Tuda A., Jan. 2025. Integrated science and knowledge for ocean action. <i>Nature</i>. -->
 
 
