@@ -18,13 +18,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Carlot J., Comeau S., Chiarore A., Mirasole A., Alliouane A., Micheli F., Hurd C. L., Gattuso J.-P. & Teixidó N., Apr. 2025. Unravelling marine benthic functioning trade-offs under ocean acidification. <i>Nature Climate Change</i>.
 
-<<<<<<< HEAD
 Jiang L.-Q., Fay A., Müller J. D., Keppler L., Carroll D., Lauvset S. K., DeVries T., Hauck J., Rödenbeck C., Gregor L., Metzl N., Fassbender A. J., Gattuso J.-P., Landschützer P., Wanninkhof R., Sabine C., Alin S. R., Hoppema M., Olsen A., Humphreys M. P., Azetsu-Scott K., Bakker D. C. E., Barbero L., Bates N. R., Besemer N., Bittig H. C., Boyd A. E., Broullón D., Cai W.-J., Carter B. R., Chau T. T. T., Chen C.-T. A., Cyr F., Dore J. E., Enochs I., Feely R. A., Garcia H. E., Gehlen M., Gloege L., González-Dávila M., Gruber N., Iida Y., Ishii M., Kennedy E., Kozyr A., Lange N., Monaco C., Manzello D. P., McKinley G. A., Monacci N. M., Padin X. A., Palacio-Castro A. M., Pérez F. F., Roobaert A., Santana-Casiano J. M., Sharp J., Adrenne Sutton A., Swift J., Tanhua T., Telszewski M., Terhaar J., van Hooidonk R., Velo A., Watson A. J., White A. E., Wu Z., Yoo H. & Zeng J., May 2025. Synthesis of data products for ocean carbonate chemistry. <i>Earth System Science Data Discussions</i>.
 
 Pernet F., Dupont S., Gattuso J.-P., Metian M. & Gazeau F., April 2025. Bivalve farming is not a CO2 sink: From myth to legend — Where is science? <i>Reviews in Aquaculture</i>.
-=======
-Pernet F., Dupont S., Gattuso J.-P., Metian M. & Gazeau F., April 2025. Bivalve farming is not a CO<sub>2</sub> sink: From myth to legend — Where is science? <i>Reviews in Aquaculture</i>.
->>>>>>> 4d6db99cf015b4155c255db8ce8d95512c43d5e3
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
