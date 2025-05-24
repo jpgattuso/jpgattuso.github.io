@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### <a name="Submitted">Submitted</a>
 
-Carlot J., Comeau S., Chiarore A., Mirasole A., Alliouane A., Micheli F., Hurd C. L., Gattuso J.-P. & Teixidó N., May 2025. Unravelling marine benthic functioning trade-offs under ocean acidification. <i>One Earth</i>.
+Carlot J., Comeau S., Chiarore A., Mirasole A., Alliouane A., Micheli F., Hurd C. L., Gattuso J.-P. & Teixidó N., May 2025. Unravelling marine benthic functioning trade-offs under ocean acidification. <i>Global Change Biology</i>.
 
 Castro de la Guardia L., Bartsch I., Hop H., Niedzwiedz S., Düsedau L., Diehl N., Krause-Jensen D., Sejr M., Ager T., Gattuso J.-P., Schlegel R., Miller C., Filbee-Dexter K. & Duarte P., May 2025. Predicting potential Arctic kelp distribution and lower-depth biomass from seafloor irradiance. <i>Limnology and Oceanography: Methods</i>. 
 
@@ -36,6 +36,8 @@ Veytia D., Mariani G., Marti Barclay V., Airoldi L., Claudet J., Cooley S., Magn
 
 
 ### <a name="In press">In press</a>
+
+Doney S., Lebling K., Ashford O. S., Pearce C. R., Burns W., Nawaz S., Satterfield T., Findlay H. S., Gallo N. D., Gattuso J.-P., Halloran P., Ho D. T., Levin L. A., Savoldelli C., Singh P. A. & Webb R., 2025. Principles for responsible and effective marine carbon dioxide removal development and governance. Washington, DC: World Resources Institute. [<a href="https://doi.org/10.69902/84b3a9a8">Blue Paper</a>]
 
 Lebrun A., Miller C., Gazeau F., Urruti P., Alliouane S., Gattuso J.-P. & Comeau S., in press. Tolerance of organisms composing an Arctic kelp community to ocean warming and marine heatwaves. <i>Journal of Ecology</i>.
 
