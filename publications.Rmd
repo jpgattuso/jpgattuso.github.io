@@ -22,8 +22,6 @@ Castro de la Guardia L., Bartsch I., Hop H., Niedzwiedz S., Düsedau L., Diehl N
 
 Jiang L.-Q., Fay A., Müller J. D., Keppler L., Carroll D., Lauvset S. K., DeVries T., Hauck J., Rödenbeck C., Gregor L., Metzl N., Fassbender A. J., Gattuso J.-P., Landschützer P., Wanninkhof R., Sabine C., Alin S. R., Hoppema M., Olsen A., Humphreys M. P., Azetsu-Scott K., Bakker D. C. E., Barbero L., Bates N. R., Besemer N., Bittig H. C., Boyd A. E., Broullón D., Cai W.-J., Carter B. R., Chau T. T. T., Chen C.-T. A., Cyr F., Dore J. E., Enochs I., Feely R. A., Garcia H. E., Gehlen M., Gloege L., González-Dávila M., Gruber N., Iida Y., Ishii M., Kennedy E., Kozyr A., Lange N., Monaco C., Manzello D. P., McKinley G. A., Monacci N. M., Padin X. A., Palacio-Castro A. M., Pérez F. F., Roobaert A., Santana-Casiano J. M., Sharp J., Adrenne Sutton A., Swift J., Tanhua T., Telszewski M., Terhaar J., van Hooidonk R., Velo A., Watson A. J., White A. E., Wu Z., Yoo H. & Zeng J., May 2025. Synthesis of data products for ocean carbonate chemistry. <i>Earth System Science Data Discussions</i> [<a href="https://doi.org/10.5194/essd-2025-255">Discussion paper</a>].
 
-Pernet F., Dupont S., Gattuso J.-P., Metian M. & Gazeau F., April 2025. Bivalve farming is not a CO<sub>2</sub> sink: From myth to legend — Where is science? <i>Reviews in Aquaculture</i>.
-
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
 ### <a name="In revision">In revision</a>
@@ -31,6 +29,8 @@ Pernet F., Dupont S., Gattuso J.-P., Metian M. & Gazeau F., April 2025. Bivalve 
 Boyd P., Gattuso J.-P., Legendre L., Moustakis Y. & Pongratz J., Nov. 2024. Effective carbon dioxide removal requires a One-Earth approach. <i>Environmental Research Letters</i>.
 
 Hassoun A. E. R., Mojtahid M., Merheb M., Lionello P., Gattuso J.-P. & Cramer W., Nov. 2024. Climate change risks on key open marine and coastal Mediterranean ecosystems. <i>Scientific Reports</i>.
+
+Pernet F., Dupont S., Gattuso J.-P., Metian M. & Gazeau F., April 2025. Bivalve farming is not a CO<sub>2</sub> sink: From myth to legend — Where is science? <i>Reviews in Aquaculture</i>.
 
 Veytia D., Mariani G., Marti Barclay V., Airoldi L., Claudet J., Cooley S., Magnan A., Neill S., Sumaila R., Thébaud O., Voolstra C. R., Williamson P., Bonnin M., Langridge J., Comte A., Viard F., Shin Y.-J., Bopp L. & Gattuso J.-P., April 2025. Ocean-related options for climate change mitigation and adaptation: A machine learning-based evidence map. <i>npj Ocean Sustainability</i>.
 
@@ -50,9 +50,13 @@ Carlot J., Galobart C., Gomez-Gras D., Santamaría, Golo R., Sini M., Cebrián E
 
 Gattuso J.-P. & Houllier F., 2025. June 2025: Nice, capital of the world ocean. <i>Arts et Sciences</i> 9:3-8. [<a href="https://doi.org/10.21494/iste.op.2025.1287">Abstract</a>]
 
-Gattuso J.-P., Houllier F., Adams J. B., Amon D., Bambridge T., Cheung W. W. L., Chiba S., Cortés J., Duarte C. M., Frölicher T. L., Gelcich S., Gjerde K., Greaves D., Haugan P., Li D., Takoko M. & Tuda A., 2025. <i>Recommendations to Heads of State and Government from the International Scientific Committee of the One Ocean Science Congress</i>. 14 p. One Ocean Science Congress.
+Gattuso J.-P., Houllier F., Adams J. B., Amon D., Bambridge T., Cheung W. W. L., Chiba S., Cortés J., Duarte C. M., Frölicher T. L., Gelcich S., Gjerde K., Greaves D., Haugan P., Li D., Takoko M. & Tuda A., 2025. Knowledge for a thriving ocean. Paris: Iddri and Institut Jacques Delors.  [<a href="https://doi.org/10.5281/zenodo.15533851">Abstract</a>]
 
-Gattuso J.-P., Houllier F., Adams J. B., Amon D., Bambridge T., Cheung W. W. L., Chiba S., Cortés J., Duarte C. M., Frölicher T. L., Gelcich S., Gjerde K., Greaves D., Haugan P., Li D., Takoko M. & Tuda A., 2025. Urgent call to action to conserve and restore shallow-water coral reefs. International Scientific Committee of the One Ocean Science Congress, Nice, 3-6 June 2025. 1 p. Nice: One Ocean Science Congress.
+Gattuso J.-P., Houllier F., Adams J., Amon D., Bambridge T., Cheung W. W. L., Chiba S., Cortés J., Duarte C. M., Frölicher T. L., Gelcich S., Gjerde K., Greaves D., Haugan P., Li D. & Tuda A., 2025. US federal cuts threaten international ocean science and diplomacy. <i>Nature Ecology & Evolution</i>. [<a href="https://doi.org/10.1038/s41559-025-02750-3">Abstract</a>]
+
+Gattuso J.-P., Houllier F., Adams J. B., Amon D., Bambridge T., Cheung W. W. L., Chiba S., Cortés J., Duarte C. M., Frölicher T. L., Gelcich S., Gjerde K., Greaves D., Haugan P., Li D., Takoko M. & Tuda A., 2025. <i>Recommendations to Heads of State and Government from the International Scientific Committee of the One Ocean Science Congress</i>. Nice: One Ocean Science Congress. [<a href="https://doi.org/10.5281/zenodo.14361191">Abstract</a>]
+
+Gattuso J.-P., Houllier F., Adams J. B., Amon D., Bambridge T., Cheung W. W. L., Chiba S., Cortés J., Duarte C. M., Frölicher T. L., Gelcich S., Gjerde K., Greaves D., Haugan P., Li D., Takoko M. & Tuda A., 2025. Urgent call to action to conserve and restore shallow-water coral reefs. International Scientific Committee of the One Ocean Science Congress, Nice, 3-6 June 2025. Nice: One Ocean Science Congress. [<a href="https://doi.org/10.5281/zenodo.14649769">Abstract</a>]
 
 Hulver A. M., Teixidó N., Kemp D. W., Keister E. F., Gattuso J.-P. & Grottoli A. G., 2025. High heterotrophic capacity favors Mediterranean coral success and resilience in the face of ocean acidification. <i>Coral Reefs</i>. [<a href="https://doi.org/10.1007/s00338-025-02663-4">Abstract</a>]
 
