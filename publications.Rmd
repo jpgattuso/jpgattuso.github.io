@@ -36,7 +36,6 @@ Veytia D., Mariani G., Marti Barclay V., Airoldi L., Claudet J., Cooley S., Magn
 
 
 ### <a name="In press">In press</a>
-Hassoun A. E. R., Mojtahid M., Merheb M., Lionello P., Gattuso J.-P. & Cramer W., 2025. Climate change risks on key open marine and coastal Mediterranean ecosystems. <i>Scientific Reports</i>.
 
 ### <a name="2025">2025</a>
 
@@ -55,6 +54,8 @@ Gattuso J.-P., Houllier F., Adams J., Amon D., Bambridge T., Cheung W. W. L., Ch
 Gattuso J.-P., Houllier F., Adams J. B., Amon D., Bambridge T., Cheung W. W. L., Chiba S., Cortés J., Duarte C. M., Frölicher T. L., Gelcich S., Gephart J., Gjerde K., Greaves D., Haugan P., Li D., Takoko M. & Tuda A., 2025. <i>Recommendations to Heads of State and Government from the One Ocean Science Congress</i>. Nice: One Ocean Science Congress. [<a href="https://doi.org/10.5281/zenodo.14361191">Abstract</a>]
 
 Gattuso J.-P., Houllier F., Adams J. B., Amon D., Bambridge T., Cheung W. W. L., Chiba S., Cortés J., Duarte C. M., Frölicher T. L., Gelcich S., Gephart J., Gjerde K., Greaves D., Haugan P., Li D., Takoko M. & Tuda A., 2025. Urgent call to action to conserve and restore shallow-water coral reefs. Nice: One Ocean Science Congress. [<a href="https://doi.org/10.5281/zenodo.14649769">Abstract</a>]
+
+Hassoun A. E. R., Mojtahid M., Merheb M., Lionello P., Gattuso J.-P. & Cramer W., 2025. Climate change risks on key open marine and coastal Mediterranean ecosystems. <i>Scientific Reports</i> 15:24907.  [<a href="https://doi.org/10.1038/s41598-025-07858-x">Abstract</a>]
 
 Hulver A. M., Teixidó N., Kemp D. W., Keister E. F., Gattuso J.-P. & Grottoli A. G., 2025. High heterotrophic capacity favors Mediterranean coral success and resilience in the face of ocean acidification. <i>Coral Reefs</i>. [<a href="https://doi.org/10.1007/s00338-025-02663-4">Abstract</a>]
 
