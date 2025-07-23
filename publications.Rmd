@@ -30,12 +30,10 @@ Jiang L.-Q., Fay A., Müller J. D., Keppler L., Carroll D., Lauvset S. K., DeVri
 
 Boyd P., Gattuso J.-P., Legendre L., Moustakis Y. & Pongratz J., Nov. 2024. Effective carbon dioxide removal requires a One-Earth approach. <i>Environmental Research Letters</i>.
 
-Pernet F., Dupont S., Gattuso J.-P., Metian M. & Gazeau F., April 2025. Bivalve farming is not a CO<sub>2</sub> sink: From myth to legend — Where is science? <i>Reviews in Aquaculture</i>.
-
 Veytia D., Mariani G., Marti Barclay V., Airoldi L., Claudet J., Cooley S., Magnan A., Neill S., Sumaila R., Thébaud O., Voolstra C. R., Williamson P., Bonnin M., Langridge J., Comte A., Viard F., Shin Y.-J., Bopp L. & Gattuso J.-P., April 2025. Ocean-related options for climate change mitigation and adaptation: A machine learning-based evidence map. <i>npj Ocean Sustainability</i>.
 
 
-### <a name="In press">In press</a>
+<!-- ### <a name="In press">In press</a> -->
 
 ### <a name="2025">2025</a>
 
@@ -66,6 +64,8 @@ Metzl N., Fin J., Lo Monaco C., Mignon C., Alliouane S., Antoine D., Bourdin G.,
 Oschlies A., Bach L., Fennel K., Gattuso J.-P. & Mengis N., 2024. Perspectives and challenges of marine carbon dioxide removal. <i>Frontiers in Climate</i> 6. [<a href="https://doi.org/10.3389/fclim.2024.1506181">Abstract</a>].
 
 Pernet F., Dupond S., Gattuso J.-P., Metian M. & Gazeau F., 2025. Cracking the myth: Bivalve farming is not a CO<sub>2</sub> sink. <i>Reviews in Aquaculture</i> 17:e12954. [<a href="https://doi.org/10.1111/raq.12954">Abstract</a>].
+
+Pernet F., Dupont S., Gattuso J.-P., Metian M. & Gazeau F., 2025. Bivalve farming is not a CO<sub>2</sub> sink: From myth to legend — Where is science? <i>Reviews in Aquaculture</i> 17:e70067. [<a href="https://doi.org/10.1111/raq.70067">Abstract</a>].
 
 Veytia D., Comte A., Viard F., Gattuso J.-P., Bopp L., Bonnin M. & Shin Y., 2025. Océan et climat : quelles options pour demain ? Un regard sur la recherche en France. <i>The Conversation</i>. [<a href="https://theconversation.com/ocean-et-climat-quelles-options-pour-demain-un-regard-sur-la-recherche-en-france-257762">Article</a>].
 
