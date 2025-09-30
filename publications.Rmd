@@ -32,7 +32,9 @@ Kindeberg T., Teixidó N., Comeau S., Gattuso J.-P., Gasser B., Mirasole A., All
 
 Boyd P., Gattuso J.-P., Legendre L., Moustakis Y. & Pongratz J., Nov. 2024. Effective carbon dioxide removal requires a One-Earth approach. <i>Environmental Research Letters</i>.
 
-<!-- ### <a name="In press">In press</a> -->
+### <a name="In press">In press</a>
+Veytia D., Mariani G., Marti Barclay V., Airoldi L., Claudet J., Cooley S., Magnan A., Neill S., Sumaila R., Thébaud O., Voolstra C. R., Williamson P., Bonnin M., Langridge J., Comte A., Viard F., Shin Y.-J., Bopp L. & Gattuso J.-P., in press. A machine learning-based evidence map of ocean-related options for climate change mitigation and adaptation. <i>npj Ocean Sustainability</i>.
+
 
 ### <a name="2025">2025</a>
 
@@ -68,7 +70,6 @@ Pernet F., Dupont S., Gattuso J.-P., Metian M. & Gazeau F., 2025. Bivalve farmin
 
 Veytia D., Comte A., Viard F., Gattuso J.-P., Bopp L., Bonnin M. & Shin Y., 2025. Océan et climat : quelles options pour demain ? Un regard sur la recherche en France. <i>The Conversation</i>. [<a href="https://theconversation.com/ocean-et-climat-quelles-options-pour-demain-un-regard-sur-la-recherche-en-france-257762">Article</a>].
 
-Veytia D., Mariani G., Marti Barclay V., Airoldi L., Claudet J., Cooley S., Magnan A., Neill S., Sumaila R., Thébaud O., Voolstra C. R., Williamson P., Bonnin M., Langridge J., Comte A., Viard F., Shin Y.-J., Bopp L. & Gattuso J.-P., 2025. Ocean-related options for climate change mitigation and adaptation: A machine learning-based evidence map. <i>npj Ocean Sustainability</i>.
 
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
