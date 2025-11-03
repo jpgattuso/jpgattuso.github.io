@@ -18,8 +18,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Carlot J., Comeau S., Chiarore A., Mirasole A., Alliouane A., Micheli F., Hurd C. L., Gattuso J.-P. & Teixidó N., May 2025. Unraveling marine benthic functioning trade-offs under ocean acidification. <i>Ecology Letters</i>.
 
-Castro de la Guardia L., Bartsch I., Hop H., Niedzwiedz S., Düsedau L., Diehl N., Krause-Jensen D., Sejr M., Ager T., Gattuso J.-P., Schlegel R., Miller C., Filbee-Dexter K. & Duarte P., May 2025. Predicting potential Arctic kelp distribution and lower-depth biomass from seafloor irradiance. <i>Limnology and Oceanography: Methods</i>. 
-
 Hoffmann L., Bach L., Bauer K. W., Cross J., Ghos A., Hernández‐Ayón J. M., Kvale K., Lencina-Avila J. M., Matovu B., Shaltout N., Somorin I. A., Mafuwane H. C., Van Dam B., Abubakari M., Allela A. K., Anderson H., Arora P., Atamanchuk D., Avrutin S., Baker C. A., Bednaršek N., Bell T., Bernardello R., T B., Burfat M. A., Cassar N., Chadsey M., Chase Z., Cotovicz Jr. L. C., Croot P., da Consolação de O. Carvalho A., De Ramon N’Yeurt A., Dias-Wanigasekera B. M., Dillon W., Ellwood M., Fennel K., Gattuso J.-P., Grabb K., Halloran, Howard W., B Jaraula C. M. B., Jupesta J., Karspeck A., Keller L., Kitidis V., Law C., Liu J., Long J., López-Abbate C., Adell Magak V. B. A., Meléndez M., Mengis N., Mills R., Möller K. O., Müller J. D., Osma N., Palter J., Park K., Pearce C., Quintana C., Rackely S., Rafter P., Rengi G., Renó de Oliveira R., Ringham M., Rohr T., Sabine C., Shadwick E., Simancas-Giraldo S. M., Singh A., Subhas A., Sutton A., Swaleh M., Tamsitt V., Trucco-Pignata P., Wallace D., Wang Y., Ward W., Xie Y. & Zitoun R., June 2025. Monitoring, reporting, and verification of marine carbon dioxide removal: exploring scientific consensus and divergences across continents. Earth’s Future. 
 
 Kindeberg T., Teixidó N., Comeau S., Gattuso J.-P., Gasser B., Mirasole A., Alliouane S., Kalaitzakis I., Bercebe D., Cornwall C. & Masqué P., Sep. 2025. Ocean acidification enhances carbon burial in seagrass meadows: new insights from CO<sub>2</sub> vents. <i>Nature Climate Change</i>.
@@ -28,11 +26,12 @@ Kindeberg T., Teixidó N., Comeau S., Gattuso J.-P., Gasser B., Mirasole A., All
 
 ### <a name="In revision">In revision</a>
 
+Castro de la Guardia L., Bartsch I., Hop H., Niedzwiedz S., Düsedau L., Diehl N., Krause-Jensen D., Sejr M., Ager T., Gattuso J.-P., Schlegel R., Miller C., Filbee-Dexter K. & Duarte P., Oct. 2025. Predicting potential Arctic kelp distribution and lower-depth biomass from seafloor irradiance. <i>Limnology and Oceanography: Methods</i>. 
+
 Jiang L.-Q., Fay A., Müller J. D., Keppler L., Carroll D., Lauvset S. K., DeVries T., Hauck J., Rödenbeck C., Gregor L., Metzl N., Fassbender A. J., Gattuso J.-P., Landschützer P., Wanninkhof R., Sabine C., Alin S. R., Hoppema M., Olsen A., Humphreys M. P., Azetsu-Scott K., Bakker D. C. E., Barbero L., Bates N. R., Besemer N., Bittig H. C., Boyd A. E., Broullón D., Cai W.-J., Carter B. R., Chau T. T. T., Chen C.-T. A., Cyr F., Dore J. E., Enochs I., Feely R. A., Garcia H. E., Gehlen M., Gloege L., González-Dávila M., Gruber N., Iida Y., Ishii M., Kennedy E., Kozyr A., Lange N., Monaco C., Manzello D. P., McKinley G. A., Monacci N. M., Padin X. A., Palacio-Castro A. M., Pérez F. F., Roobaert A., Santana-Casiano J. M., Sharp J., Adrenne Sutton A., Swift J., Tanhua T., Telszewski M., Terhaar J., van Hooidonk R., Velo A., Watson A. J., White A. E., Wu Z., Yoo H. & Zeng J., May 2025. Synthesis of data products for ocean carbonate chemistry. <i>Earth System Science Data Discussions</i> [<a href="https://doi.org/10.5194/essd-2025-255">Discussion paper</a>].
 
 
 ### <a name="In press">In press</a>
-Boyd P., Gattuso J.-P., Legendre L., Moustakis Y. & Pongratz J., in press. Effective carbon dioxide removal requires a One-Earth approach. <i>Environmental Research Letters</i>.
 
 Veytia D., Mariani G., Marti Barclay V., Airoldi L., Claudet J., Cooley S., Magnan A., Neill S., Sumaila R., Thébaud O., Voolstra C. R., Williamson P., Bonnin M., Langridge J., Comte A., Viard F., Shin Y.-J., Bopp L. & Gattuso J.-P., in press. A machine learning-based evidence map of ocean-related options for climate change mitigation and adaptation. <i>npj Ocean Sustainability</i>.
 
@@ -40,6 +39,8 @@ Veytia D., Mariani G., Marti Barclay V., Airoldi L., Claudet J., Cooley S., Magn
 ### <a name="2025">2025</a>
 
 Boyd P. W., Gattuso J.-P., Dai M., Legendre L., Satterfield T. & Webb R., 2025. The need to explore the potential of marine CDR – A guide for policy makers. New-York: Sabin Center for Climate Change Law, Columbia University. [<a href="https://doi.org/10.5281/zenodo.14692650">pdf</a>].
+
+Boyd P., Gattuso J.-P., Legendre L., Moustakis Y. & Pongratz J., 2025. Effective carbon dioxide removal requires a One-Earth approach. <i>Environmental Research Letters</i> 20:1004. [<a href="https://doi.org/10.1088/1748-9326/ae15a8">Abstract</a>].
 
 Carlot J., Galobart C., Gomez-Gras D., Santamaría, Golo R., Sini M., Cebrián E., Gerovasileiou V., Ponti M., Turicchia E., Comeau S., Rilov G., Tamburello L., Pulido Mantas T., Cerrano C., Ledoux J.-B., Gattuso J.-P., Ramirez-Calero S., Millán Agudo L., Montefalcone M., Katsanevakis S., Bensoussan N., Garrabou Q. & Teixido N., 2025. Vulnerability of benthic trait diversity across the Mediterranean Sea following mass mortality events. <i>Nature Communications</i> 16:1521.  [<a href="https://doi.org/10.1038/s41467-025-55949-0">Abstract</a>].
 
