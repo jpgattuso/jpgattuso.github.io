@@ -37,7 +37,6 @@ Kindeberg T., Teixidó N., Comeau S., Gattuso J.-P., Gasser B., Mirasole A., All
 
 Castro de la Guardia L., Bartsch I., Hop H., Niedzwiedz S., Düsedau L., Diehl N., Krause-Jensen D., Sejr M., Ager T., Gattuso J.-P., Schlegel R., Miller C., Filbee-Dexter K. & Duarte P., in press. Predicting potential Arctic kelp distribution and lower-depth biomass from seafloor irradiance. <i>Limnology and Oceanography: Methods</i>. 
 
-Veytia D., Mariani G., Marti Barclay V., Airoldi L., Claudet J., Cooley S., Magnan A., Neill S., Sumaila R., Thébaud O., Voolstra C. R., Williamson P., Bonnin M., Langridge J., Comte A., Viard F., Shin Y.-J., Bopp L. & Gattuso J.-P., in press. A machine learning-based evidence map of ocean-related options for climate change mitigation and adaptation. <i>npj Ocean Sustainability</i>.
 
 ### <a name="2026">2026</a>
 
@@ -84,6 +83,7 @@ Treyer S., Gattuso J.-P. & Houllier F., 2025. L’Océan et la recherche scienti
 
 Veytia D., Comte A., Viard F., Gattuso J.-P., Bopp L., Bonnin M. & Shin Y., 2025. Océan et climat : quelles options pour demain ? Un regard sur la recherche en France. <i>The Conversation</i>. [<a href="https://theconversation.com/ocean-et-climat-quelles-options-pour-demain-un-regard-sur-la-recherche-en-france-257762">Article</a>].
 
+Veytia D., Mariani G., Marti Barclay V., Airoldi L., Claudet J., Cooley S., Magnan A., Neill S., Sumaila R., Thébaud O., Voolstra C. R., Williamson P., Bonnin M., Langridge J., Comte A., Viard F., Shin Y.-J., Bopp L. & Gattuso J.-P., 2025. A machine learning-based evidence map of ocean-related options for climate change mitigation and adaptation. <i>npj Ocean Sustainability</i> 4:60. [<a href="https://doi.org/10.1038/s44183-025-00159-w">Article</a>].
 
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
