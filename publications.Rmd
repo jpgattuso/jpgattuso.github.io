@@ -36,8 +36,6 @@ Kindeberg T., Teixidó N., Comeau S., Gattuso J.-P., Gasser B., Mirasole A., All
 
 ### <a name="In press">In press</a>
 
-Castro de la Guardia L., Bartsch I., Hop H., Niedzwiedz S., Düsedau L., Diehl N., Krause-Jensen D., Sejr M., Ager T., Gattuso J.-P., Schlegel R., Miller C., Filbee-Dexter K. & Duarte P., in press. Predicting potential Arctic kelp distribution and lower-depth biomass from seafloor irradiance. <i>Limnology and Oceanography: Methods</i>. 
-
 Jiang L.-Q., Fay A., Müller J. D., Keppler L., Carroll D., Lauvset S. K., DeVries T., Hauck J., Rödenbeck C., Gregor L., Metzl N., Fassbender A. J., Gattuso J.-P., Landschützer P., Wanninkhof R., Sabine C., Alin S. R., Hoppema M., Olsen A., Humphreys M. P., Azetsu-Scott K., Bakker D. C. E., Barbero L., Bates N. R., Besemer N., Bittig H. C., Boyd A. E., Broullón D., Cai W.-J., Carter B. R., Chau T. T. T., Chen C.-T. A., Cyr F., Dore J. E., Enochs I., Feely R. A., Garcia H. E., Gehlen M., Gloege L., González-Dávila M., Gruber N., Iida Y., Ishii M., Kennedy E., Kozyr A., Lange N., Monaco C., Manzello D. P., McKinley G. A., Monacci N. M., Padin X. A., Palacio-Castro A. M., Pérez F. F., Roobaert A., Santana-Casiano J. M., Sharp J., Adrenne Sutton A., Swift J., Tanhua T., Telszewski M., Terhaar J., van Hooidonk R., Velo A., Watson A. J., White A. E., Wu Z., Yoo H. & Zeng J., in press. Synthesis of data products for ocean carbonate chemistry. <i>Earth System Science Data Discussions</i> [<a href="https://doi.org/10.5194/essd-2025-255">Discussion paper</a>].
 
 
@@ -54,13 +52,15 @@ Boyd P., Gattuso J.-P., Legendre L., Moustakis Y. & Pongratz J., 2025. Effective
 
 Carlot J., Galobart C., Gomez-Gras D., Santamaría, Golo R., Sini M., Cebrián E., Gerovasileiou V., Ponti M., Turicchia E., Comeau S., Rilov G., Tamburello L., Pulido Mantas T., Cerrano C., Ledoux J.-B., Gattuso J.-P., Ramirez-Calero S., Millán Agudo L., Montefalcone M., Katsanevakis S., Bensoussan N., Garrabou Q. & Teixido N., 2025. Vulnerability of benthic trait diversity across the Mediterranean Sea following mass mortality events. <i>Nature Communications</i> 16:1521.  [<a href="https://doi.org/10.1038/s41467-025-55949-0">Abstract</a>].
 
+Castro de la Guardia L., Bartsch I., Hop H., Niedzwiedz S., Düsedau L., Diehl N., Krause-Jensen D., Sejr M., Ager T., Gattuso J.-P., Schlegel R., Miller C., Filbee-Dexter K. & Duarte P., 2025. Predicting potential Arctic kelp distribution and lower-depth biomass from seafloor irradiance. <i>Limnology and Oceanography: Methods</i>.  [<a href="http://doi.org/10.1002/lom3.70018">Abstract</a>]
+
 Doney S., Lebling K., Ashford O. S., Pearce C. R., Burns W., Nawaz S., Satterfield T., Findlay H. S., Gallo N. D., Gattuso J.-P., Halloran P., Ho D. T., Levin L. A., Savoldelli C., Singh P. A. & Webb R., 2025. Principles for responsible and effective marine carbon dioxide removal development and governance. Washington, DC: World Resources Institute. [<a href="https://doi.org/10.69902/84b3a9a8">Blue Paper</a>]
 
 Gattuso J.-P. & Houllier F., 2025. June 2025: Nice, capital of the world ocean. <i>Arts et Sciences</i> 9:3-8. [<a href="https://doi.org/10.21494/iste.op.2025.1287">Abstract</a>]
 
-Gattuso J.-P., Houllier F., Adams J. B., Amon D., Bambridge T., Cheung W. W. L., Chiba S., Cortés J., Duarte C. M., Frölicher T. L., Gelcich S., Gephart J., Gjerde K., Greaves D., Haugan P., Li D., Takoko M. & Tuda A., 2025. Knowledge for a thriving ocean. Paris: Iddri and Institut Jacques Delors.  [<a href="https://doi.org/10.5281/zenodo.15533851">Abstract</a>]
+Gattuso J.-P., Houllier F., Adams J. B., Amon D., Bambridge T., Cheung W. W. L., Chiba S., Cortés J., Duarte C. M., Frölicher T. L., Gelcich S., Gephart J., Gjerde K., Greaves D., Haugan P., Li D., Takoko M. & Tuda A., 2025. Knowledge for a thriving ocean. Paris: Iddri and Institut Jacques Delors. [<a href="https://doi.org/10.5281/zenodo.15533851">Abstract</a>]
 
-Gattuso J.-P., Houllier F., Adams J., Amon D., Bambridge T., Cheung W. W. L., Chiba S., Cortés J., Duarte C. M., Frölicher T. L., Gelcich S., Gjerde K., Greaves D., Haugan P., Li D. & Tuda A., 2025. US federal cuts threaten international ocean science and diplomacy. <i>Nature Ecology & Evolution</i> 9:1079-1080. [<a href="https://doi.org/10.1038/s41559-025-02750-3">Abstract</a>]
+Gattuso J.-P., Houllier F., Adams J., Amon D., Bambridge T., Cheung W. W. L., Chiba S., Cortés J., Duarte C. M., Frölicher T. L., Gelcich S., Gjerde K., Greaves D., Haugan P., Li D. & Tuda A., 2025. US federal cuts threaten international ocean science and diplomacy. <i>Nature Ecology & Evolution</i> 9:1079-1080. [<a href="https://doi.org/10.1038/s41559-025-02750-3">Paper</a>]
 
 Gattuso J.-P., Houllier F., Adams J. B., Amon D., Bambridge T., Cheung W. W. L., Chiba S., Cortés J., Duarte C. M., Frölicher T. L., Gelcich S., Gephart J., Gjerde K., Greaves D., Haugan P., Li D., Takoko M. & Tuda A., 2025. <i>Recommendations to Heads of State and Government from the One Ocean Science Congress</i>. Nice: One Ocean Science Congress. [<a href="https://doi.org/10.5281/zenodo.14361191">Abstract</a>]
 
