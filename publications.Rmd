@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Grottoli A. G., Carbonne C., Teixidó N., Comeau S., Smith A. & Gattuso J.-P., March 2026. Why are coral reefs not found in the Mediterranean? <i>Coral Reefs</i>.
 
-Lévy M., von Schuckmann K., Cheung W., Claudet J., Frölicher T. L., Guillotreau P., Haugan P., Adams J., Amon D., Bambridge T., Barzuna, C, Blanke B., Cheng L., Chiba S., Cortés J., Friedlingstein P., Gattuso J.-P., Gelcich S., Gephart J., Greaves D., Hasson A., Jolly C., Li D., Shin Y.-J., Slangen A. B. A., Takoko M., Thébaud O., Vincent A. & Vincent P., March 2026. The 2026 Starfish Barometer. <i>State of the Planet Discussions</i>.
+Lévy M., von Schuckmann K., Cheung W., Claudet J., Frölicher T. L., Guillotreau P., Haugan P., Adams J., Amon D., Bambridge T., Barzuna C., Blanke B., Cheng L., Chiba S., Cortés J., Friedlingstein P., Gattuso J.-P., Gelcich S., Gephart J., Greaves D., Hasson A., Jolly C., Li D., Shin J., Slangen A., Takoko M., Thébaud O., Vincent A. & Vincent P., March 2026. The 2026 Starfish Barometer. <i>State of the Planet Discussions</i>. [<a href="https://doi.org/10.5194/sp-2026-1">Discussion paper</a>]
 
 Veytia D., Bopp L., Marti Barclay V., Neill S., Bonnin M., Carranza D. M., Claudet J., Comte A., Mariani G., Shin Y.-J., Thébaud O., Viard F. & Gattuso J.-P., Nov. 2025. From publication to action: Connecting science, policy, and public attention for ocean-related climate mitigation. <i>npj Climate Action</i>.
 
