@@ -44,7 +44,7 @@ Kindeberg T., Teixidó N., Comeau S., Gattuso J.-P., Gasser B., Mirasole A., All
 
 ### <a name="2026">2026</a>
 
-Carlot J., Comeau S., Chiarore A., Mirasole A., Alliouane A., Micheli F., Hurd C. L., Gattuso J.-P. & Teixidó N., 2026. Unravelling marine benthic functioning shifts under ocean acidification. Ecology Letters 29:e70376. [<a href="https://doi.org/10.1111/ele.70376">Abstract</a>]
+Carlot J., Comeau S., Chiarore A., Mirasole A., Alliouane A., Micheli F., Hurd C. L., Gattuso J.-P. & Teixidó N., 2026. Unravelling marine benthic functioning shifts under ocean acidification. <i>Ecology Letters 29:e70376</i>. [<a href="https://doi.org/10.1111/ele.70376">Abstract</a>]
 
 Castro de la Guardia L., Bartsch I., Hop H., Niedzwiedz S., Düsedau L., Diehl N., Krause-Jensen D., Sejr M., Ager T., Gattuso J.-P., Schlegel R., Miller C., Filbee-Dexter K. & Duarte P., 2026. Predicting potential Arctic kelp distribution and lower-depth biomass from seafloor irradiance. <i>Limnology and Oceanography: Methods</i> 24:e70018. [<a href="https://doi.org/10.1002/lom3.70018">Abstract</a>]
 
