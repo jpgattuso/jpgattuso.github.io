@@ -1,0 +1,26 @@
+---
+title: "Products of The One Ocean Science Congress"
+description: ""
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<!-- <img style="margin:0px auto;display:block" src="images/OOSC_Logo_Date_For-light-background_cropped.png"/> -->
+<img style="width:500px;" src="images/OOSC_Logo_Date_For-light-background_cropped.png"/>
+
+<ul>
+  <li><a href="files/oosc_files/oosc-recommendations.pdf">**Recommendations to Heads of State and Government**</a>.</li>
+  <ul>
+    <li><a href="https://kdrive.infomaniak.com/app/share/209550/f8f994c4-2976-41f2-a9df-0a621634973a" target="_blank">Executive summary in the six UN languages (Arabic, Chinese, English, Spanish, French and Russian)</a></li>
+    <li><a href="https://kdrive.infomaniak.com/app/share/209550/85038bcc-934b-430d-87d0-7aedd13f8973" target="_blank">Infographic</a></li>
+    </ul>
+
+  <li><a href="files/oosc_files/oosc-urgent_call_coral_reefs.pdf">**Urgent Call for Coral Reefs**</a>.</li>
+
+  <li>
+  <li>Policy brief: Knowledge for a Thriving Ocean, published by IDDRI and the Jacques Delors Institute
+  <li>OOSC Manifesto to UNOC3 delegates
+  <li>Correspondence: "US federal cuts threaten international science and diplomacy", published in Nature Ecology & Evolution
+</ul>
