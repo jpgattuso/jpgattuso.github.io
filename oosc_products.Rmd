@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <img style="width:500px;" src="images/OOSC_Logo_Date_For-light-background_cropped.png"/>
 
 <ul>
-  <li><a href="https://doi.org/10.5281/zenodo.14361191"target="_blank">**Recommendations to Heads of State and Government**</a>.</li>
+  <li><a href="https://doi.org/10.5281/zenodo.14361191"target="_blank">Recommendations to Heads of State and Government</a>.</li>
   <ul>
     <li><a href="https://doi.org/10.5281/zenodo.15505322"target="_blank">Executive Summary in Arabic</a>.</li>
    <li><a href="https://doi.org/10.5281/zenodo.15486287"target="_blank">Executive Summary in English</a>.</li>
