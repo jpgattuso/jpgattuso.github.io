@@ -24,9 +24,9 @@ knitr::opts_chunk$set(echo = FALSE)
     <li><a href="https://kdrive.infomaniak.com/app/share/209550/85038bcc-934b-430d-87d0-7aedd13f8973" target="_blank">Infographic</a></li>
     </ul>
     
-  <li><a href="https://doi.org/10.5281/zenodo.14649769"target="_blank">Urgent Call for Coral Reefs</a>.</li>
-  <li><a href="https://doi.org/10.5281/zenodo.15533851"target="_blank">Policy brief: Knowledge for a Thriving Ocean, IDDRI and Jacques Delors Institute</a>.</li>
-    <li><a href="https://kdrive.infomaniak.com/app/share/209550/53d3d2ab-d904-4724-9740-33422d72d8b2" target="_blank">OOSC Manifesto to UNOC3 delegates</a></li>
-    <li><a href="https://doi.org/10.1038/s41559-025-02750-3"target="_blank">'US federal cuts threaten international science and diplomacy', published in Nature Ecology & Evolution</a>.</li>
+  <li><a href="https://doi.org/10.5281/zenodo.14649769"target="_blank">**Urgent Call for Coral Reefs**</a>.</li>
+  <li><a href="https://doi.org/10.5281/zenodo.15533851"target="_blank">**Policy brief**: Knowledge for a Thriving Ocean, IDDRI and Jacques Delors Institute</a>.</li>
+    <li><a href="https://kdrive.infomaniak.com/app/share/209550/53d3d2ab-d904-4724-9740-33422d72d8b2" target="_blank">**OOSC Manifesto** to UNOC3 delegates</a></li>
+    <!-- <li><a href="https://doi.org/10.1038/s41559-025-02750-3"target="_blank">'US federal cuts threaten international science and diplomacy', published in Nature Ecology & Evolution</a>.</li> -->
 </ul>
 </div>
