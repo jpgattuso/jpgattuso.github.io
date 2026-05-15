@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Veytia D., Bopp L., Marti Barclay V., Neill S., Bonnin M., Carranza D. M., Claudet J., Comte A., Mariani G., Shin Y.-J., Thébaud O., Viard F. & Gattuso J.-P., Nov. 2025. From publication to action: Connecting science, policy, and public attention for ocean-related climate mitigation. <i>npj Climate Action</i>.
 
-Veytia D., Ilosvay X. E. E., Bonnin M., Ojea E., Shinn Y.-J., Viard F., Gattuso J.-P., Bopp L., Carranza D. M., Claudet J., Thébaud O., Voolstra C. R., Sumaila U. R. & Comte A., March 2026. Climate change adaptation outcomes in marine fisheries reveal trade-offs, synergies, and a persistent reporting gap. <i>Nature Climate Change</i>.
+Veytia D., Ilosvay X. E. E., Bonnin M., Ojea E., Shinn Y.-J., Viard F., Gattuso J.-P., Bopp L., Carranza D. M., Claudet J., Thébaud O., Voolstra C. R., Sumaila U. R. & Comte A., March 2026. Climate change adaptation outcomes in marine fisheries reveal trade-offs, synergies, and a persistent reporting gap. <i>Nature and People</i>.
 
 Veytia D., Mariani G., Shin Y.-J., Bopp L., Gattuso J.-P., Bonnin M., Carranza D. M., Claudet J., Comte A., Voolstra C. R. & Viard F., Jan. 2026. Limited research on biodiversity impacts of ocean-based ‘solutions’. <i>Global Change Biology</i>.
 
