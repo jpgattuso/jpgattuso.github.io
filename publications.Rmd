@@ -18,8 +18,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Azzola A., Azzurro E., Bazairi H., Ben souissi J., Bensoussan N., Boada J., Carlot J., Cebrian E., Cerrano C., Diaz D., Farina S., Figuerola L., Figuerola B., Gambi M.-C., Garrabou J., Gattuso J.-P., Gerovasileiou V., Ghanem R., Gómez-Gras D., Grech D., Jimenez C., Jou M., Kaplan A., Katsanevakis S., Kersting D. K., Kipson S., Ledoux J.-B., Linares C., López-Sendino P., Marambio M., Margarit N., Medrano A., Millan L., Mirasole A., Montefalcone M., Ponti M., Pulido Mantas T., Ramirez-Calero S., Rilov G., Rovira G., Santamaría Pérez J., Sini M., Tamburello L., Teixidó N., Turicchia E., Vázquez-Luis M. & Zentner Y., June 2026. Accelerating marine mass mortality events in a global change hotspot. <i>Global Change Biology</i>. 
 
-Veytia D., Bopp L., Marti Barclay V., Neill S., Bonnin M., Carranza D. M., Claudet J., Comte A., Mariani G., Shin Y.-J., Thébaud O., Viard F. & Gattuso J.-P., Nov. 2025. From publication to action: Connecting science, policy, and public attention for ocean-related climate mitigation. <i>npj Climate Action</i>.
-
 Veytia D., Ilosvay X. E. E., Bonnin M., Ojea E., Shinn Y.-J., Viard F., Gattuso J.-P., Bopp L., Carranza D. M., Claudet J., Thébaud O., Voolstra C. R., Sumaila U. R. & Comte A., June 2026. Climate adaptation in marine fisheries reveals trade-offs, synergies, and reporting gaps. <i>Global Environmental Change</i>.
 
 Veytia D., Mariani G., Shin Y.-J., Bopp L., Gattuso J.-P., Bonnin M., Carranza D. M., Claudet J., Comte A., Voolstra C. R. & Viard F., June 2026. Decoupled crises: Biodiversity impacts remain under-studied across ocean-related options for climate mitigation and adaptation. <i>Cell Reports Sustainability</i>.
@@ -54,6 +52,8 @@ Lévy M., von Schuckmann K., Butel M., Cheung W. W. L., Claudet J., Frölicher T
 Pernet F., Boyd P. W., Dupont S., Gattuso J.-P., Gazeau F., Gobler C. J., Metian M., Tomasetti S. & Williamson P., 2026. Scientific evidence does not support oyster farming as a marine carbon dioxide removal strategy for climate mitigation. <i>Proceedings of the National Academy of Science U.S.A.</i> 123:e2533459123.[<a href="https://doi.org/10.1073/pnas.2533459123" target="_blank">Abstract</a>].
 
 Sanchez W., Gattuso J.-P., Houllier F. & Butel M., in press. Le congrès One Ocean Science, un éclairage scientifique pour la 3e conférence des Nations unies sur l’Océan. <i>Natures Sciences Sociétés</i> 34. [<a href="https://archimer.ifremer.fr/doc/00987/109881/">Pre-print</a>].
+
+Veytia D., Bopp L., Marti Barclay V., Neill S., Bonnin M., Carranza D. M., Claudet J., Comte A., Mariani G., Shin Y.-J., Thébaud O., Viard F. & Gattuso J.-P., Nov. 2025. From publication to action: Connecting science, policy, and public attention for ocean-related climate mitigation. <i>npj Climate Action</i>.
 
 Williamson P. W., Bednaršek N., Gattuso J.-P., Jiao N., Steenkamp R. C., Van Doorn E. & Boyd P. W., 2026. Future changes in the carbon cycle from deliberate ocean-based climate interventions. In: Robinson C., Sabine C., Lemcke S. & Isensee K. (Eds.), Integrated ocean carbon research: A vision primed for implementation, pp. 39-43. Paris: IOC of UNESCO. [<a href="https://doi.org/10.71245/fulk2623">pdf</a>].
 
