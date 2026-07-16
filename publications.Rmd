@@ -16,6 +16,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### <a name="Submitted">Submitted</a>
 
+blabla
+
 Azzola A., Azzurro E., Bazairi H., Ben souissi J., Bensoussan N., Boada J., Carlot J., Cebrian E., Cerrano C., Diaz D., Farina S., Figuerola L., Figuerola B., Gambi M.-C., Garrabou J., Gattuso J.-P., Gerovasileiou V., Ghanem R., Gómez-Gras D., Grech D., Jimenez C., Jou M., Kaplan A., Katsanevakis S., Kersting D. K., Kipson S., Ledoux J.-B., Linares C., López-Sendino P., Marambio M., Margarit N., Medrano A., Millan L., Mirasole A., Montefalcone M., Ponti M., Pulido Mantas T., Ramirez-Calero S., Rilov G., Rovira G., Santamaría Pérez J., Sini M., Tamburello L., Teixidó N., Turicchia E., Vázquez-Luis M. & Zentner Y., June 2026. Accelerating marine mass mortality events in a global change hotspot. <i>Global Change Biology</i>. 
 
 Veytia D., Ilosvay X. E. E., Bonnin M., Ojea E., Shinn Y.-J., Viard F., Gattuso J.-P., Bopp L., Carranza D. M., Claudet J., Thébaud O., Voolstra C. R., Sumaila U. R. & Comte A., June 2026. Climate adaptation in marine fisheries reveals trade-offs, synergies, and reporting gaps. <i>Global Environmental Change</i>.
