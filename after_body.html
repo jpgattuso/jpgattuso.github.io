@@ -1,0 +1,16 @@
+<script>
+window.addEventListener('load', function () {
+  document.querySelectorAll('a[href]').forEach(function (a) {
+    var url;
+    try {
+      url = new URL(a.getAttribute('href'), window.location.href);
+    } catch (e) {
+      return;
+    }
+    if (url.hostname && url.hostname !== window.location.hostname) {
+      a.setAttribute('target', '_blank');
+      a.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
+});
+</script>

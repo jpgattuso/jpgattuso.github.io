@@ -29,3 +29,6 @@ vignettes/*.pdf
 # Jean-Pierre
 .DS_Store
 .positai
+# render_site() renders every .Rmd/.md in the root, including CLAUDE.md --
+# this stray output is regenerated on every full-site build, never tracked
+CLAUDE.html

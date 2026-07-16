@@ -20,4 +20,7 @@ navbar:
     - image: images/SU.png
       href: https://www.sorbonne-universite.fr/en
 search: true
-output: distill::distill_article
+output:
+  distill::distill_article:
+    includes:
+      after_body: after_body.html

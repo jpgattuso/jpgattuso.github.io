@@ -18,6 +18,10 @@ alongside the source `.Rmd` files.
 - Render the whole site: `R -e 'rmarkdown::render_site()'` (or RStudio's Build > Build Website)
 - Render a single page: `R -e 'rmarkdown::render_site("publications.Rmd")'`
 - Requires the `rmarkdown` and `distill` R packages installed.
+- A full-site render also renders `CLAUDE.md` itself (rmarkdown's `render_site()` treats every `.Rmd`/`.md`
+  in the root as a page) and produces a stray `CLAUDE.html`; `.gitignore` already excludes it, but delete the
+  file locally after a full build (`rm CLAUDE.html`) to avoid confusion — there's no clean way to opt a `.md`
+  file out of rendering short of a leading underscore, which would break Claude Code's discovery of this file.
 
 There is no lint/test command — "correctness" here means the rendered HTML looks right and links resolve.
 
