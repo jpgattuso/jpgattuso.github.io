@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mediterranean SST Watch</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=PT+Mono&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --nav-bg:#0000ff;
+    --page-bg:#f3f5f8;
+    --card-bg:#ffffff;
+    --card-border:#e4e8ef;
+    --body-color:rgba(35,39,51,0.85);
+    --heading-color:rgba(35,39,51,0.9);
+    --title-color:#232733;
+    --accent:#2f7d77;
+    --accent-dark:#235f5a;
+    --accent-soft:#e4f2f0;
+    --rule:#e4e8ef;
+    --panel:#f7f9fb;
+    --shadow:0 1px 2px rgba(15,23,42,.06), 0 4px 14px rgba(15,23,42,.05);
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--page-bg);
+    color:var(--body-color);
+    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size:16px;
+    line-height:1.6;
+  }
+  a{color:var(--accent-dark); text-decoration:none;}
+  a:hover{color:var(--accent); text-decoration:underline;}
+  :focus-visible{outline:2px solid var(--accent); outline-offset:2px;}
+
+  /* ---------- Nav (mirrors distill-site-nav) ---------- */
+  .distill-site-nav{
+    background-color:var(--nav-bg);
+    color:rgba(255,255,255,0.8);
+    font-size:15px;
+    font-weight:300;
+  }
+  .nav-inner{
+    width:100%;
+    padding:14px 20px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:10px;
+  }
+  .nav-title{color:#ffffff; font-weight:400; letter-spacing:0.01em;}
+  .nav-links{display:flex; align-items:center; gap:22px;}
+  .nav-links a{color:rgba(255,255,255,0.8);}
+  .nav-links a:hover{color:#ffffff; text-decoration:none;}
+  .nav-logos{display:none; align-items:center; gap:14px;}
+  .nav-logos img{max-height:18px; width:auto; display:block;}
+  @media (min-width:1000px){
+    .nav-logos{display:flex;}
+  }
+
+  /* ---------- Body ---------- */
+  .wrap{max-width:1082px; margin:0 auto; padding:0 24px;}
+
+  header.hero{padding:52px 0 30px;}
+  h1{
+    color:var(--title-color);
+    font-weight:650;
+    font-size:32px;
+    margin:0 0 12px;
+  }
+  .dek{
+    max-width:680px;
+    font-size:17px;
+    color:var(--body-color);
+    margin:0;
+  }
+  .dek b{color:var(--title-color);}
+
+  /* ---------- Content card ---------- */
+  .content-card{
+    background:var(--card-bg);
+    border:1px solid var(--card-border);
+    border-radius:12px;
+    box-shadow:var(--shadow);
+    padding:1.9rem 2.2rem;
+    margin-bottom:2.5rem;
+  }
+
+  /* ---------- Filters ---------- */
+  .filters{
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px;
+    margin:0 0 6px;
+  }
+  .chip{
+    font-family:inherit;
+    font-size:13px;
+    color:#4a4a4a;
+    background:#ffffff;
+    border:1px solid #cfcfcf;
+    padding:6px 13px;
+    border-radius:3px;
+    cursor:pointer;
+  }
+  .chip:hover{border-color:var(--accent); color:var(--accent-dark);}
+  .chip[aria-pressed="true"]{
+    background:var(--accent-dark);
+    border-color:var(--accent-dark);
+    color:#ffffff;
+  }
+
+  /* ---------- Sections ---------- */
+  section.category{margin-top:44px;}
+  .cat-head{
+    display:flex;
+    align-items:baseline;
+    justify-content:space-between;
+    border-bottom:2px solid var(--accent-soft);
+    padding-bottom:8px;
+    margin-bottom:18px;
+  }
+  .cat-head h2{
+    font-size:15px;
+    letter-spacing:0.04em;
+    text-transform:uppercase;
+    color:var(--accent-dark);
+    font-weight:700;
+    margin:0;
+  }
+  .cat-count{
+    font-family:'PT Mono', monospace;
+    font-size:12px;
+    color:#8a8a8a;
+  }
+
+  .grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill, minmax(290px, 1fr));
+    gap:14px;
+  }
+
+  .card{
+    background:var(--panel);
+    border:1px solid var(--rule);
+    border-radius:6px;
+    padding:18px 20px;
+    display:flex;
+    flex-direction:column;
+    gap:8px;
+    text-decoration:none;
+    transition:border-color 0.15s ease, background 0.15s ease;
+  }
+  .card:hover, .card:focus-visible{
+    border-color:var(--accent);
+    background:var(--accent-soft);
+  }
+  .card-top{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+    gap:10px;
+  }
+  .card h3{
+    font-weight:700;
+    font-size:15.5px;
+    line-height:1.3;
+    margin:0;
+    color:var(--title-color);
+  }
+  .card:hover h3{color:var(--accent-dark); text-decoration:underline;}
+  .badge{
+    flex-shrink:0;
+    font-family:'PT Mono', monospace;
+    font-size:10px;
+    color:#6b6b6b;
+    border:1px solid #d3d3d3;
+    padding:2px 7px;
+    border-radius:3px;
+    white-space:nowrap;
+  }
+  .card p{
+    margin:0;
+    font-size:13px;
+    line-height:1.5;
+    color:#4a4a4a;
+  }
+  .card-foot{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-top:auto;
+    padding-top:4px;
+  }
+  .producer{
+    font-family:'PT Mono', monospace;
+    font-size:10.5px;
+    color:#8a8a8a;
+  }
+  .go{
+    font-family:'PT Mono', monospace;
+    font-size:11px;
+    color:var(--accent-dark);
+  }
+
+  @media (max-width:640px){
+    .nav-links{gap:14px; font-size:13px;}
+    .content-card{padding:1.4rem 1.2rem;}
+  }
+</style>
+</head>
+<body>
+
+<div class="distill-site-nav">
+  <div class="nav-inner">
+    <span class="nav-title">Jean-Pierre Gattuso</span>
+    <div class="nav-links">
+      <a href="https://jpgattuso.github.io/index.html">Home</a>
+      <a href="https://jpgattuso.github.io/research.html">Research</a>
+      <a href="https://jpgattuso.github.io/publications.html">Publications</a>
+      <a href="https://jpgattuso.github.io/cv.html">CV</a>
+      <span>Mediterranean SST Watch</span>
+      <div class="nav-logos">
+        <a href="https://cnrs.fr/en"><img src="images/CNRSfilaire-grand.jpg" alt="CNRS"></a>
+        <a href="https://www.sorbonne-universite.fr/en"><img src="images/SU.png" alt="Sorbonne Université"></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="wrap">
+  <header class="hero">
+    <h1>Mediterranean SST Watch</h1>
+    <p class="dek">A curated resource dashboard for sea surface temperature in the Mediterranean Sea: satellite products, marine heatwave trackers, climate indicators, in situ networks, and the Villefranche buoy record. <b>Nineteen sources</b>, verified August 2026.</p>
+  </header>
+
+  <div class="content-card">
+    <div class="filters" role="group" aria-label="Filter by category">
+      <button class="chip" aria-pressed="true" data-filter="all">All sources</button>
+      <button class="chip" aria-pressed="false" data-filter="satellite">Satellite &amp; model</button>
+      <button class="chip" aria-pressed="false" data-filter="mhw">Heatwave monitoring</button>
+      <button class="chip" aria-pressed="false" data-filter="local">Villefranche &amp; local</button>
+      <button class="chip" aria-pressed="false" data-filter="trends">Trends &amp; indicators</button>
+      <button class="chip" aria-pressed="false" data-filter="insitu">In situ &amp; portals</button>
+      <button class="chip" aria-pressed="false" data-filter="global">Global context</button>
+      <button class="chip" aria-pressed="false" data-filter="research">Research</button>
+    </div>
+
+    <main id="sections"></main>
+  </div>
+</div>
+
+<script>
+const data = [
+  {
+    cat:"satellite", catLabel:"Satellite & Model Analysis",
+    items:[
+      {
+        title:"Mediterranean SST — HR / UHR L4 Analysis",
+        producer:"CNR-ISMAR · Copernicus Marine Service",
+        desc:"Daily gap-free foundation SST at 1/16° and 1/100° resolution, 2008 to present, with anomaly fields referenced to the 1991–2020 baseline.",
+        badge:"Daily · 1/100°",
+        url:"https://data.marine.copernicus.eu/product/SST_MED_SST_L4_NRT_OBSERVATIONS_010_004/description"
+      },
+      {
+        title:"Mediterranean Diurnal Subskin SST",
+        producer:"Copernicus Marine Service",
+        desc:"Hourly subskin SST at 1/16° built from SEVIRI geostationary imagery and MedFS model first-guess fields, resolving diurnal warming.",
+        badge:"Hourly · 1/16°",
+        url:"https://data.marine.copernicus.eu/product/SST_MED_PHY_SUBSKIN_L4_NRT_010_036/description"
+      },
+      {
+        title:"Mediterranean SST — Reprocessed Climate Record",
+        producer:"Copernicus Marine Service (ESA CCI + C3S)",
+        desc:"Stable, optimally interpolated SST time series at 0.05° resolution, 1981 to present, developed for climate applications.",
+        badge:"1981–present · 0.05°",
+        url:"https://data.marine.copernicus.eu/product/SST_MED_SST_L4_REP_OBSERVATIONS_010_021/description"
+      },
+      {
+        title:"Mediterranean L3S Multi-Sensor SST",
+        producer:"CNR-ISMAR · Copernicus Marine Service",
+        desc:"Merged multi-sensor nighttime SST maps combining SLSTR, VIIRS, AVHRR, and SEVIRI observations at HR and UHR resolution.",
+        badge:"Daily · 1/100°",
+        url:"https://data.marine.copernicus.eu/product/SST_MED_SST_L3S_NRT_OBSERVATIONS_010_012/description"
+      }
+    ]
+  },
+  {
+    cat:"mhw", catLabel:"Marine Heatwave Monitoring",
+    items:[
+      {
+        title:"T-MEDNet Marine Heatwave Tracker at 4 km, Near Real Time",
+        producer:"ICM-CSIC · ICATMAR",
+        desc:"Near real time detection of Mediterranean marine heatwaves at 4 km resolution, built for MPA managers and stakeholders.",
+        badge:"NRT · 4 km",
+        url:"https://t-mednet.org/visualize-data/marine-heatwaves?layout=aterkia:article&id=298"
+      },
+      {
+        title:"Sub-Regional Mediterranean Marine Heatwaves — Daily Bulletin",
+        producer:"SOCIB",
+        desc:"Daily bulletin of heatwave detection by sub-basin, paired with a 10-day forecast horizon and a public dashboard.",
+        badge:"Daily · sub-basin",
+        url:"https://apps.socib.es/subregmed-marine-heatwaves/daily_bulletin.htm"
+      },
+      {
+        title:"Mediterranean Heat Waves Monitoring Service",
+        producer:"ICM-CSIC · ICATMAR",
+        desc:"Daily raw and detrended median SST for the Mediterranean, with heatwave detection following Hobday et al. (2016) and trend-correction per Martínez et al. (2023).",
+        badge:"Daily · detrended",
+        url:"https://cosmo.icm.csic.es/MMS/"
+      },
+      {
+        title:"MEDMOS — Mediterranean Monitoring System",
+        producer:"Mediterranean Center for Environmental Studies (CEAM)",
+        desc:"Basin-mean SST, SST anomaly, and marine heatwave intensity and areal extent, updated with the latest available satellite data.",
+        badge:"NRT · basin mean",
+        url:"https://medmos.eu/"
+      },
+      {
+        title:"Marine Heatwave Tracker (MHWT)",
+        producer:"Marine Heatwaves International Working Group",
+        desc:"Global near real time heatwave and cold-spell tracker built on NOAA OISST v2.1, useful for basin-to-global comparison.",
+        badge:"NRT · global",
+        url:"https://www.marineheatwaves.org/tracker.html"
+      }
+    ]
+  },
+  {
+    cat:"local", catLabel:"Villefranche & Local Time Series",
+    items:[
+      {
+        title:"EOL Buoy — SST and Marine Heatwaves, Rade de Villefranche",
+        producer:"LOV · CNRS · Sorbonne Université · COAST-HF · ILICO · IMEV",
+        desc:"Semi-hourly SST since 2013 from the EOL buoy off Villefranche-sur-Mer, with daily means, anomalies, and heatwave event statistics.",
+        badge:"Semi-hourly · since 2013",
+        url:"https://www.obs-vlfr.fr/~gazeau/Temperature_EOL_server.html"
+      }
+    ]
+  },
+  {
+    cat:"trends", catLabel:"Trends & Climate Indicators",
+    items:[
+      {
+        title:"Mediterranean SST Trend, 1982–2024",
+        producer:"Copernicus Marine Service",
+        desc:"Annual SST trend map in °C per year, derived from the reprocessed L4 record via X-11 seasonal adjustment.",
+        badge:"Annual · °C/yr",
+        url:"https://data.marine.copernicus.eu/product/MEDSEA_OMI_TEMPSAL_sst_trend/description"
+      },
+      {
+        title:"Mediterranean SST Anomaly Time Series",
+        producer:"Copernicus Marine Service",
+        desc:"Monthly, area-averaged SST anomalies since 1982, with a 24-month filtered series to isolate interannual signal.",
+        badge:"Monthly · since 1982",
+        url:"https://data.marine.copernicus.eu/product/MEDSEA_OMI_TEMPSAL_sst_area_averaged_anomalies/description"
+      },
+      {
+        title:"Mediterranean SST Extremes (99th Percentile)",
+        producer:"Copernicus Marine Service",
+        desc:"Annual 99th-percentile SST from reanalysis and multi-year products, with year-on-year anomaly comparison.",
+        badge:"Annual · extremes",
+        url:"https://data.marine.copernicus.eu/product/MEDSEA_OMI_TEMPSAL_extreme_var_temp_mean_and_anomaly/description"
+      }
+    ]
+  },
+  {
+    cat:"insitu", catLabel:"In Situ Networks & Portals",
+    items:[
+      {
+        title:"EMODnet Physics",
+        producer:"European Marine Observation and Data Network",
+        desc:"Near real time and historical in situ observations, including SST, from over 200,000 platforms across European seas.",
+        badge:"NRT · in situ",
+        url:"https://www.emodnet-physics.eu/"
+      },
+      {
+        title:"SOCIB — Balearic Islands Coastal Observing System",
+        producer:"SOCIB",
+        desc:"Regional ocean observing and forecasting infrastructure for the western Mediterranean: gliders, buoys, HF radar, models.",
+        badge:"multi-platform",
+        url:"https://www.socib.es/"
+      },
+      {
+        title:"SST Thematic Assembly Centre",
+        producer:"Copernicus Marine Service",
+        desc:"Overview and catalogue of operational SST products across European regional seas, including the Mediterranean domain.",
+        badge:"catalogue",
+        url:"https://marine.copernicus.eu/about/producers/sst-tac"
+      }
+    ]
+  },
+  {
+    cat:"global", catLabel:"Global Context",
+    items:[
+      {
+        title:"NOAA Coral Reef Watch",
+        producer:"NOAA",
+        desc:"Global daily 5 km SST and heat-stress product suite, a standard reference for bleaching-risk comparison worldwide.",
+        badge:"Daily · 5 km · global",
+        url:"https://coralreefwatch.noaa.gov/"
+      }
+    ]
+  },
+  {
+    cat:"research", catLabel:"Research Projects & Methods",
+    items:[
+      {
+        title:"CAREHeat — Detection and Threats of Marine Heatwaves",
+        producer:"ESA · CNR-ISMAR · Mercator Ocean International",
+        desc:"ESA-funded project developing detection strategies for Mediterranean heatwaves and assessing sub-surface propagation.",
+        badge:"ESA project",
+        url:"https://www.esa.int/Applications/Observing_the_Earth/Mediterranean_Sea_hit_by_marine_heatwave"
+      },
+      {
+        title:"Mediterranean Diurnal OI-SST — Method Paper",
+        producer:"Earth System Science Data (Copernicus Publications)",
+        desc:"Peer-reviewed description of the operational MED DOISST product, combining SEVIRI and MedFS via optimal interpolation.",
+        badge:"peer-reviewed",
+        url:"https://essd.copernicus.org/articles/14/4111/2022/"
+      }
+    ]
+  }
+];
+
+const main = document.getElementById('sections');
+
+data.forEach(group => {
+  const section = document.createElement('section');
+  section.className = 'category';
+  section.dataset.cat = group.cat;
+
+  const head = document.createElement('div');
+  head.className = 'cat-head';
+  head.innerHTML = `<h2>${group.catLabel}</h2><span class="cat-count">${group.items.length} source${group.items.length>1?'s':''}</span>`;
+  section.appendChild(head);
+
+  const grid = document.createElement('div');
+  grid.className = 'grid';
+
+  group.items.forEach(item => {
+    const card = document.createElement('a');
+    card.className = 'card';
+    card.href = item.url;
+    card.target = '_blank';
+    card.rel = 'noopener noreferrer';
+    card.innerHTML = `
+      <div class="card-top">
+        <h3>${item.title}</h3>
+        <span class="badge">${item.badge}</span>
+      </div>
+      <p>${item.desc}</p>
+      <div class="card-foot">
+        <span class="producer">${item.producer}</span>
+        <span class="go">Open &rarr;</span>
+      </div>
+    `;
+    grid.appendChild(card);
+  });
+
+  section.appendChild(grid);
+  main.appendChild(section);
+});
+
+const chips = document.querySelectorAll('.chip');
+chips.forEach(chip => {
+  chip.addEventListener('click', () => {
+    chips.forEach(c => c.setAttribute('aria-pressed','false'));
+    chip.setAttribute('aria-pressed','true');
+    const filter = chip.dataset.filter;
+    document.querySelectorAll('.category').forEach(sec => {
+      sec.style.display = (filter === 'all' || sec.dataset.cat === filter) ? '' : 'none';
+    });
+  });
+});
+</script>
+
+</body>
+</html>
