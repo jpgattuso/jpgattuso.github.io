@@ -3,38 +3,33 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Mediterranean SST Watch</title>
+<title>Global and Mediterranean SST Watch</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=PT+Mono&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400&family=PT+Mono&display=swap" rel="stylesheet">
 <style>
   :root{
-    --nav-bg:#0000ff;
-    --page-bg:#f3f5f8;
-    --card-bg:#ffffff;
-    --card-border:#e4e8ef;
-    --body-color:rgba(35,39,51,0.85);
-    --heading-color:rgba(35,39,51,0.9);
-    --title-color:#232733;
-    --accent:#2f7d77;
-    --accent-dark:#235f5a;
-    --accent-soft:#e4f2f0;
-    --rule:#e4e8ef;
-    --panel:#f7f9fb;
-    --shadow:0 1px 2px rgba(15,23,42,.06), 0 4px 14px rgba(15,23,42,.05);
+    --nav-bg:#0F2E3D;
+    --body-color:#383838;
+    --heading-color:rgba(0,0,0,0.85);
+    --title-color:#000000;
+    --link-color:#1a76c2;
+    --rule:#e2e2e2;
+    --panel:#fafafa;
   }
   *{box-sizing:border-box;}
   body{
     margin:0;
-    background:var(--page-bg);
+    background:#ffffff;
     color:var(--body-color);
-    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-family:'PT Serif', Georgia, serif;
     font-size:16px;
     line-height:1.6;
   }
-  a{color:var(--accent-dark); text-decoration:none;}
-  a:hover{color:var(--accent); text-decoration:underline;}
-  :focus-visible{outline:2px solid var(--accent); outline-offset:2px;}
+  a{color:var(--link-color); text-decoration:none;}
+  a:hover{text-decoration:underline;}
+  :focus-visible{outline:2px solid var(--link-color); outline-offset:2px;}
+  h1,h2,h3,.nav,.mono{font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;}
 
   /* ---------- Nav (mirrors distill-site-nav) ---------- */
   .distill-site-nav{
@@ -44,8 +39,9 @@
     font-weight:300;
   }
   .nav-inner{
-    width:100%;
-    padding:14px 20px;
+    max-width:1000px;
+    margin:0 auto;
+    padding:14px 24px;
     display:flex;
     align-items:center;
     justify-content:space-between;
@@ -53,41 +49,43 @@
     gap:10px;
   }
   .nav-title{color:#ffffff; font-weight:400; letter-spacing:0.01em;}
-  .nav-links{display:flex; align-items:center; gap:22px;}
+  .nav-links{display:flex; gap:22px;}
   .nav-links a{color:rgba(255,255,255,0.8);}
   .nav-links a:hover{color:#ffffff; text-decoration:none;}
-  .nav-logos{display:none; align-items:center; gap:14px;}
-  .nav-logos img{max-height:18px; width:auto; display:block;}
-  @media (min-width:1000px){
-    .nav-logos{display:flex;}
-  }
 
   /* ---------- Body ---------- */
-  .wrap{max-width:1082px; margin:0 auto; padding:0 24px;}
+  .wrap{max-width:1000px; margin:0 auto; padding:0 24px;}
 
-  header.hero{padding:52px 0 30px;}
+  header.hero{padding:52px 0 8px; border-bottom:1px solid var(--rule);}
   h1{
     color:var(--title-color);
-    font-weight:650;
-    font-size:32px;
+    font-weight:700;
+    font-size:34px;
     margin:0 0 12px;
   }
   .dek{
     max-width:680px;
     font-size:17px;
     color:var(--body-color);
-    margin:0;
+    margin:0 0 30px;
   }
   .dek b{color:var(--title-color);}
 
-  /* ---------- Content card ---------- */
-  .content-card{
-    background:var(--card-bg);
-    border:1px solid var(--card-border);
-    border-radius:12px;
-    box-shadow:var(--shadow);
-    padding:1.9rem 2.2rem;
-    margin-bottom:2.5rem;
+  .legend{
+    display:flex;
+    align-items:center;
+    gap:14px;
+    margin-bottom:34px;
+    font-family:'PT Mono', monospace;
+    font-size:12px;
+    color:#6b6b6b;
+  }
+  .legend-bar{
+    flex:1;
+    max-width:420px;
+    height:8px;
+    border-radius:2px;
+    background:linear-gradient(90deg,#4a7f8c 0%,#7c9b7f 40%,#b79a6e 70%,#c1673c 100%);
   }
 
   /* ---------- Filters ---------- */
@@ -95,10 +93,10 @@
     display:flex;
     flex-wrap:wrap;
     gap:8px;
-    margin:0 0 6px;
+    margin:6px 0 6px;
   }
   .chip{
-    font-family:inherit;
+    font-family:'Helvetica Neue', Arial, sans-serif;
     font-size:13px;
     color:#4a4a4a;
     background:#ffffff;
@@ -107,10 +105,10 @@
     border-radius:3px;
     cursor:pointer;
   }
-  .chip:hover{border-color:var(--accent); color:var(--accent-dark);}
+  .chip:hover{border-color:var(--link-color); color:var(--link-color);}
   .chip[aria-pressed="true"]{
-    background:var(--accent-dark);
-    border-color:var(--accent-dark);
+    background:var(--nav-bg);
+    border-color:var(--nav-bg);
     color:#ffffff;
   }
 
@@ -120,7 +118,7 @@
     display:flex;
     align-items:baseline;
     justify-content:space-between;
-    border-bottom:2px solid var(--accent-soft);
+    border-bottom:1px solid var(--rule);
     padding-bottom:8px;
     margin-bottom:18px;
   }
@@ -128,7 +126,7 @@
     font-size:15px;
     letter-spacing:0.04em;
     text-transform:uppercase;
-    color:var(--accent-dark);
+    color:var(--heading-color);
     font-weight:700;
     margin:0;
   }
@@ -147,7 +145,7 @@
   .card{
     background:var(--panel);
     border:1px solid var(--rule);
-    border-radius:6px;
+    border-radius:3px;
     padding:18px 20px;
     display:flex;
     flex-direction:column;
@@ -156,8 +154,8 @@
     transition:border-color 0.15s ease, background 0.15s ease;
   }
   .card:hover, .card:focus-visible{
-    border-color:var(--accent);
-    background:var(--accent-soft);
+    border-color:var(--link-color);
+    background:#f2f7fb;
   }
   .card-top{
     display:flex;
@@ -166,13 +164,14 @@
     gap:10px;
   }
   .card h3{
+    font-family:'Helvetica Neue', Arial, sans-serif;
     font-weight:700;
     font-size:15.5px;
     line-height:1.3;
     margin:0;
     color:var(--title-color);
   }
-  .card:hover h3{color:var(--accent-dark); text-decoration:underline;}
+  .card:hover h3{color:var(--link-color); text-decoration:underline;}
   .badge{
     flex-shrink:0;
     font-family:'PT Mono', monospace;
@@ -185,6 +184,7 @@
   }
   .card p{
     margin:0;
+    font-family:'Helvetica Neue', Arial, sans-serif;
     font-size:13px;
     line-height:1.5;
     color:#4a4a4a;
@@ -204,12 +204,30 @@
   .go{
     font-family:'PT Mono', monospace;
     font-size:11px;
-    color:var(--accent-dark);
+    color:var(--link-color);
   }
+
+  /* ---------- Footer ---------- */
+  .distill-site-footer{
+    margin-top:60px;
+    background:var(--nav-bg);
+    color:rgba(255,255,255,0.7);
+  }
+  .footer-inner{
+    max-width:1000px;
+    margin:0 auto;
+    padding:20px 24px;
+    font-family:'PT Mono', monospace;
+    font-size:11.5px;
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:8px;
+  }
+  .footer-inner a{color:rgba(255,255,255,0.85);}
 
   @media (max-width:640px){
     .nav-links{gap:14px; font-size:13px;}
-    .content-card{padding:1.4rem 1.2rem;}
   }
 </style>
 </head>
@@ -224,21 +242,15 @@
       <a href="https://jpgattuso.github.io/publications.html">Publications</a>
       <a href="https://jpgattuso.github.io/cv.html">CV</a>
       <span>Mediterranean SST Watch</span>
-      <div class="nav-logos">
-        <a href="https://cnrs.fr/en"><img src="images/CNRSfilaire-grand.jpg" alt="CNRS"></a>
-        <a href="https://www.sorbonne-universite.fr/en"><img src="images/SU.png" alt="Sorbonne Université"></a>
-      </div>
     </div>
   </div>
 </div>
 
 <div class="wrap">
   <header class="hero">
-    <h1>Mediterranean SST Watch</h1>
-    <p class="dek">A curated resource dashboard for sea surface temperature in the Mediterranean Sea: satellite products, marine heatwave trackers, climate indicators, in situ networks, and the Villefranche buoy record. <b>Twenty sources</b>, verified August 2026.</p>
-  </header>
+    <h1>Global and Mediterranean SST Watch</h1>
+    <p class="dek">A curated resource dashboard for sea surface temperature in the Mediterranean Sea: satellite products, marine heatwave trackers, climate indicators, in situ networks, and the Villefranche buoy record. <b>Twenty-one sources</b>, verified August 2026.</p>
 
-  <div class="content-card">
     <div class="filters" role="group" aria-label="Filter by category">
       <button class="chip" aria-pressed="true" data-filter="all">All sources</button>
       <button class="chip" aria-pressed="false" data-filter="satellite">Satellite &amp; model</button>
@@ -249,10 +261,11 @@
       <button class="chip" aria-pressed="false" data-filter="global">Global context</button>
       <button class="chip" aria-pressed="false" data-filter="research">Research</button>
     </div>
+  </header>
 
-    <main id="sections"></main>
-  </div>
+  <main id="sections"></main>
 </div>
+
 
 <script>
 const data = [
@@ -326,13 +339,6 @@ const data = [
         desc:"Global near real time heatwave and cold-spell tracker built on NOAA OISST v2.1, useful for basin-to-global comparison.",
         badge:"NRT · global",
         url:"https://www.marineheatwaves.org/tracker.html"
-      },
-      {
-        title:"Marine Heatwaves — Observations & Forecasts",
-        producer:"NOAA Physical Sciences Laboratory",
-        desc:"Global daily heatwave monitoring at 0.25° resolution (OISST v2), paired with experimental seasonal forecasts out to 9–11 months from the NMME ensemble.",
-        badge:"Daily + seasonal · global",
-        url:"https://psl.noaa.gov/marine-heatwaves/"
       }
     ]
   },
@@ -344,7 +350,7 @@ const data = [
         producer:"LOV · CNRS · Sorbonne Université · COAST-HF · ILICO · IMEV",
         desc:"Semi-hourly SST since 2013 from the EOL buoy off Villefranche-sur-Mer, with daily means, anomalies, and heatwave event statistics.",
         badge:"Semi-hourly · since 2013",
-        url:"https://www.obs-vlfr.fr/~gazeau/Temperature_EOL.html"
+        url:"https://www.obs-vlfr.fr/~gazeau/Temperature_EOL_server.html"
       }
     ]
   },
@@ -409,6 +415,13 @@ const data = [
         desc:"Global daily 5 km SST and heat-stress product suite, a standard reference for bleaching-risk comparison worldwide.",
         badge:"Daily · 5 km · global",
         url:"https://coralreefwatch.noaa.gov/"
+      },
+      {
+        title:"Climate Shift Index: Ocean",
+        producer:"Climate Central",
+        desc:"Daily global map attributing the influence of human-caused climate change on sea surface temperature at each location, on a 1–5 index.",
+        badge:"Daily · attribution",
+        url:"https://csi.climatecentral.org/ocean"
       }
     ]
   },
