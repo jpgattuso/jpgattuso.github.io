@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Azzola A., Azzurro E., Bazairi H., Ben souissi J., Bensoussan N., Boada J., Carlot J., Cebrian E., Cerrano C., Diaz D., Farina S., Figuerola L., Figuerola B., Gambi M.-C., Garrabou J., Gattuso J.-P., Gerovasileiou V., Ghanem R., Gómez-Gras D., Grech D., Jimenez C., Jou M., Kaplan A., Katsanevakis S., Kersting D. K., Kipson S., Ledoux J.-B., Linares C., López-Sendino P., Marambio M., Margarit N., Medrano A., Millan L., Mirasole A., Montefalcone M., Ponti M., Pulido Mantas T., Ramirez-Calero S., Rilov G., Rovira G., Santamaría Pérez J., Sini M., Tamburello L., Teixidó N., Turicchia E., Vázquez-Luis M. & Zentner Y., Aug. 2026. Accelerating marine mass mortality events in a global change hotspot. <i>Communications Earth & Environment</i>.
 
-Jiang L.-Q. & Gattuso J.-P., 2026. Unifying global ocean data: an urgent call and roadmap. <i>Earth System Science Data</i>.  [<a href="	
+Jiang L.-Q. & Gattuso J.-P., 2026. Unifying global ocean data: an urgent call and roadmap. <i>Earth System Science Data Discussions</i>.  [<a href="	
 https://doi.org/10.5194/essd-2026-650">Preprint</a>]
 
 Veytia D., Ilosvay X. E. E., Bonnin M., Ojea E., Shinn Y.-J., Viard F., Gattuso J.-P., Bopp L., Carranza D. M., Claudet J., Thébaud O., Voolstra C. R., Sumaila U. R. & Comte A., June 2026. Climate adaptation in marine fisheries reveals trade-offs, synergies, and reporting gaps. <i>Global Environmental Change</i>.
@@ -31,7 +31,7 @@ Veytia D., Mariani G., Shin Y.-J., Bopp L., Gattuso J.-P., Bonnin M., Carranza D
 
 Grottoli A. G., Carbonne C., Teixidó N., Comeau S., Smith A. & Gattuso J.-P., June 2026. Why are coral reefs not found in the Mediterranean? <i>Coral Reefs</i>.
 
-Zwerschke N., Krause-Jensen D., Barnes D. K. A., Renaud P. E., Austin W. E. N., Ardyna M., Attard K., Bluhm B. A., Comeau S., Gattuso J.-P., Hauck J., Leu E., Maar M., Oziel L., Poste A. E., Schourup-Kristensen V., Svensen C., Thyrring J. & Sejr M., June 2026. Status of polar blue carbon: towards recognition and integration in marine policy. <i>Global Change Biology</i>.
+Zwerschke N., Krause-Jensen D., Barnes D. K. A., Renaud P. E., Austin W. E. N., Ardyna M., Attard K., Bluhm B. A., Comeau S., Gattuso J.-P., Hauck J., Leu E., Maar M., Oziel L., Poste A. E., Schourup-Kristensen V., Svensen C., Thyrring J. & Sejr M., Aug. 2026. Status of polar blue carbon: towards recognition and integration in marine policy. <i>Global Change Biology</i>.
 
 ### <a name="In press">In press</a>
 
