@@ -27,13 +27,12 @@ Veytia D., Mariani G., Shin Y.-J., Bopp L., Gattuso J.-P., Bonnin M., Carranza D
 
 <p><a href="#top"><img src="images/backtotop.gif" border="0" alt="Back to Top" width="59" height="13"></a></p>
 
-### <a name="In revision">In revision</a>
+<!-- ### <a name="In revision">In revision</a> -->
 
 
 
-### <a name="In press">In press</a>
+<!-- ### <a name="In press">In press</a> -->
 
-Grottoli A. G., Carbonne C., Teixidó N., Comeau S., Smith A. & Gattuso J.-P., in press. Why are coral reefs not found in the Mediterranean? <i>Coral Reefs</i>.
 
 ### <a name="2026">2026</a>
 
@@ -42,6 +41,8 @@ Brun V., Lecerf M., Gouvello O. L., Costa I. R., Bowler C., Blasiak R., Bopp L.,
 Carlot J., Comeau S., Chiarore A., Mirasole A., Alliouane A., Micheli F., Hurd C. L., Gattuso J.-P. & Teixidó N., 2026. Unravelling marine benthic functioning shifts under ocean acidification. <i>Ecology Letters 29:e70376</i>. [<a href="https://doi.org/10.1111/ele.70376">Abstract</a>]
 
 Castro de la Guardia L., Bartsch I., Hop H., Niedzwiedz S., Düsedau L., Diehl N., Krause-Jensen D., Sejr M., Ager T., Gattuso J.-P., Schlegel R., Miller C., Filbee-Dexter K. & Duarte P., 2026. Predicting potential Arctic kelp distribution and lower-depth biomass from seafloor irradiance. <i>Limnology and Oceanography: Methods</i> 24:e70018. [<a href="https://doi.org/10.1002/lom3.70018">Abstract</a>]
+
+Grottoli A. G., Carbonne C., Teixidó N., Comeau S., Smith A. & Gattuso J.-P., 2026. Why are coral reefs not found in the Mediterranean? <i>Coral Reefs</i>. [<a href="https://doi.org/10.1007/s00338-026-02971-3">Abstract</a>]
 
 Hoffmann L., Bach L., Bauer K. W., Cross J., Ghos A., Hernández‐Ayón J. M., Kvale K., Lencina-Avila J. M., Matovu B., Shaltout N., Somorin I. A., Mafuwane H. C., Van Dam B., Abubakari M., Allela A. K., Anderson H., Arora P., Atamanchuk D., Avrutin S., Baker C. A., Bednaršek N., Bell T., Bernardello R., T B., Burfat M. A., Cassar N., Chadsey M., Chase Z., Cotovicz Jr. L. C., Croot P., da Consolação de O. Carvalho A., De Ramon N’Yeurt A., Dias-Wanigasekera B. M., Dillon W., Ellwood M., Fennel K., Gattuso J.-P., Grabb K., Halloran, Howard W., B Jaraula C. M. B., Jupesta J., Karspeck A., Keller L., Kitidis V., Law C., Liu J., Long J., López-Abbate C., Adell Magak V. B. A., Meléndez M., Mengis N., Mills R., Möller K. O., Müller J. D., Osma N., Palter J., Park K., Pearce C., Quintana C., Rackely S., Rafter P., Rengi G., Renó de Oliveira R., Ringham M., Rohr T., Sabine C., Shadwick E., Simancas-Giraldo S. M., Singh A., Subhas A., Sutton A., Swaleh M., Tamsitt V., Trucco-Pignata P., Wallace D., Wang Y., Ward W., Xie Y. & Zitoun R., 2026. Monitoring, reporting, and verification of marine carbon dioxide removal: exploring scientific consensus and divergences across continents. <i>Elementa: Science of the Anthropocene</i> 14:00113. [<a href="https://doi.org/https://doi.org/10.1525/elementa.2025.00113"> Abstract</a>].
 
@@ -53,7 +54,7 @@ Lévy M., von Schuckmann K., Butel M., Cheung W. W. L., Claudet J., Frölicher T
 
 Pernet F., Boyd P. W., Dupont S., Gattuso J.-P., Gazeau F., Gobler C. J., Metian M., Tomasetti S. & Williamson P., 2026. Scientific evidence does not support oyster farming as a marine carbon dioxide removal strategy for climate mitigation. <i>Proceedings of the National Academy of Science U.S.A.</i> 123:e2533459123.[<a href="https://doi.org/10.1073/pnas.2533459123" target="_blank">Abstract</a>].
 
-Sanchez W., Gattuso J.-P., Houllier F. & Butel M., in press. Le congrès One Ocean Science, un éclairage scientifique pour la 3e conférence des Nations unies sur l’Océan. <i>Natures Sciences Sociétés</i> 34. [<a href="https://archimer.ifremer.fr/doc/00987/109881/">Pre-print</a>].
+Sanchez W., Gattuso J.-P., Houllier F. & Butel M., 2026. Le congrès One Ocean Science, un éclairage scientifique pour la 3e conférence des Nations unies sur l’Océan. <i>Natures Sciences Sociétés</i> 34. [<a href="https://archimer.ifremer.fr/doc/00987/109881/">Pre-print</a>].
 
 Veytia D., Bopp L., Marti Barclay V., Neill S., Bonnin M., Carranza D. M., Claudet J., Comte A., Mariani G., Shin Y.-J., Thébaud O., Viard F. & Gattuso J.-P., Nov. 2025. From publication to action: Connecting science, policy, and public attention for ocean-related climate mitigation. <i>npj Climate Action</i>.
 
